@@ -33,10 +33,11 @@ jobs:
         run: node tools/fetch-crossref.mjs --rows 22
         continue-on-error: true
 
-      - name: 重建记录与静态站点
-        run: |
-          node tools/seed-records.mjs --force
-          node tools/build-static.mjs
+      # 说明：data/records.json 是仓库里的「事实来源」，由本地录入后 commit 进来。
+      # 每日任务不能重跑 tools/seed-records.mjs --force，否则会把网页上手工补录的记录整体冲掉。
+      # 种子脚本只在初始搭建 / 重建基线时手动运行。
+      - name: 生成静态站点
+        run: node tools/build-static.mjs
 
       - name: 自检（数据完整性 / 无明文密钥）
         run: node tools/verify-static.mjs
