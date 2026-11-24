@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-24T13:39:46.191Z",
+    "generatedAt": "2026-11-24T13:43:28.853Z",
     "provider": "Crossref REST API (https://api.crossref.org)",
     "license": "Crossref 元数据按开放政策提供；摘要版权归原出版方",
     "filter": "from-pub-date:2014-01-01, type:journal-article",
@@ -263,7 +263,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
-      "order": 10,
+      "order": 9,
       "rank": 5
     },
     {
@@ -293,7 +293,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
-      "order": 9,
+      "order": 11,
       "rank": 6
     },
     {
@@ -1051,7 +1051,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
-      "order": 21,
+      "order": 20,
       "rank": 32
     },
     {
@@ -1797,7 +1797,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
-      "order": 17,
+      "order": 18,
       "rank": 58
     },
     {
@@ -1827,7 +1827,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
-      "order": 16,
+      "order": 17,
       "rank": 59
     },
     {
@@ -3897,7 +3897,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
-      "order": 20,
+      "order": 19,
       "rank": 131
     },
     {
@@ -4366,7 +4366,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
-      "order": 19,
+      "order": 18,
       "rank": 147
     },
     {
@@ -4866,7 +4866,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
-      "order": 11,
+      "order": 10,
       "rank": 164
     },
     {
@@ -5094,7 +5094,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze electrochromic near infrared absorption",
-      "order": 6,
+      "order": 5,
       "rank": 172
     },
     {
@@ -5448,7 +5448,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
-      "order": 19,
+      "order": 21,
       "rank": 185
     },
     {
@@ -6595,7 +6595,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
-      "order": 18,
+      "order": 17,
       "rank": 224
     },
     {
@@ -6625,7 +6625,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
-      "order": 20,
+      "order": 19,
       "rank": 225
     },
     {
@@ -6714,7 +6714,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
-      "order": 18,
+      "order": 20,
       "rank": 228
     },
     {
@@ -7945,7 +7945,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
-      "order": 17,
+      "order": 16,
       "rank": 271
     },
     {
@@ -8796,7 +8796,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
-      "order": 14,
+      "order": 16,
       "rank": 301
     },
     {
@@ -9112,7 +9112,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
-      "order": 11,
+      "order": 12,
       "rank": 312
     },
     {
@@ -9138,7 +9138,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
-      "order": 13,
+      "order": 14,
       "rank": 313
     },
     {
@@ -9307,7 +9307,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
-      "order": 6,
+      "order": 7,
       "rank": 319
     },
     {
@@ -9334,7 +9334,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
-      "order": 14,
+      "order": 13,
       "rank": 320
     },
     {
@@ -10122,7 +10122,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
-      "order": 15,
+      "order": 14,
       "rank": 348
     },
     {
@@ -11060,7 +11060,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
-      "order": 16,
+      "order": 15,
       "rank": 381
     },
     {
@@ -11834,7 +11834,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
-      "order": 7,
+      "order": 6,
       "rank": 409
     },
     {
