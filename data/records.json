@@ -1,0 +1,4624 @@
+{
+  "meta": {
+    "version": 3,
+    "generatedAt": "2026-11-24T13:17:16.180Z",
+    "updatedAt": "2026-11-24T13:17:16.180Z",
+    "seed": "tools/seed-records.mjs + tools/seed-data-extra.mjs",
+    "accessed": "2026-11-24",
+    "count": 130,
+    "note": "全部记录来自 2026-11-24 的公开渠道逐页核验；不设价格/销量/销售额/样板工程维度，查不到的字段不做估算。"
+  },
+  "items": [
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.179Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "近红外吸收",
+        "铯钨青铜",
+        "日系原料"
+      ],
+      "specs": {
+        "注册商标": "CWO® / SOLAMENT®",
+        "产品形态": "分散液 · 分散粉 · 涂布液 · 树脂母粒",
+        "分散介质": "MIBK / 水 / PGMAC",
+        "出口管制": "日本出口管理令管制物项",
+        "公开报价": "无（需询价）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "住友金属矿山 近红外吸收材料（CWO/SOLAMENT）",
+          "url": "https://crossmining.smm.co.jp/material/nir_absorbing_materials/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "住友金属矿山株式会社",
+      "nameEn": "Sumitomo Metal Mining Co., Ltd.",
+      "country": "日本",
+      "region": "东京",
+      "role": "粉体 / 分散液 / 母粒",
+      "website": "https://crossmining.smm.co.jp/material/nir_absorbing_materials/",
+      "productHint": "CWO®（铯掺杂氧化钨）、SOLAMENT®",
+      "subs": [
+        "dc-1",
+        "dc-2",
+        "dc-3",
+        "dc-4"
+      ],
+      "summary": "全球唯一公开完整 CsₓWO₃ 产品线文档的厂商。CWO® 为其铯掺杂氧化钨注册商标，产品含 MIBK／水／PGMAC 三种溶剂体系的分散液、可炼入 PVC/PP/PET 的分散粉，以及 YMF-02A、KHF-7AH 涂布液。官网称 CWO 属自研并宣称以 ITO 约 1/10 的添加量即可取得等效近红外遮蔽。相关物项受日本出口管理令管制。",
+      "id": "co-dc-01"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "钨钼贸易",
+        "粉体"
+      ],
+      "specs": {
+        "化学式": "Cs0.33WO3",
+        "公开参数": "页面未披露"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "中钨在线 铯钨青铜产品页",
+          "url": "http://www.ctia.com.cn/product/tungsten-oxide-products/cesium-tungsten-bronze",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "厦门中钨在线科技有限公司",
+      "nameEn": "China Tungsten Online",
+      "country": "中国",
+      "region": "福建 · 厦门",
+      "role": "粉体 / 定制贸易",
+      "website": "http://www.ctia.com.cn/product/tungsten-oxide-products/cesium-tungsten-bronze",
+      "productHint": "Cs0.33WO3 目录条目",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "钨钼材料信息与贸易服务商，网站设有铯钨青铜（Cs0.33WO3）产品目录条目，可按需询价定制。页面未公开粒径、纯度、光学性能等参数。",
+      "id": "co-dc-02"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "高纯"
+      ],
+      "specs": {
+        "纯度": "≥99.99%",
+        "一次粒径": "10–50 nm（SEM）",
+        "比表面积": "20–50 m²/g",
+        "成膜VLT": "≥71%",
+        "包装": "15 kg/桶"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "宣城晶和 Jr-CW18 产品页",
+          "url": "http://www.jr05.cn/ProductInfo.aspx?PID=1341",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "宣城晶和环保新材料有限公司",
+      "country": "中国",
+      "region": "安徽 · 宣城",
+      "role": "粉体",
+      "website": "http://www.jr05.cn/ProductInfo.aspx?PID=1341",
+      "productHint": "Jr-CW18 纳米铯钨青铜粉体",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "国内纳米氧化物粉体供应商，Jr-CW18 为其铯钨青铜粉体型号，页面给出纯度、一次粒径、比表面积与成膜可见光透过率等参数，是中文侧少数公开了成膜光学指标的粉体页。",
+      "id": "co-dc-03"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "平台展示"
+      ],
+      "specs": {
+        "展示平台": "中国粉体网",
+        "参数来源": "平台页面"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "中国粉体网 宣城晶瑞企业展台",
+          "url": "http://www.cnpowder.com.cn/netshow/cp_197117.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "宣城晶瑞新材料有限公司",
+      "country": "中国",
+      "region": "安徽 · 宣城",
+      "role": "粉体",
+      "website": "http://www.cnpowder.com.cn/netshow/cp_197117.html",
+      "productHint": "铯钨青铜纳米粉体（型号同源）",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "经中国粉体网企业展台展示铯钨青铜纳米粉体，型号与晶和体系同源。两家企业的工商关联未取得官方文件，此处仅按页面信息登记，不作股权判断。",
+      "id": "co-dc-04"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "浆料原料"
+      ],
+      "specs": {
+        "纯度": "≥99.99%",
+        "一次粒径": "≈50 nm",
+        "比表面积": "20–50 m²/g",
+        "成膜VLT": "≥71%",
+        "800–2500nm透过率": "13.5%",
+        "包装": "25 kg/桶"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "中国粉体网 吉康 SS-CW20 产品页",
+          "url": "http://show.cnpowder.com.cn/zc1600/product_150069.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "杭州吉康新材料有限公司",
+      "country": "中国",
+      "region": "浙江 · 杭州",
+      "role": "粉体",
+      "website": "http://show.cnpowder.com.cn/zc1600/product_150069.html",
+      "productHint": "SS-CW20 铯钨青铜粉体",
+      "subs": [
+        "dc-1",
+        "dc-2"
+      ],
+      "summary": "SS-CW20 为纳米铯钨青铜粉体，页面公开纯度、粒径、比表面积，并给出成膜后 800–2500 nm 透过率 13.5% 的光学指标，可用于推算浆料配方添加量。",
+      "id": "co-dc-05"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "粒径分档"
+      ],
+      "specs": {
+        "粒径档位": "20±5 / 30±5 / 50±10 nm",
+        "比表面积": "≥60 / ≥40 / ≥25 m²/g",
+        "近红外吸收": ">95%",
+        "成膜VLT": ">70%",
+        "涂料添加量": "0.1–1 wt%"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "360粉体网 久泰 JT-CW 系列",
+          "url": "https://www.360powder.com/market/details/50616.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "湖州久泰陶瓷材料有限公司",
+      "country": "中国",
+      "region": "浙江 · 湖州长兴",
+      "role": "粉体",
+      "website": "https://www.360powder.com/market/details/50616.html",
+      "productHint": "JT-CW20 / JT-CW30 / JT-CW50",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "按粒径分为 20/30/50 nm 三档，页面给出比表面积、近红外吸收率与成膜透过率，并标注涂料中添加量 0.1–1 wt%，是中文侧少见的按粒径分档供货的铯钨青铜粉体页。",
+      "id": "co-dc-06"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "油性体系",
+        "参数存疑"
+      ],
+      "specs": {
+        "纯度": "99.9%",
+        "比表面积": "20–50 m²/g",
+        "红外阻隔": "95%",
+        "紫外阻隔": "52%",
+        "成膜VLT": "78%",
+        "涂膜添加量": "1–3%",
+        "粒径": "正文 20–30 nm / 参数表 30–50 nm（矛盾，待核验）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "机电之家 九朋 CY-XW30 报价页",
+          "url": "https://www.jdzj.com/jiage/5_38090165.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "杭州九朋新材料有限公司",
+      "country": "中国",
+      "region": "浙江 · 杭州",
+      "role": "粉体",
+      "website": "https://www.jdzj.com/jiage/5_38090165.html",
+      "productHint": "CY-XW30 铯钨青铜粉体",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "CY-XW30 页面给出油性涂膜添加 1–3% 时红外阻隔 95%、紫外阻隔 52%、可见光透过 78% 的实测口径，是少数直接给出涂膜级光学效果的中文页面。注意其粒径参数正文写 20–30 nm、参数表写 30–50 nm，存在自相矛盾，引用需回访核实。",
+      "id": "co-dc-07"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "贸易"
+      ],
+      "specs": {
+        "纯度": "0.99",
+        "CAS号": "189619-69-0",
+        "公开报价": "￥1000/kg（页面挂牌）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "南通众合 纳米铯钨青铜粉产品页",
+          "url": "https://www.ntzhhgxcl.com/products/show34965595.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "南通众合化工新材料有限公司",
+      "country": "中国",
+      "region": "江苏 · 南通",
+      "role": "粉体 / 贸易",
+      "website": "https://www.ntzhhgxcl.com/products/show34965595.html",
+      "productHint": "纳米铯钨青铜粉（CAS 189619-69-0）",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "自有网站在售纳米铯钨青铜粉体，标注纯度 0.99 与 CAS 号 189619-69-0，是中文侧少数给出 CAS 登记号的供应商页面。",
+      "id": "co-dc-08"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "科研供货"
+      ],
+      "specs": {
+        "纯度": "99.9%",
+        "粒度": "-200 mesh"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "LTS Research Laboratories CsWO3 产品页",
+          "url": "https://ltschem.com/product/POCSWO320003N",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "LTS Research Laboratories, Inc.",
+      "nameEn": "LTS Research Laboratories, Inc.",
+      "country": "美国",
+      "region": "纽约州",
+      "role": "粉体",
+      "website": "https://ltschem.com/product/POCSWO320003N",
+      "productHint": "CsWO3 粉体（99.9%，-200 mesh）",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "美国实验室材料供应商，目录提供铯钨青铜粉体，标注纯度 99.9%、粒度 -200 mesh，面向科研小批量供货。",
+      "id": "co-dc-09"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "下游应用",
+        "纤维"
+      ],
+      "specs": {
+        "合作形态": "三社共创",
+        "应用": "纤维 / 纺织品"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "住友金属矿山 共创案例：CWO 功能纤维",
+          "url": "https://crossmining.smm.co.jp/co-creation/nir_absorbing_materials_01/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "共同印刷株式会社",
+      "nameEn": "Kyodo Printing Co., Ltd.",
+      "country": "日本",
+      "region": "东京",
+      "role": "下游纤维 / 功能纺织品",
+      "productHint": "CWO 功能纤维（与住友金属矿山、瀧定名古屋三社共创）",
+      "subs": [
+        "dc-4"
+      ],
+      "summary": "与住友金属矿山、瀧定名古屋三社联合开发含 CWO 的功能性纤维。信息来源为住友金属矿山官网的共创案例页（三社共同发布），本条按该页面登记。",
+      "id": "co-dc-10"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "下游应用",
+        "纤维"
+      ],
+      "specs": {
+        "合作形态": "三社共创",
+        "环节": "纤维 / 纺织"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "住友金属矿山 共创案例：CWO 功能纤维",
+          "url": "https://crossmining.smm.co.jp/co-creation/nir_absorbing_materials_01/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "瀧定名古屋株式会社",
+      "nameEn": "Takisada Nagoya Co., Ltd.",
+      "country": "日本",
+      "region": "名古屋",
+      "role": "下游纤维 / 纺织品",
+      "productHint": "CWO 功能纤维（三社共创）",
+      "subs": [
+        "dc-4"
+      ],
+      "summary": "与住友金属矿山、共同印刷三社共创 CWO 功能纤维，负责纤维与纺织环节。信息来源同上（住友金属矿山官网案例页）。",
+      "id": "co-dc-11"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "待核验",
+        "线索"
+      ],
+      "specs": {
+        "核验状态": "官网抓取失败（状态码 319）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "江西善纳新材料 官网（抓取失败）",
+          "url": "https://www.jxsunnano.com/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "pending",
+      "name": "江西善纳新材料有限公司",
+      "country": "中国",
+      "region": "江西",
+      "role": "粉体（待核验）",
+      "website": "https://www.jxsunnano.com/",
+      "productHint": "纳米铯钨青铜（线索）",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "列入铯钨青铜粉体供应商线索。抓取其官网时返回自定义状态码 319、正文无法读取，故本条仅作线索登记，产品与参数均未核实。",
+      "id": "co-dc-12"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "母粒",
+        "隔热"
+      ],
+      "specs": {
+        "代表产品": "WO3-P100 蓝色纳米粉体",
+        "产品线": "粉体 / 分散液 / 隔热母粒",
+        "官网自述": "20 年功能纳米材料积累"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "沪正实业 官网",
+          "url": "http://www.chhzsy.com/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "沪正实业 WO3-P100 产品页",
+          "url": "http://chhzsy.com/product/gere/41.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "上海沪正实业有限公司",
+      "country": "中国",
+      "region": "上海 · 闵行",
+      "role": "纳米粉体 + 隔热母粒 / 分散液",
+      "website": "http://www.chhzsy.com/",
+      "productHint": "WO3-P100 蓝色纳米氧化钨、膜级/拉丝级隔热母粒",
+      "subs": [
+        "dc-1",
+        "dc-3"
+      ],
+      "summary": "国内较早做功能纳米材料与隔热母粒的企业，官网自述 20 年积累，产品含纳米 WO₃ 粉体（WO3-P100）、隔热与红外吸收系列、膜级与拉丝级母粒。此前登记的另两个域名（hznano.com / hzxcl.com.cn）解析异常，本条改以 chhzsy.com 与产品页为核实来源。",
+      "id": "co-dc-13"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "分散液",
+        "溶剂型"
+      ],
+      "specs": {
+        "溶剂": "MIBK",
+        "CAS(溶剂)": "108-10-1",
+        "固含": "未公开（需索取数据表）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "住友金属矿山 近红外吸收材料",
+          "url": "https://crossmining.smm.co.jp/material/nir_absorbing_materials/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "CWO® 分散液（MIBK 溶剂型）",
+      "nameEn": "CWO Dispersion (MIBK)",
+      "org": "住友金属矿山株式会社",
+      "form": "溶剂型分散液",
+      "subs": [
+        "dc-2"
+      ],
+      "summary": "以甲基异丁基酮（MIBK，CAS 108-10-1）为介质的铯钨青铜分散液，用于溶剂型近红外吸收涂层与膜层。属出口管理令管制物项，采购需合规审查。",
+      "id": "pd-dc-01"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "分散液",
+        "水性"
+      ],
+      "specs": {
+        "溶剂": "水",
+        "CAS(溶剂)": "7732-18-5",
+        "固含": "未公开"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "住友金属矿山 近红外吸收材料",
+          "url": "https://crossmining.smm.co.jp/material/nir_absorbing_materials/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "CWO® 分散液（水系）",
+      "nameEn": "CWO Dispersion (Water)",
+      "org": "住友金属矿山株式会社",
+      "form": "水性分散液",
+      "subs": [
+        "dc-2"
+      ],
+      "summary": "以水（CAS 7732-18-5）为介质的分散液，适配水性涂布工艺，VOC 负担低。具体固含与粒径分布需索取数据表。",
+      "id": "pd-dc-02"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "分散液",
+        "溶剂型"
+      ],
+      "specs": {
+        "溶剂": "PGMAC",
+        "CAS(溶剂)": "108-65-6",
+        "固含": "未公开"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "住友金属矿山 近红外吸收材料",
+          "url": "https://crossmining.smm.co.jp/material/nir_absorbing_materials/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "CWO® 分散液（PGMAC 溶剂型）",
+      "nameEn": "CWO Dispersion (PGMAC)",
+      "org": "住友金属矿山株式会社",
+      "form": "溶剂型分散液",
+      "subs": [
+        "dc-2"
+      ],
+      "summary": "以丙二醇甲醚醋酸酯（PGMAC，CAS 108-65-6）为介质的分散液，常用于对溶解性有要求的树脂体系。",
+      "id": "pd-dc-03"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "母粒原料"
+      ],
+      "specs": {
+        "形态": "分散粉",
+        "残留溶剂": "微量甲苯（CAS 108-88-3）",
+        "适用树脂": "PVC / PP / PET"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "住友金属矿山 近红外吸收材料",
+          "url": "https://crossmining.smm.co.jp/material/nir_absorbing_materials/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "CWO® 分散粉",
+      "nameEn": "CWO Dispersion Powder",
+      "org": "住友金属矿山株式会社",
+      "form": "粉体（含微量甲苯）",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "可直接炼入 PVC / PP / PET 等树脂的分散粉形态，官网注明含微量甲苯（CAS 108-88-3）。适合做母粒与挤出/注塑件。",
+      "id": "pd-dc-04"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂布液",
+        "近红外遮蔽"
+      ],
+      "specs": {
+        "形态": "涂布液",
+        "参数": "需下载数据表（本轮未取得）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "住友金属矿山 近红外吸收材料",
+          "url": "https://crossmining.smm.co.jp/material/nir_absorbing_materials/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "YMF-02A 涂布液",
+      "nameEn": "YMF-02A Coating Liquid",
+      "org": "住友金属矿山株式会社",
+      "form": "涂布液",
+      "subs": [
+        "dc-2",
+        "dc-3"
+      ],
+      "summary": "面向涂布工艺的成品涂布液型号，官网提供数据表下载入口。本轮仅确认型号与页面存在，光学参数需下载数据表后核实，未取到数值。",
+      "id": "pd-dc-05"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂布液"
+      ],
+      "specs": {
+        "形态": "涂布液",
+        "参数": "需下载数据表（本轮未取得）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "住友金属矿山 近红外吸收材料",
+          "url": "https://crossmining.smm.co.jp/material/nir_absorbing_materials/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "KHF-7AH 涂布液",
+      "nameEn": "KHF-7AH Coating Liquid",
+      "org": "住友金属矿山株式会社",
+      "form": "涂布液",
+      "subs": [
+        "dc-2",
+        "dc-3"
+      ],
+      "summary": "另一款涂布液型号，与 YMF-02A 并列出现在官网产品线中，面向不同基材/工艺。具体参数需索取数据表。",
+      "id": "pd-dc-06"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "母粒",
+        "PC",
+        "车用"
+      ],
+      "specs": {
+        "基材": "PC（聚碳酸酯）",
+        "形态": "练込母粒"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "住友金属矿山 近红外吸收材料",
+          "url": "https://crossmining.smm.co.jp/material/nir_absorbing_materials/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "YMDS-874 PC 树脂练込母粒",
+      "nameEn": "YMDS-874 PC Resin Compound",
+      "org": "住友金属矿山株式会社",
+      "form": "树脂母粒（PC 基）",
+      "subs": [
+        "dc-2",
+        "dc-4"
+      ],
+      "summary": "将 CWO 炼入聚碳酸酯的母粒型号，用于直接成型具有近红外遮蔽能力的透明树脂件（如车用与建筑用透明部件）。",
+      "id": "pd-dc-07"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "高纯"
+      ],
+      "specs": {
+        "纯度": "≥99.99%",
+        "一次粒径": "10–50 nm（SEM）",
+        "比表面积": "20–50 m²/g",
+        "成膜VLT": "≥71%",
+        "包装": "15 kg/桶"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "宣城晶和 Jr-CW18 产品页",
+          "url": "http://www.jr05.cn/ProductInfo.aspx?PID=1341",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "Jr-CW18 纳米铯钨青铜粉体",
+      "org": "宣城晶和环保新材料有限公司",
+      "form": "粉体",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "纯度 ≥99.99%，一次粒径 10–50 nm，比表面积 20–50 m²/g；页面给出制成膜后可见光透过率 ≥71%。15 kg/桶包装，适合涂料与浆料厂作为功能相采购。",
+      "id": "pd-dc-08"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体"
+      ],
+      "specs": {
+        "纯度": "≥99.99%",
+        "一次粒径": "≈50 nm",
+        "比表面积": "20–50 m²/g",
+        "成膜VLT": "≥71%",
+        "800–2500nm透过率": "13.5%",
+        "包装": "25 kg/桶"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "中国粉体网 吉康 SS-CW20",
+          "url": "http://show.cnpowder.com.cn/zc1600/product_150069.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "SS-CW20 铯钨青铜粉体",
+      "org": "杭州吉康新材料有限公司",
+      "form": "粉体",
+      "subs": [
+        "dc-1",
+        "dc-2"
+      ],
+      "summary": "纯度 ≥99.99%、一次粒径 ≈50 nm、比表面积 20–50 m²/g；成膜后可见光透过率 ≥71%，800–2500 nm 透过率 13.5%。25 kg/桶。",
+      "id": "pd-dc-09"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "粒径分档"
+      ],
+      "specs": {
+        "粒径": "20±5 / 30±5 / 50±10 nm",
+        "比表面积": "≥60 / ≥40 / ≥25 m²/g",
+        "近红外吸收": ">95%",
+        "成膜VLT": ">70%",
+        "涂料添加量": "0.1–1 wt%"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "360粉体网 久泰 JT-CW 系列",
+          "url": "https://www.360powder.com/market/details/50616.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "JT-CW20 / JT-CW30 / JT-CW50 铯钨青铜粉体",
+      "org": "湖州久泰陶瓷材料有限公司",
+      "form": "粉体（按粒径分三档）",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "按一次粒径 20/30/50 nm 分三档供货，对应比表面积 ≥60/≥40/≥25 m²/g；近红外吸收 >95%，成膜可见光透过 >70%，页面标注涂料添加量 0.1–1 wt%。",
+      "id": "pd-dc-10"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "参数存疑"
+      ],
+      "specs": {
+        "纯度": "99.9%",
+        "比表面积": "20–50 m²/g",
+        "红外阻隔": "95%",
+        "紫外阻隔": "52%",
+        "成膜VLT": "78%",
+        "粒径": "20–30 nm / 30–50 nm（矛盾）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "机电之家 九朋 CY-XW30",
+          "url": "https://www.jdzj.com/jiage/5_38090165.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "CY-XW30 铯钨青铜粉体",
+      "org": "杭州九朋新材料有限公司",
+      "form": "粉体",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "纯度 99.9%，比表面积 20–50 m²/g；页面给出油性涂膜添加 1–3% 时红外阻隔 95%、紫外阻隔 52%、可见光透过 78%。粒径参数正文与参数表互相矛盾（20–30 nm vs 30–50 nm），引用前需向厂家确认。",
+      "id": "pd-dc-11"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体"
+      ],
+      "specs": {
+        "化学式": "Cs0.33WO3",
+        "公开参数": "页面未披露"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "中钨在线 铯钨青铜产品页",
+          "url": "http://www.ctia.com.cn/product/tungsten-oxide-products/cesium-tungsten-bronze",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "Cs0.33WO3 铯钨青铜粉体",
+      "org": "厦门中钨在线科技有限公司",
+      "form": "粉体",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "目录型产品条目，化学式标注 Cs0.33WO3，可按需询价与定制。页面未公开粒径、纯度、分散性等关键参数。",
+      "id": "pd-dc-12"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "科研级"
+      ],
+      "specs": {
+        "纯度": "99.9%",
+        "粒度": "-200 mesh"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "LTS CsWO3 产品页",
+          "url": "https://ltschem.com/product/POCSWO320003N",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "CsWO3 铯钨青铜粉体（科研级）",
+      "org": "LTS Research Laboratories, Inc.",
+      "form": "粉体",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "面向科研小批量供货，纯度 99.9%，粒度 -200 mesh，未公开光学与分散性能参数。",
+      "id": "pd-dc-13"
+    },
+    {
+      "type": "standard",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "检测方法",
+        "光学性能"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "国家标准全文公开系统 GB/T 2680-2021",
+          "url": "https://openstd.samr.gov.cn/bzgk/std/newGbInfo?hcno=7C3C222353BC50D51B4100982CD81485",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "GB/T 2680-2021 建筑玻璃 可见光透射比、太阳光直接透射比、太阳能总透射比、紫外线透射比及有关窗参数的测定",
+      "nameEn": "GB/T 2680-2021",
+      "org": "国家市场监督管理总局 / 国家标准化管理委员会",
+      "role": "国家标准（现行）",
+      "year": "2021（发布 2021-03-09 / 实施 2021-10-01）",
+      "subs": [
+        "dc-4",
+        "dc-3"
+      ],
+      "summary": "隔热膜与隔热玻璃光学性能的核心检测方法标准，VLT、TSER、紫外线透射比等指标均按此测定。厂商宣称的透过率/阻隔率若无法标明依据本标准，可信度需打折。",
+      "id": "st-dc-01"
+    },
+    {
+      "type": "standard",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "产品标准",
+        "镀膜玻璃"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "标准信息公共服务平台 JC/T 2388-2016",
+          "url": "https://hbba.sacinfo.org.cn/stdDetail/d5904f063d337a5971cce485c7cacc7f",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "JC/T 2388-2016 自洁隔热平板镀膜玻璃",
+      "nameEn": "JC/T 2388-2016",
+      "org": "工业和信息化部（行业标准）",
+      "role": "行业标准（现行，备案号 55961-2016）",
+      "year": "2016（发布 2016-10-22 / 实施 2017-04-01）",
+      "subs": [
+        "dc-4"
+      ],
+      "summary": "面向自洁 + 隔热双重功能的平板镀膜玻璃产品标准。铯钨青铜体系若做成镀膜玻璃产品，可直接对标本标准的技术要求。",
+      "id": "st-dc-02"
+    },
+    {
+      "type": "standard",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "团体标准",
+        "涂料"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "中国玻璃网 标准发布报道",
+          "url": "https://mip.glass.com.cn/glassnews/newsinfo_232127.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "《玻璃隔热涂料质量评定标准》（团体标准）",
+      "org": "中国玻璃隔热涂料产业联盟",
+      "role": "团体标准（标准号未在公开页披露）",
+      "year": "2019（发布 2019-04-01 / 实施 2019-06-01）",
+      "subs": [
+        "dc-3"
+      ],
+      "summary": "由产业联盟牵头制定的玻璃隔热涂料质量评定标准，用于统一该类涂料的评定口径。公开报道未披露标准号，引用时需向联盟索取正式文本。",
+      "id": "st-dc-03"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "选择性发射",
+        "系统集成"
+      ],
+      "specs": {
+        "技术路线": "8–13 μm 选择性发射",
+        "产品形态": "膜 / 屋面制品 / 面板",
+        "公开参数": "未公开 R、ε、净功率"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "SkyCool Systems 官网",
+          "url": "https://www.skycoolsystems.com/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "SkyCool 技术说明",
+          "url": "https://www.skycoolsystems.com/science",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "SkyCool Systems, Inc.",
+      "nameEn": "SkyCool Systems, Inc.",
+      "country": "美国",
+      "region": "加州 · Mountain View",
+      "role": "膜材 + 整机 / 系统集成",
+      "website": "https://www.skycoolsystems.com/",
+      "productHint": "SkyCool Film / Roof / Panel",
+      "subs": [
+        "rc-4"
+      ],
+      "summary": "源自斯坦福 Raman 团队（Nature 2014 辐射制冷论文）的产业化公司，产品包括膜材、屋面制品与板式散热面板，技术路线为 8–13 μm 选择性发射，宣称美国制造、不含 PFAS、面板 15 年寿命。官网未公开 R、ε 与净制冷功率数值。",
+      "id": "co-rc-01"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "膜材",
+        "日系"
+      ],
+      "specs": {
+        "产品形态": "膜 / 磁吸片 / 篷布 / 建筑膜材",
+        "公开参数": "R、ε 未在可访问页公开"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "SPACECOOL 官网",
+          "url": "https://spacecool.jp/en/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "SPACECOOL SET100 入选公告",
+          "url": "https://spacecool.jp/en/news/20260213/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "SPACECOOL 株式会社",
+      "nameEn": "SPACECOOL INC.",
+      "country": "日本",
+      "region": "东京 · 港区",
+      "role": "膜材 / 建材膜",
+      "website": "https://spacecool.jp/",
+      "productHint": "Film / Magnet Sheet / Tarpaulin / 建筑膜材",
+      "subs": [
+        "rc-4"
+      ],
+      "summary": "日本辐射制冷膜材厂商，产品含膜、磁吸片、篷布与建筑膜材；公开的客户与伙伴包括本田、铃木、日野、JR 九州、住友电工、ENEOS、三菱瓦斯化学、近铁、Brother，并入选德国 dena 主办的 SET100。英文产品页参数本次抓取超时，R/ε 未取得。",
+      "id": "co-rc-02"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "填料",
+        "玻璃微珠"
+      ],
+      "specs": {
+        "产品": "空心玻璃微珠 S32",
+        "材质": "钠钙硼硅酸盐玻璃",
+        "中值粒径": "40 μm",
+        "密度": "0.32 g/cc",
+        "等静压强度": "13.79 MPa（80% 存留）",
+        "核验说明": "3M 官网 403，经代理页核验"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "上海晨慕颜（3M 一级代理）S32 页面",
+          "url": "https://www.shcmy.com/products/show36182638.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "3M Company",
+      "nameEn": "3M Company",
+      "country": "美国",
+      "region": "明尼苏达州",
+      "role": "填料（空心玻璃微珠）",
+      "website": "https://www.3m.com/",
+      "productHint": "3M™ 空心玻璃微珠 S32",
+      "subs": [
+        "rc-1"
+      ],
+      "summary": "以空心玻璃微珠作为辐射制冷涂料的反射/隔热填料供货。3M 官网对本次抓取返回 403，本条参数与价格经中国区一级代理页面核验，注意该填料本身并非 PDRC 专用填料，而是被用于提升屋面涂料的太阳反射。",
+      "id": "co-rc-03"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "量产"
+      ],
+      "specs": {
+        "产品": "立邦优能辐射致冷涂料",
+        "公开参数": "R、ε 未公开",
+        "应用验证": "天津厂房 / 石家庄储罐"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "进博会官网 立邦辐射致冷涂料报道",
+          "url": "https://www.ciie.org/zbh/cn/speech/foreignInvestor/20260904/63871.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "立邦（中国）",
+      "nameEn": "Nippon Paint (China)",
+      "country": "中国",
+      "region": "上海 · 日资企业",
+      "role": "涂料",
+      "website": "https://www.nipponpaint.com.cn/",
+      "productHint": "立邦优能辐射致冷涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "在第八届进博会中国首展辐射致冷涂料，宣称已本地化量产，并在天津保光汽车零部件厂房、石家庄食品油储罐完成应用验证（屋面降 29.5℃、室内降 6℃、制冷能耗最高降 37.5%）。R、ε 等材料参数未公开。",
+      "id": "co-rc-04"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "无电制冷",
+        "全产品线"
+      ],
+      "specs": {
+        "产品线": "iPaint / iFilm / i2Nano / iCoating",
+        "太阳反射率": "高达 95%（官网口径）",
+        "中红外发射率": "高达 95%（官网口径）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "i2Cool 中国站 产品页",
+          "url": "https://www.i2cool.com.cn/product",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "i2Cool iPaint 页",
+          "url": "https://www.i2cool.com.cn/i2coating/1",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "深圳市创冷科技有限公司（i2Cool Limited）",
+      "nameEn": "i2Cool Limited",
+      "country": "中国",
+      "region": "深圳南山 / 香港",
+      "role": "涂料 + 膜 + 纺织品 + 母粒",
+      "website": "https://www.i2cool.com.cn/",
+      "productHint": "iPaint / iFilm / i2Nano / i2Coating",
+      "subs": [
+        "rc-2",
+        "rc-3",
+        "rc-4"
+      ],
+      "summary": "香港城市大学团队孵化的无电制冷企业，产品线覆盖涂料（iPaint）、膜与卷材（iFilm）、粉末涂料、车窗膜、瓷砖、纺织品与尼龙母粒（i2Nano）。官网口径太阳反射率与中红外发射率均\"高达 95%\"，精确值、净功率、VOC 未公开。",
+      "id": "co-rc-05"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "膜材",
+        "标准主起草"
+      ],
+      "specs": {
+        "代表产品": "辐射制冷膜",
+        "标准": "T/ZZB 2304-2021 主起草",
+        "案例": "宁波栎社机场廊桥"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "瑞凌新能源 官网",
+          "url": "https://www.rl-cool.com/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "宁波科技局 报道",
+          "url": "https://kjj.ningbo.gov.cn/col/col1229589472/art/2026/art_428a824cafe941e695db782014b4471f.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "宁波瑞凌新能源科技有限公司",
+      "nameEn": "Ningbo Radi-Cool New Energy Technology Co., Ltd.",
+      "country": "中国",
+      "region": "浙江 · 宁波奉化",
+      "role": "膜 / 卷材 + 涂层",
+      "website": "https://www.rl-cool.com/",
+      "productHint": "Radi-Cool 辐射制冷膜",
+      "subs": [
+        "rc-4",
+        "rc-3"
+      ],
+      "summary": "国内辐射制冷膜材代表企业，T/ZZB 2304-2021《辐射致（制）冷膜》主要起草单位，产品用于宁波栎社国际机场廊桥等场景。企业副总裁对媒体表示 2026 年膜销售额\"有望超过 5000 万元\"，属预测而非实际销售额。",
+      "id": "co-rc-06"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "上市公司系",
+        "参数完整"
+      ],
+      "specs": {
+        "上市公司": "渝三峡A（000565）控股子公司",
+        "产品线": "涂料 / 膜 / 窗膜 / 光伏涂层",
+        "参数完整度": "公开 R / ε / 功率 / 附着力"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "蔚蓝时代 官网",
+          "url": "https://www.azure-era.com/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "QHN100W-T 产品页",
+          "url": "https://www.azure-era.com/product/qhn100w-t.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "重庆蔚蓝时代节能技术有限公司",
+      "nameEn": "Chongqing Azure Era Energy-saving Technology Co., Ltd.",
+      "country": "中国",
+      "region": "重庆（另有长沙基地）",
+      "role": "涂料 + 膜 / 卷材 + 窗膜",
+      "website": "https://www.azure-era.com/",
+      "productHint": "QHN100W-T 涂料 / FHN100B-T 膜 / TCHN 窗膜",
+      "subs": [
+        "rc-2",
+        "rc-3",
+        "rc-4"
+      ],
+      "summary": "渝三峡 A（000565）控股子公司，辐射制冷产品线最完整的中文企业之一，覆盖涂料、反射型膜、窗膜、光伏涂层与\"蔚蓝冰甲\"。QHN100W-T 与 FHN100B-T 均公开了反射率、发射率、制冷功率与检测依据，是当前可核查度最高的产品参数组。",
+      "id": "co-rc-07"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "铁塔采购"
+      ],
+      "specs": {
+        "太阳反射率": "≥95%（官网口径）",
+        "发射率": "≥95%（官网口径）",
+        "表面降温": "25–45℃（官网口径）",
+        "成立时间": "2025 年"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "凛能科技 官网",
+          "url": "http://linergytech.cn/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "中国铁塔采购结果公告",
+          "url": "https://ebid.chinatowercom.cn/zgtt/gggs/003004/20260302/6270eed3-582c-449d-b28a-6b822fc21b1f.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "安徽凛能科技有限公司",
+      "nameEn": "Anhui Linergy Technology Co., Ltd.",
+      "country": "中国",
+      "region": "安徽 · 淮北",
+      "role": "涂料 + 膜 + 织物",
+      "website": "http://linergytech.cn/",
+      "productHint": "零能耗辐射制冷涂层系列",
+      "subs": [
+        "rc-3",
+        "rc-4"
+      ],
+      "summary": "2025 年成立，产品含涂层、防晒霜、透射膜与织物，官网称太阳反射率 ≥95%、8–13 μm 发射率 ≥95%、表面降温 25–45℃，并称专利 30 余项。2026 年 3 月成为中国铁塔淮北市分公司辐射制冷涂层采购成交供应商。",
+      "id": "co-rc-08"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "工业防腐"
+      ],
+      "specs": {
+        "代表产品": "ZS-411",
+        "包装": "20 kg/桶",
+        "固含": "≥60%",
+        "干燥时间": "≤3 h"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "志盛威华 ZS-411 产品页",
+          "url": "https://www.hbzhan.com/st625171/product_24840552.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "北京志盛威华化工有限公司",
+      "nameEn": "Beijing ZSWH Chemical Co., Ltd.",
+      "country": "中国",
+      "region": "北京 · 通州",
+      "role": "涂料",
+      "website": "http://www.zswhtl.com.cn/",
+      "productHint": "ZS-411 辐射散热涂料 / ZS-221 反射隔热",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "工业防腐与特种涂料企业，ZS-411 为其辐射散热（辐射制冷）型涂料，20 kg/桶、总固含 ≥60%。企业明确区分 ZS-411（提高基材红外发射率）与 ZS-221（反射型）两种机理，R/ε 未公开，但有公开挂牌价。",
+      "id": "co-rc-09"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "建材网"
+      ],
+      "specs": {
+        "太阳热反射比": ">0.85",
+        "燃烧等级": "A 级不燃",
+        "色系": "全色系"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "建材网 荣力恒业 RLHY-A06",
+          "url": "https://m.bmlink.com/ronglihengye/supply-15005751.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "北京荣力恒业科技有限公司",
+      "country": "中国",
+      "region": "北京",
+      "role": "涂料",
+      "website": "https://m.bmlink.com/ronglihengye/supply-15005751.html",
+      "productHint": "RLHY-A06 辐射制冷涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "RLHY-A06 辐射制冷涂料，太阳热反射比 >0.85、A 级不燃、可做全色系，应用场景含粮仓、基站、冷链、储罐、机柜与光伏背板。发射率与净制冷功率未公开，价格电议。",
+      "id": "co-rc-10"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "工程集成",
+        "渠道"
+      ],
+      "specs": {
+        "涂料口径": "R 95% / ε 95%（企业口径）",
+        "粉末涂层": "零 VOC、RoHS/REACH（企业口径）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "江苏创冷 解决方案页",
+          "url": "https://www.jsi2cool.com/solution.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "江苏创冷科技工程有限公司",
+      "country": "中国",
+      "region": "江苏 · 无锡滨湖",
+      "role": "工程集成 / 区域渠道",
+      "website": "https://www.jsi2cool.com/",
+      "productHint": "智冷 SmartCool / 穹冷纪 QLONIX",
+      "subs": [
+        "rc-3",
+        "rc-4"
+      ],
+      "summary": "定位长三角工程应用服务中心，代理 i2Cool 体系产品并提供工程集成：智冷 SmartCool 涂料（300–2500 nm 反射 95%、8–13 μm 发射 95%）、PET 基材多功能卷材、无电制冷粉末涂层（宣称零 VOC、RoHS/REACH）。卷材厚度与附着力未公开。",
+      "id": "co-rc-11"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "央企",
+        "基站"
+      ],
+      "specs": {
+        "材料": "中建光子自清洁辐射制冷材料",
+        "公开参数": "未公开"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "国资委 视频报道",
+          "url": "http://vod.sasac.gov.cn/folder21/folder24/2025-08-14/resjAQkevX7hpym8.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "中国建筑西南设计研究院有限公司（中建西南院）",
+      "country": "中国",
+      "region": "四川 · 成都",
+      "role": "材料研发 + 工程应用",
+      "website": "",
+      "productHint": "中建光子自清洁辐射制冷材料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "以央企设计院身份做材料研发与工程落地，其\"中建光子自清洁辐射制冷材料\"用于成都世运会开幕式保障通讯基站外表面。报道只描述效果（暴晒下表面不烫手），未公开 R、ε、净功率。",
+      "id": "co-rc-12"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "专利主体",
+        "待核验"
+      ],
+      "specs": {
+        "专利": "CN116445074B",
+        "授权公告": "2024-11-23"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "金融界 专利授权报道",
+          "url": "https://finance.jrj.com.cn/2024/11/23154145612789.shtml",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "寰太科技有限公司",
+      "country": "中国",
+      "region": "注册地待核验",
+      "role": "涂料（专利主体）",
+      "website": "",
+      "productHint": "CN116445074B 无能耗辐射制冷涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "以\"一种无能耗辐射制冷涂料及其制备方法和应用\"（CN116445074B，2024-11-23 授权公告）为公开身份的技术主体。官网与英文名未核实，本条依据授权报道登记。",
+      "id": "co-rc-13"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "浆料",
+        "稀土"
+      ],
+      "specs": {
+        "专利": "CN118006158B",
+        "注册资本": "5555.56 万元"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "百家号 专利授权报道",
+          "url": "https://baijiahao.baidu.com/s?id=1822115965906166802",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "中稀易涂科技发展有限公司",
+      "country": "中国",
+      "region": "四川 · 成都",
+      "role": "浆料 / 稀土功能填料",
+      "website": "",
+      "productHint": "辐射制冷用稀土浆料（CN118006158B）",
+      "subs": [
+        "rc-2"
+      ],
+      "summary": "以稀土基辐射制冷浆料为技术方向，持有\"具有辐射制冷功能的白色染料用稀土浆料及其制备方法\"专利（CN118006158B，2025-01 授权）。浆料是辐射制冷从粉体走向涂料/膜的关键中间体，本条为国内少见的浆料环节公开主体。",
+      "id": "co-rc-14"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "标准起草",
+        "待补官网"
+      ],
+      "specs": {
+        "标准身份": "T/SXCIES 003-2026 起草单位",
+        "公开参数": "无"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "标准信息平台 T/SXCIES 003-2026",
+          "url": "https://www.spc.org.cn/online/e54352d6b1cacd8e6efd05db4dbd214a.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "武汉顺锦鸿新材料有限公司",
+      "country": "中国",
+      "region": "湖北 · 武汉",
+      "role": "材料 / 涂层",
+      "website": "",
+      "productHint": "被动式辐射制冷涂层（标准起草单位）",
+      "subs": [
+        "rc-2",
+        "rc-3"
+      ],
+      "summary": "作为 T/SXCIES 003-2026《被动式辐射制冷涂层》起草单位之一出现在标准公开页。未查到独立官网与产品页，产品参数无公开来源。",
+      "id": "co-rc-15"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "系统级",
+        "数据中心"
+      ],
+      "specs": {
+        "形态": "板式面板",
+        "传热介质": "水-乙二醇闭合回路",
+        "寿命": "15 年（官网）",
+        "R/ε": "未公开"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "SkyCool Panel 页",
+          "url": "https://www.skycoolsystems.com/panel",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "SkyCool Panel 板式辐射散热面板",
+      "org": "SkyCool Systems, Inc.",
+      "form": "板式面板（水-乙二醇闭合回路）",
+      "subs": [
+        "rc-4"
+      ],
+      "summary": "替代传统冷凝器的板式辐射散热单元，靠闭合回路把热量经 8–13 μm 窗口辐射到外太空。官网强调无风扇、仅泵功、无蒸发耗水、面板 15 年寿命，但未给出 R、ε 或净制冷功率数值。",
+      "id": "pd-rc-01"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "膜材",
+        "屋面"
+      ],
+      "specs": {
+        "形态": "多层复合膜 / 屋面制品",
+        "光学参数": "未公开"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "SkyCool 技术页",
+          "url": "https://www.skycoolsystems.com/science",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "SkyCool Film / Roof 膜材与屋面制品",
+      "org": "SkyCool Systems, Inc.",
+      "form": "多层塑料复合膜 / 屋面制品",
+      "subs": [
+        "rc-4"
+      ],
+      "summary": "多层塑料复合的辐射制冷膜与屋面制品，官网称可反射几乎全部可见光与紫外、并在大气窗口强发射。未公开反射率、发射率与功率的具体数值。",
+      "id": "pd-rc-02"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "膜材",
+        "施工友好"
+      ],
+      "specs": {
+        "形态": "膜 / 磁吸片 / 篷布 / 膜材",
+        "参数": "未取得（页面超时）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "SPACECOOL 产品页",
+          "url": "https://spacecool.jp/en/product/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "SPACECOOL Film / Magnet Sheet / Tarpaulin / 建筑膜材",
+      "org": "SPACECOOL 株式会社",
+      "form": "膜 / 磁吸片 / 篷布 / 建筑膜材",
+      "subs": [
+        "rc-4"
+      ],
+      "summary": "以膜材为核心的辐射制冷产品族，含可直接吸附施工的磁吸片、临时结构用篷布与建筑膜材。英文产品页本次抓取超时，参数未取得，仅确认产品形态与客户名单。",
+      "id": "pd-rc-03"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "填料",
+        "通用型"
+      ],
+      "specs": {
+        "材质": "钠钙硼硅酸盐玻璃",
+        "中值粒径": "40 μm",
+        "密度": "0.32 g/cc",
+        "等静压强度": "13.79 MPa（80% 存留）",
+        "包装": "249 kg"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "3M 一级代理 S32 页面",
+          "url": "https://www.shcmy.com/products/show36182638.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "3M™ 空心玻璃微珠 S32",
+      "org": "3M Company",
+      "form": "填料（薄壁中空玻璃微球）",
+      "subs": [
+        "rc-1"
+      ],
+      "summary": "钠钙硼硅酸盐薄壁空心玻璃微球，中值粒径 40 μm、密度 0.32 g/cc、13.79 MPa 等静压下 80% 存留，249 kg 包装。用于屋面涂料可增强太阳反射，但它本身是通用轻质填料，不是 PDRC 专用功能填料，参数不可直接当作辐射制冷性能指标。",
+      "id": "pd-rc-04"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "量产"
+      ],
+      "specs": {
+        "形态": "涂料",
+        "量产状态": "已本地化量产（企业口径）",
+        "R/ε": "未公开"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "进博会官网 立邦报道",
+          "url": "https://www.ciie.org/zbh/cn/speech/foreignInvestor/20260904/63871.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "立邦优能辐射致冷涂料",
+      "org": "立邦（中国）",
+      "form": "涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "2026 年进博会中国首展并宣称已本地化量产，在天津保光厂房与石家庄储罐完成应用验证。材料级 R、ε、净功率未公开，但工程实测温降数据完整（屋面降 29.5℃、室内降 6℃）。",
+      "id": "pd-rc-05"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "建筑"
+      ],
+      "specs": {
+        "太阳反射率": "高达 95%（官网）",
+        "中红外发射率": "高达 95%（官网）",
+        "精确参数": "未公开"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "i2Cool iPaint 页",
+          "url": "https://www.i2cool.com.cn/i2coating/1",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "iPaint 无电制冷涂层",
+      "org": "深圳市创冷科技有限公司",
+      "form": "涂料（高分子 + 无机颗粒）",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "官网口径太阳光反射率与中红外辐射率均\"高达 95%\"，是创冷的主打建筑涂料。R/ε 精确值、净制冷功率、VOC、附着力均未公开，工程效果以案例形式披露。",
+      "id": "pd-rc-06"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "膜材",
+        "卷材"
+      ],
+      "specs": {
+        "形态": "膜 / 卷材 / 粉末 / 车窗膜",
+        "精确参数": "未公开"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "i2Cool 产品总览",
+          "url": "https://www.i2cool.com.cn/product",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "iFilm 膜 / 无电制冷卷材 / 粉末涂层系列",
+      "org": "深圳市创冷科技有限公司",
+      "form": "膜 / 卷材 / 粉末涂层 / 车窗膜",
+      "subs": [
+        "rc-4",
+        "rc-2"
+      ],
+      "summary": "创冷的膜与卷材产品族，含建筑卷材、车窗膜、瓷砖与纺织品形态；另有零 VOC 粉末涂层用于金属基材。除 iPaint 的 95%/95% 口径外，各品精确参数未公开。",
+      "id": "pd-rc-07"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "参数完整",
+        "报价存疑"
+      ],
+      "specs": {
+        "太阳光反射比": "93.0%（JG/T 235-2014）",
+        "8–13μm发射率": "98.0%（T/ZZB 2304）",
+        "辐射制冷功率": "154 W/m²",
+        "附着力": "1 级（GB/T 9286-1998）",
+        "特性": "超疏水自清洁",
+        "报价": "页面自相矛盾，不可引用"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "蔚蓝 QHN100W-T 产品页",
+          "url": "https://www.azure-era.com/product/qhn100w-t.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "QHN100W-T 水性辐射制冷涂料",
+      "org": "重庆蔚蓝时代节能技术有限公司",
+      "form": "水性涂料（底/中/面成套）",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "当前可核查度最高的国产辐射制冷涂料之一：太阳光反射比 93.0%（JG/T 235-2014）、8–13 μm 发射率 98.0%（T/ZZB 2304）、辐射制冷功率 154 W/m²、附着力 1 级（GB/T 9286-1998），超疏水自清洁。注意其页面同时出现\"72000 元/㎡\"与\"3 桶一组可涂 25㎡ 合计 180 万元\"的自相矛盾报价，疑为单位标注错误，不可作单价引用。",
+      "id": "pd-rc-08"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "膜材",
+        "参数完整"
+      ],
+      "specs": {
+        "太阳光反射比": "98.0%（JG/T 235-2014）",
+        "8–13μm发射率": "98.0%（T/ZZB 2304）",
+        "辐射制冷功率": "151 W/m²",
+        "规格": "1 m × 21 m × 900 μm",
+        "检测依据": "GB/T 6672 / GB/T 6673"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "蔚蓝 FHN100B-T 产品页",
+          "url": "https://www.azure-era.com/product/fhn100b-t.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "FHN100B-T 反射型辐射制冷膜",
+      "org": "重庆蔚蓝时代节能技术有限公司",
+      "form": "膜 / 卷材（无机材料，900 μm）",
+      "subs": [
+        "rc-4"
+      ],
+      "summary": "无机材料体系反射型辐射制冷膜，规格 1 m × 21 m、厚 900 μm、宽幅 100 cm；反射比 98.0%、8–13 μm 发射率 98.0%、辐射制冷功率 151 W/m²，厚度与宽幅分别按 GB/T 6672-2001、GB/T 6673-2001 检测。",
+      "id": "pd-rc-09"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "厂商自测"
+      ],
+      "specs": {
+        "反射率": "≥95%（0.3–2.5 μm）",
+        "发射率": "≥95%（8–13 μm）",
+        "表面降温": "25–45℃（厂商口径）",
+        "内部降温": "7–15℃（厂商口径）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "凛能科技 官网",
+          "url": "http://linergytech.cn/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "零能耗辐射制冷涂层系列（含透射膜 / 织物 / 防晒霜）",
+      "org": "安徽凛能科技有限公司",
+      "form": "涂料 / 膜 / 织物",
+      "subs": [
+        "rc-3",
+        "rc-4"
+      ],
+      "summary": "企业口径：0.3–2.5 μm 反射率 ≥95%、8–13 μm 发射率 ≥95%，并在 2.5–8 μm 保持低发射；表面降温 25–45℃、内部 7–15℃。净功率、VOC、附着力未公开，上述降温幅度为厂商自测口径。",
+      "id": "pd-rc-10"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "工业"
+      ],
+      "specs": {
+        "包装": "20 kg/桶",
+        "固含": "≥60%",
+        "干燥时间": "≤3 h",
+        "保质期": "1 年",
+        "R/ε": "未公开"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "志盛威华 ZS-411 产品页",
+          "url": "https://www.hbzhan.com/st625171/product_24840552.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "ZS-411 辐射散热（辐射制冷）涂料",
+      "org": "北京志盛威华化工有限公司",
+      "form": "涂料（20 kg/桶，白色）",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "以提升基材红外发射率为机理的辐射散热涂料，与同厂 ZS-221 反射型隔热涂料路线不同。总固含 ≥60%、表干 ≤3 h、保质 1 年；R、ε、净功率未公开，但有公开挂牌价（33 元/kg）。",
+      "id": "pd-rc-11"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "粮油仓储"
+      ],
+      "specs": {
+        "太阳热反射比": ">0.85",
+        "燃烧等级": "A 级不燃",
+        "色系": "全色系"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "建材网 荣力恒业 RLHY-A06",
+          "url": "https://m.bmlink.com/ronglihengye/supply-15005751.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "RLHY-A06 辐射制冷涂料",
+      "org": "北京荣力恒业科技有限公司",
+      "form": "涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "太阳热反射比 >0.85、A 级不燃、全色系可选，场景覆盖粮仓、基站、冷链、储罐、机柜与光伏背板。发射率与净制冷功率未公开，价格电议。",
+      "id": "pd-rc-12"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "工程渠道",
+        "卷材"
+      ],
+      "specs": {
+        "涂料口径": "R 95% / ε 95%（企业口径）",
+        "卷材基材": "PET"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "江苏创冷 解决方案",
+          "url": "https://www.jsi2cool.com/solution.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "智冷 SmartCool 涂料 / PET 基材多功能卷材",
+      "org": "江苏创冷科技工程有限公司",
+      "form": "涂料 + 卷材",
+      "subs": [
+        "rc-3",
+        "rc-4"
+      ],
+      "summary": "工程渠道品牌\"智冷 SmartCool\"，涂料口径为 300–2500 nm 反射 95% + 8–13 μm 发射 95%；另有 PET 基材多功能卷材与\"穹冷纪 QLONIX\"品牌。卷材厚度、附着力、VOC 具体值未公开。",
+      "id": "pd-rc-13"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "央企",
+        "自清洁"
+      ],
+      "specs": {
+        "特性": "自清洁 + 辐射制冷",
+        "公开参数": "无"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "国资委 报道",
+          "url": "http://vod.sasac.gov.cn/folder21/folder24/2025-08-14/resjAQkevX7hpym8.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "中建光子自清洁辐射制冷材料",
+      "org": "中国建筑西南设计研究院有限公司",
+      "form": "涂料（自清洁 + 辐射制冷一体）",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "把自清洁与辐射制冷做成一体的功能材料，2025 年 8 月用于成都世运会开幕式保障通讯基站外表面。报道只描述\"暴晒下表面不烫手\"，无 R/ε/功率与温降数值。",
+      "id": "pd-rc-14"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "浆料",
+        "稀土"
+      ],
+      "specs": {
+        "专利": "CN118006158B（2025-01 授权）",
+        "形态": "稀土功能浆料",
+        "公开参数": "未公开"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "百家号 专利授权报道",
+          "url": "https://baijiahao.baidu.com/s?id=1822115965906166802",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "辐射制冷功能白色染料用稀土浆料",
+      "org": "中稀易涂科技发展有限公司",
+      "form": "浆料（稀土基功能填料分散体）",
+      "subs": [
+        "rc-2"
+      ],
+      "summary": "专利 CN118006158B 对应的稀土浆料产品方向，用于白色染料/涂料体系引入辐射制冷功能。浆料环节是辐射制冷从粉体走向涂布的关键中间体，国内公开主体极少，本条仅有专利与授权报道可核。",
+      "id": "pd-rc-15"
+    },
+    {
+      "type": "standard",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "团体标准",
+        "膜材"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "标准信息平台 T/ZZB 2304-2021",
+          "url": "https://www.spc.org.cn/online/2f30eceed098db6064927ef458bf783d.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "T/ZZB 2304-2021 辐射致（制）冷膜",
+      "nameEn": "T/ZZB 2304-2021",
+      "org": "浙江省质量协会（宁波瑞凌新能源科技主起草）",
+      "role": "团体标准（发布 2021-08-26 / 实施 2021-09-26）",
+      "year": "2021",
+      "subs": [
+        "rc-4"
+      ],
+      "summary": "国内辐射制冷膜的首个团体标准，主要起草单位为宁波瑞凌新能源科技，参与方含上海瑞凌、中国建材检验认证集团、森特士兴、安徽墙煌彩铝、宁波机场与物流园区投资发展、华中科技大学。蔚蓝 FHN100B-T 的发射率即按本标准检测。",
+      "id": "st-rc-01"
+    },
+    {
+      "type": "standard",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "团体标准",
+        "涂料"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "标准信息平台 T/SXCIES 003-2026",
+          "url": "https://www.spc.org.cn/online/e54352d6b1cacd8e6efd05db4dbd214a.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "T/SXCIES 003-2026 被动式辐射制冷涂层",
+      "nameEn": "T/SXCIES 003-2026",
+      "org": "山西省化工学会（起草含天府兴隆湖实验室、香港理工大学、深圳创冷、北京工业大学等）",
+      "role": "团体标准（发布 2026-05-07）",
+      "year": "2026",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "辐射制冷涂层的团体标准，起草单位横跨实验室、高校与企业（天府兴隆湖实验室、香港理工大学建筑环境及能源工程学系、深圳市创冷科技、广州市香港科大霍英东研究院、北京工业大学、武汉顺锦鸿新材料等）。",
+      "id": "st-rc-02"
+    },
+    {
+      "type": "standard",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "团体标准",
+        "待核验"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "全国团体标准平台（403）",
+          "url": "https://www.ttbz.org.cn/standardDetail/43b24dca6bc849deb28fc8a00271cdb6.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "pending",
+      "name": "T/GDQBA 17—2026 辐射制冷涂层材料通用技术要求",
+      "nameEn": "T/GDQBA 17-2026",
+      "org": "待核验",
+      "role": "团体标准（标准平台页面 403，未一手核验）",
+      "year": "2026",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "标准号来自检索摘要，全国团体标准平台详情页对本次抓取返回 403，未能读到正文，故标为待核验。若需引用请先取得标准正式文本。",
+      "id": "st-rc-03"
+    },
+    {
+      "type": "standard",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "行业标准",
+        "检测依据"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "标准引用信息",
+          "url": "https://normenportal.org/1538986524.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "蔚蓝 QHN100W-T 检测依据",
+          "url": "https://www.azure-era.com/product/qhn100w-t.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "JG/T 235-2014 建筑反射隔热涂料",
+      "nameEn": "JG/T 235-2014",
+      "org": "住房和城乡建设部（行业标准）",
+      "role": "行业标准（辐射制冷涂料的常用检测依据）",
+      "year": "2014",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "建筑反射隔热涂料的行业标准，被 T/ZZB 2304-2021 列为规范性引用，也是蔚蓝 QHN100W-T 太阳光反射比的检测依据。注意它针对\"反射隔热\"，不完全等同于辐射制冷。",
+      "id": "st-rc-04"
+    },
+    {
+      "type": "standard",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "国家标准",
+        "引用"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "标准引用信息",
+          "url": "https://normenportal.org/1538986524.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "GB/T 25261-2018 建筑用反射隔热涂料",
+      "nameEn": "GB/T 25261-2018",
+      "org": "国家标准化管理委员会",
+      "role": "国家标准（被 T/ZZB 2304-2021 引用）",
+      "year": "2018",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "建筑用反射隔热涂料国标，被辐射制冷膜团标列为规范性引用文件，用于界定太阳反射相关的术语与试验方法。",
+      "id": "st-rc-05"
+    },
+    {
+      "type": "standard",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "行业标准",
+        "节能检测"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "标准引用信息",
+          "url": "https://normenportal.org/1538986524.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "JGJ/T 287-2014 建筑反射隔热涂料节能检测标准",
+      "nameEn": "JGJ/T 287-2014",
+      "org": "住房和城乡建设部",
+      "role": "行业标准（节能检测，被 T/ZZB 2304-2021 引用）",
+      "year": "2014",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "建筑反射隔热涂料的节能检测标准，被辐射制冷膜团标引用，用于把材料光学参数换算到建筑节能效果。",
+      "id": "st-rc-06"
+    },
+    {
+      "type": "standard",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "专利",
+        "涂料"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "金融界 专利授权报道",
+          "url": "https://finance.jrj.com.cn/2024/11/23154145612789.shtml",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "CN116445074B 一种无能耗辐射制冷涂料及其制备方法和应用",
+      "nameEn": "CN116445074B",
+      "org": "寰太科技有限公司",
+      "role": "发明专利（申请 2023-04，授权公告 2024-11-23）",
+      "year": "2024",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "辐射制冷涂料方向的授权发明专利，专利权人为寰太科技。本条依据授权公告报道登记，专利全文本次未取得。",
+      "id": "st-rc-07"
+    },
+    {
+      "type": "standard",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "专利",
+        "车用",
+        "膜材"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "金融界 专利授权报道",
+          "url": "https://m.jrj.com.cn/madapter/finance/2025/04/19084249679212.shtml",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "CN118064066B 一种高光谱选择性的辐射制冷汽车天窗膜及其制备方法",
+      "nameEn": "CN118064066B",
+      "org": "重庆蔚蓝时代节能技术有限公司",
+      "role": "发明专利（申请 2024-01，授权 2025-04）",
+      "year": "2025",
+      "subs": [
+        "rc-4"
+      ],
+      "summary": "面向汽车天窗的高光谱选择性辐射制冷膜专利，专利权人为蔚蓝时代。说明辐射制冷膜正在向车用细分场景延伸。",
+      "id": "st-rc-08"
+    },
+    {
+      "type": "standard",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "专利",
+        "浆料",
+        "稀土"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "百家号 专利授权报道",
+          "url": "https://baijiahao.baidu.com/s?id=1822115965906166802",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "CN118006158B 具有辐射制冷功能的白色染料用稀土浆料及其制备方法",
+      "nameEn": "CN118006158B",
+      "org": "中稀易涂科技发展有限公司",
+      "role": "发明专利（申请 2024-01，授权 2025-01）",
+      "year": "2025",
+      "subs": [
+        "rc-2"
+      ],
+      "summary": "稀土基辐射制冷浆料专利，对应涂料/染料体系的功能填料分散环节。国内浆料环节公开专利较少，本条是少见的中间体层面技术公开。",
+      "id": "st-rc-09"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "钨系全谱",
+        "替代技术"
+      ],
+      "specs": {
+        "代表产品": "CTO 铯钨青铜粉体（80–100nm / 100–200nm）",
+        "同厂其他": "WO₃ / WO₂.₇₂ / WO₂.₉ / 钨酸 / 纳米钨粉",
+        "替代技术线": "VO₂、W-VO₂、AZO"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "宏武纳米 CTO 产品页",
+          "url": "http://www.xuzhounano.com/products/show-742.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "宏武纳米 隔热材料专栏（VO₂/AZO）",
+          "url": "http://www.xuzhounano.com/news/362.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "广州宏武材料科技有限公司",
+      "nameEn": "Guangzhou Hongwu Material Technology Co., Ltd.",
+      "country": "中国",
+      "region": "广东 · 广州黄埔",
+      "role": "纳米粉体 + 分散液生产商",
+      "website": "http://www.xuzhounano.com/",
+      "productHint": "CTO 铯钨青铜粉体/分散液；另有 WO₃、WO₂.₇₂、WO₂.₉、纳米钨粉",
+      "subs": [
+        "dc-1",
+        "dc-2"
+      ],
+      "summary": "品牌\"宏武纳米\"，产品线同时覆盖钨系纳米粉体（WO₃、WO₂.₇₂、WO₂.₉、钨酸、纳米钨粉）与铯钨青铜 CTO 粉体/分散液，是国内少数把钨系全谱做齐的粉体厂。官网另设隔热材料专栏，专门讲 VO₂、W-VO₂（掺杂钨降低相变温度）与 AZO 隔热路线，是\"铯钨青铜不是唯一解\"的直接书证。",
+      "id": "co-dc-14"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "ATO",
+        "竞争格局"
+      ],
+      "specs": {
+        "代表产品": "HN-CW30（30nm）/ HN-CW50（50nm）",
+        "双线布局": "铯钨青铜 + 纳米 ATO",
+        "官网原文要点": "ATO / ITO / LaB₆ / CsₓWO₃ 四条近红外吸收路线并存"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "盈承新材料 铯钨青铜粉体页",
+          "url": "https://www.shycnano.com/swqt/swqtf.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "上海盈承新材料有限公司",
+      "country": "中国",
+      "region": "上海 · 奉贤",
+      "role": "纳米氧化物粉体（CsₓWO₃ + ATO 双线）",
+      "website": "http://www.shycnano.com/",
+      "productHint": "HN-CW30 / HN-CW50 铯钨青铜粉；纳米 ATO 抗静电系列",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "同时供应铯钨青铜与锑掺杂二氧化锡（ATO）两条近红外吸收线，官网明确写出行业主流做法：把 ATO、ITO、六硼化镧（LaB₆）或铯钨青铜纳米颗粒加入树脂，或先涂布到 PET 膜上，或做成 PVB/EVA 塑胶片再与钢化玻璃复合。这段原文比任何二手总结都更能说明\"四种材料并存竞争\"的格局。",
+      "id": "co-dc-15"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "晶瑞体系"
+      ],
+      "specs": {
+        "代表产品": "JR-CW50",
+        "体系关系": "宣城晶瑞新材料特设事业部（企业自述）",
+        "涂布参考": "每㎡添加约 2 g"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "智钛纳微 JR-CW50 产品页",
+          "url": "http://www.ztjhkj.cn/products/products_611.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "浙江智钛纳微新材料有限公司",
+      "country": "中国",
+      "region": "浙江 · 杭州拱墅",
+      "role": "纳米新材料应用推广（宣城晶瑞事业部）",
+      "website": "http://www.ztjhkj.cn/",
+      "productHint": "JR-CW50 纳米铯钨青铜粉",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "页面自述为宣城晶瑞新材料的特设事业部，负责纳米材料的应用推广，与晶和/晶瑞体系同源。JR-CW50 给出了可直接换算成涂层配方的数据：每平方米涂层添加约 2 g，即可让 950–1400 nm 透过率降到 10% 以下，同时 550 nm 保持 70% 以上。",
+      "id": "co-dc-16"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "窗膜品牌",
+        "下游",
+        "配方未公开"
+      ],
+      "specs": {
+        "技术品牌": "XIR™ / 纳米陶瓷膜",
+        "UV 阻隔": "≥99%（官网口径）",
+        "成分": "未公开配方"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "威固中国 产品页",
+          "url": "https://www.v-kool.cn/index.php/product/shop.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "首诺国际贸易（上海）有限公司（威固 V-KOOL 中国）",
+      "nameEn": "V-KOOL China (Eastman)",
+      "country": "中国",
+      "region": "上海 · 浦东",
+      "role": "下游窗膜品牌运营",
+      "website": "https://www.v-kool.cn/",
+      "productHint": "威固 XIR™ 技术、纳米陶瓷膜（VDE / 闪电威系列）",
+      "subs": [
+        "dc-4"
+      ],
+      "summary": "伊士曼（Eastman）旗下窗膜品牌威固的中国运营主体，官网主打 XIR™ 技术与\"纳米陶瓷膜\"，并挂有国检集团（CTC）权威评测入口。需要注意：官网只写\"纳米陶瓷/信号不影响\"，**未公开配方**，是否采用铯钨青铜或 ATO 无法从公开页面确认，本条仅确认其市场位置与技术宣称。",
+      "id": "co-dc-17"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "检测机构",
+        "央企",
+        "参数可信度"
+      ],
+      "specs": {
+        "资质": "国家建筑材料工业电子玻璃及智能玻璃质量监督检验评价中心",
+        "覆盖参数": "光学 / 热学 / 耐久性等 100 余项"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "国检集团 电子玻璃与智能玻璃中心",
+          "url": "https://www.ctc.ac.cn/art/2026/1/9/art_28_5811.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "中国国检测试控股集团股份有限公司（国检集团 CTC）",
+      "nameEn": "China Testing & Certification International Group Co., Ltd.",
+      "country": "中国",
+      "region": "北京",
+      "role": "第三方检验检测 / 认证机构",
+      "website": "https://www.ctc.ac.cn/",
+      "productHint": "国家建筑材料工业电子玻璃及智能玻璃（器件）质量监督检验评价中心",
+      "subs": [
+        "dc-3",
+        "dc-4"
+      ],
+      "summary": "央企背景的第三方检验认证机构，下设国家建筑材料工业电子玻璃及智能玻璃（器件）质量监督检验评价中心，覆盖光学、热学、耐久性等百余项参数。隔热膜/隔热玻璃厂商宣称的 VLT、TSIR、耐候数据，若由 CTC 出具报告才具备可比性——这也是判断一个\"隔热参数\"是否可信的实操口径。",
+      "id": "co-dc-18"
+    },
+    {
+      "type": "company",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "检测机构",
+        "玻璃光学"
+      ],
+      "specs": {
+        "检测能力": "可见光/太阳能透射比、遮阳系数等",
+        "主要依据标准": "GB/T 2680-2021、GB/T 22476-2008、JGJ/T 151-2008"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "CTC 苏州 检测能力页",
+          "url": "http://ctcsz.com/page.asp?cid=25",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "中国建材检验认证集团苏州有限公司（CTC 苏州）",
+      "country": "中国",
+      "region": "江苏 · 苏州",
+      "role": "第三方建材 / 玻璃检测机构",
+      "website": "http://www.ctcsz.com/",
+      "productHint": "建筑玻璃光学性能检测（可见光透射比/反射比、遮阳系数等）",
+      "subs": [
+        "dc-3",
+        "dc-4"
+      ],
+      "summary": "专注建材与玻璃检测的第三方机构，公开的检测能力覆盖可见光透射比与反射比、太阳光直接透射比/反射比/吸收比、太阳能总透射比、遮阳系数，并列出 GB/T 2680-2021、GB/T 22476-2008、JGJ/T 151-2008 等依据标准。做产品对比前先确认对方报告是否出自这类机构，比看宣传页参数更靠得住。",
+      "id": "co-dc-19"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "30nm"
+      ],
+      "specs": {
+        "外观": "蓝黑色粉末",
+        "纯度": "99.9%",
+        "粒径": "30 nm",
+        "比表面积": "20–50 m²/g",
+        "包装": "20 kg/桶"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "盈承 HN-CW 系列产品页",
+          "url": "https://www.shycnano.com/swqt/swqtf.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "HN-CW30 铯钨青铜粉体",
+      "org": "上海盈承新材料有限公司",
+      "form": "粉体（30 nm 档）",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "蓝黑色粉末，纯度 99.9%，一次粒径 30 nm，比表面积 20–50 m²/g，20 kg/桶包装。同厂另有 50 nm 档 HN-CW50 与 ATO 系列，便于在同一供应商处做两种吸收剂的配方对比。",
+      "id": "pd-dc-14"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "50nm"
+      ],
+      "specs": {
+        "外观": "蓝黑色粉末",
+        "纯度": "99.9%",
+        "粒径": "50 nm",
+        "比表面积": "10–20 m²/g"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "盈承 HN-CW 系列产品页",
+          "url": "https://www.shycnano.com/swqt/swqtf.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "HN-CW50 铯钨青铜粉体",
+      "org": "上海盈承新材料有限公司",
+      "form": "粉体（50 nm 档）",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "同系列 50 nm 档，纯度 99.9%，比表面积 10–20 m²/g。粒径变大后比表面积下降，分散难度降低但雾度风险上升，选型时需与成膜厚度一起权衡。",
+      "id": "pd-dc-15"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "涂布量可换算"
+      ],
+      "specs": {
+        "外观": "蓝黑色粉",
+        "纯度": "99.9%",
+        "粒径": "30–50 nm",
+        "比表面积": "20–50 m²/g",
+        "涂布参考": "每㎡约 2 g → 950–1400nm 透过率<10%，550nm>70%"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "智钛纳微 JR-CW50 产品页",
+          "url": "http://www.ztjhkj.cn/products/products_611.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "JR-CW50 纳米铯钨青铜粉",
+      "org": "浙江智钛纳微新材料有限公司",
+      "form": "粉体",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "页面把\"配方—性能\"关系写得很实：每平方米涂层添加约 2 g，即可让 950–1400 nm 波段透过率低于 10%，同时 550 nm 可见光透过率保持 70% 以上。这类可直接换算的涂布量，比单纯列粒径更有工程价值。",
+      "id": "pd-dc-16"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "雾度可核"
+      ],
+      "specs": {
+        "粒径": "80–100 nm / 100–200 nm",
+        "纯度": "99.9%",
+        "CAS": "189619-69-0",
+        "涂布参考": "每㎡约 1.3 g → 950nm 阻隔>90%，550nm 透过>70%",
+        "雾度": "<0.5%"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "宏武纳米 CTO 产品页",
+          "url": "http://www.xuzhounano.com/products/show-742.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "CTO 纳米铯钨青铜粉体",
+      "org": "广州宏武材料科技有限公司",
+      "form": "粉体（可供浆料/分散液）",
+      "subs": [
+        "dc-1",
+        "dc-2"
+      ],
+      "summary": "提供 80–100 nm 与 100–200 nm 两个粒径档，纯度 99.9%，CAS 189619-69-0。页面给出涂布经验值：每平方米添加约 1.3 g，可实现 950 nm 红外阻隔率 90% 以上、550 nm 可见光透过率 70% 以上、雾度小于 0.5%，是本轮调研中雾度指标最明确的一条。",
+      "id": "pd-dc-17"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "分散液",
+        "水性",
+        "储存条件"
+      ],
+      "specs": {
+        "介质": "去离子水",
+        "固含量": "10–20%",
+        "粒径": "30±5 nm",
+        "储存": "5–35℃ 密封避光，禁止冷冻"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "中玻网 久泰 JT-CW30W 页",
+          "url": "https://m.glass.com.cn/hzjttc/supplydetail-2593391.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "JT-CW30W 水性铯钨青铜分散液",
+      "org": "湖州久泰陶瓷材料有限公司",
+      "form": "水性分散液",
+      "subs": [
+        "dc-2"
+      ],
+      "summary": "预分散于去离子水，固含量 10–20%，粒径 30±5 nm。页面特别提示\"5–35 ℃ 密封避光储存，不可冷冻（冷冻会导致不可逆团聚）\"——这是铯钨青铜水性浆料最常见的失效原因，属于实用级信息。",
+      "id": "pd-dc-18"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "分散液",
+        "水性"
+      ],
+      "specs": {
+        "外观": "蓝黑色液体",
+        "纯度/固含": "20%（页面标注）",
+        "粒径": "30–50 nm",
+        "介质": "水",
+        "包装": "15 kg/桶（样品 1 kg/袋）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "中玻网 九朋 CY-XW30W 页",
+          "url": "https://www.glass.com.cn/zjjpxcl/supplydetail-2583031.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "CY-XW30W 水性铯钨青铜分散液",
+      "org": "杭州九朋新材料有限公司",
+      "form": "水性分散液",
+      "subs": [
+        "dc-2"
+      ],
+      "summary": "蓝黑色液体，固含口径标为 20%，粒径 30–50 nm，分散介质为水；大货 15 kg/桶、样品 1 kg/袋。与同厂 CY-XW30 粉体配套，便于涂料厂直接投料而不必自建分散工序。",
+      "id": "pd-dc-19"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "粉体",
+        "氧化钨"
+      ],
+      "specs": {
+        "外观": "蓝色纳米粉体",
+        "吸收峰": "近 900 nm 强吸收（官网口径）",
+        "粒径/纯度": "参数未公开（图内）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "沪正实业 WO3-P100 产品页",
+          "url": "http://chhzsy.com/product/gere/41.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "WO3-P100 蓝色纳米氧化钨",
+      "org": "上海沪正实业有限公司",
+      "form": "粉体",
+      "subs": [
+        "dc-1"
+      ],
+      "summary": "以高纯 WO₃ 经高温烧结、杂化萃取制得的蓝色纳米粉体，官网称对近 900 nm 近红外有强烈吸收。粒径与纯度值以图片形式给出，正文未列数值，因此这里按规则标注\"参数未公开（图内）\"而不擅自转录。",
+      "id": "pd-dc-20"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "母粒",
+        "注塑"
+      ],
+      "specs": {
+        "载体": "PP / PC",
+        "含量": "≥99.9%（页面标注）",
+        "吸收波段": "800–1200 nm",
+        "透过波段": "380–780 nm"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "有色网 铯钨青铜母粒报道",
+          "url": "https://b.smm.cn/info/619650",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "铯钨青铜隔热母粒（PP / PC 载体）",
+      "org": "杭州市吉康新材料有限公司",
+      "form": "塑料母粒",
+      "subs": [
+        "dc-2",
+        "dc-4"
+      ],
+      "summary": "把纳米铯钨青铜预分散进 PP、PC 等塑料母粒，供注塑/挤出直接成型为具有近红外遮蔽能力的透明件：800–1200 nm 吸收、380–780 nm 高透过。相比涂料与膜，母粒路线省掉后段涂布工序，适合车用与建材透明件。",
+      "id": "pd-dc-21"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "浆料",
+        "纳米胶囊",
+        "日系"
+      ],
+      "specs": {
+        "CWO 浓度": "最高 40 wt.%",
+        "封装工艺": "miniemulsion 聚合",
+        "合作方": "山形大学川口研究室",
+        "形态": "纳米胶囊浆料"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "住友金属矿山 CWO 纳米胶囊页",
+          "url": "https://crossmining.smm-g.com/co-creation/nir_absorbing_materials_04/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "CWO™ 纳米胶囊",
+      "org": "住友金属矿山株式会社",
+      "form": "纳米胶囊浆料 / 树脂添加",
+      "subs": [
+        "dc-2"
+      ],
+      "summary": "把 CWO 包进纳米胶囊以提高在树脂中的分散稳定性，官网称 CWO 浓度最高可做到 40 wt.%，封装采用 miniemulsion 聚合工艺，并与山形大学川口研究室合作。这是日系原料从\"卖粉\"走向\"卖可直接投料的中间体\"的信号，也解释了为什么上游厂商更愿意卖浆料而非粉体。",
+      "id": "pd-dc-22"
+    },
+    {
+      "type": "product",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "窗膜",
+        "成分未公开"
+      ],
+      "specs": {
+        "技术名": "XIR™ / 纳米陶瓷",
+        "UV 阻隔": "≥99%（官网口径）",
+        "信号影响": "宣称不影响手机/ETC/GPS/WiFi",
+        "成分": "未公开配方"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "威固中国 产品页",
+          "url": "https://www.v-kool.cn/index.php/product/shop.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "威固纳米陶瓷膜（VDE / 闪电威系列）",
+      "org": "首诺国际贸易（上海）有限公司（威固 V-KOOL 中国）",
+      "form": "汽车窗膜",
+      "subs": [
+        "dc-4"
+      ],
+      "summary": "威固主推的\"纳米陶瓷膜\"，官网强调不含金属、不屏蔽信号（手机/ETC/GPS/WiFi），UV 阻隔≥99%。但官网只给技术名与效果，**未公开配方**，无法确认其近红外吸收剂是铯钨青铜、ATO 还是其他体系——这类\"品牌可见、配方不可见\"的条目在本库统一标为成分未公开。",
+      "id": "pd-dc-23"
+    },
+    {
+      "type": "standard",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "国家标准",
+        "中空玻璃",
+        "分级"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "国家标准全文公开系统 GB/T 39749-2021",
+          "url": "https://openstd.samr.gov.cn/bzgk/std/std_list?p.p1=2&p.p90=circulation_date&p.p91=desc&p.p2=%E9%9A%94%E7%83%AD",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "GB/T 39749-2021 中空玻璃隔热保温性能评价方法及分级",
+      "nameEn": "GB/T 39749-2021",
+      "org": "国家市场监督管理总局 / 国家标准化管理委员会",
+      "role": "国家标准（发布 2021-03-09 / 实施 2022-02-01）",
+      "year": "2021",
+      "subs": [
+        "dc-4",
+        "dc-3"
+      ],
+      "summary": "给中空玻璃的隔热保温性能定\"评价方法 + 等级\"，是把材料参数落到整窗性能的关键标准。做隔热膜/隔热涂层与中空玻璃组合方案时，用它来界定\"提升了几级\"比只报 VLT 更有说服力。",
+      "id": "st-dc-04"
+    },
+    {
+      "type": "standard",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "协会标准",
+        "工程应用"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "中国工程建设标准化协会 公告",
+          "url": "http://www.cecs.org.cn/xhbz/fbgg/11324.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "T/CECS 750-2020 建筑反射隔热涂料应用技术规程",
+      "nameEn": "T/CECS 750-2020",
+      "org": "中国工程建设标准化协会（主编：广东省建筑科学研究院集团）",
+      "role": "协会标准（批准 2020-08-25 / 施行 2021-01-01）",
+      "year": "2020",
+      "subs": [
+        "dc-3"
+      ],
+      "summary": "面向建筑反射隔热涂料的应用技术规程，由中国工程建设标准化协会第 685 号公告批准发布，广东省建筑科学研究院集团主编。属工程应用侧标准，规定了设计、施工与验收口径，是\"涂料好不好\"之外\"用得对不对\"的依据。",
+      "id": "st-dc-05"
+    },
+    {
+      "type": "standard",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "国家标准",
+        "U值"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "CTC 苏州 检测能力页",
+          "url": "http://ctcsz.com/page.asp?cid=25",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "GB/T 22476-2008 中空玻璃稳态 U 值（传热系数）的计算及测定",
+      "nameEn": "GB/T 22476-2008",
+      "org": "国家标准化管理委员会",
+      "role": "国家标准（检测机构列为依据标准，页面未列日期）",
+      "year": "2008",
+      "subs": [
+        "dc-4"
+      ],
+      "summary": "中空玻璃稳态传热系数 U 值的计算与测定方法，出现在 CTC 苏州的玻璃检测能力清单中。U 值是把\"隔热\"量化成建筑能耗语言的核心指标，比单独的透过率更贴近实际节能量。",
+      "id": "st-dc-06"
+    },
+    {
+      "type": "standard",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "行业标准",
+        "热工计算"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "CTC 苏州 检测能力页",
+          "url": "http://ctcsz.com/page.asp?cid=25",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "JGJ/T 151-2008 建筑门窗玻璃幕墙热工计算规程",
+      "nameEn": "JGJ/T 151-2008",
+      "org": "住房和城乡建设部",
+      "role": "行业标准（检测机构列为依据标准，页面未列日期）",
+      "year": "2008",
+      "subs": [
+        "dc-4",
+        "dc-3"
+      ],
+      "summary": "建筑门窗与玻璃幕墙的热工计算规程，是节能设计中把玻璃光学参数换算为整窗热工性能的常用依据，同样出现在 CTC 苏州的检测能力页。",
+      "id": "st-dc-07"
+    },
+    {
+      "type": "standard",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "强制性国标",
+        "夹层玻璃"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "CTC 苏州 检测能力页",
+          "url": "http://ctcsz.com/page.asp?cid=25",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "GB 15763.3-2009 建筑用安全玻璃 第 3 部分：夹层玻璃",
+      "nameEn": "GB 15763.3-2009",
+      "org": "国家标准化管理委员会",
+      "role": "强制性国家标准（检测机构列为依据标准）",
+      "year": "2009",
+      "subs": [
+        "dc-4"
+      ],
+      "summary": "夹层玻璃的安全要求。铯钨青铜若做成 PVB/EVA 夹层方案（上游厂商明确提到的路径之一），产品必须同时满足本标准的夹层安全要求，隔热性能之外不能绕过安全合规。",
+      "id": "st-dc-08"
+    },
+    {
+      "type": "standard",
+      "board": "dc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "国家标准",
+        "中空玻璃"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "CTC 苏州 检测能力页",
+          "url": "http://ctcsz.com/page.asp?cid=25",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "GB/T 11944-2012 中空玻璃",
+      "nameEn": "GB/T 11944-2012",
+      "org": "国家标准化管理委员会",
+      "role": "国家标准（检测机构列为依据标准）",
+      "year": "2012",
+      "subs": [
+        "dc-4"
+      ],
+      "summary": "中空玻璃的产品标准。隔热膜/涂层与中空玻璃组合时，除功能层性能外还需满足本标准的密封与耐久要求。",
+      "id": "st-dc-09"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "填料",
+        "SiO₂微球",
+        "上游"
+      ],
+      "specs": {
+        "产品": "单分散二氧化硅微球 / 光子晶体",
+        "粒径档位": "20/50/100/200/300/400/500/600/700/800/900 nm 等"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "中科科优 单分散微球产品页",
+          "url": "https://www.zhongkekeyou.cn/product-detail/cp23062101.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "中科科优",
+      "country": "中国",
+      "region": "（站点未标注省市）",
+      "role": "单分散 SiO₂ 微球供应商",
+      "website": "https://www.zhongkekeyou.cn",
+      "productHint": "单分散二氧化硅微球 / 光子晶体（20 nm–900 nm 多规格）",
+      "subs": [
+        "rc-1"
+      ],
+      "summary": "辐射制冷涂层里\"Mie 散射\"这一环的关键填料供应商，提供 20 nm 到 900 nm 多个粒径档的单分散二氧化硅微球与光子晶体。填料粒径直接决定太阳波段散射效率，是做 R>95% 白漆时最先要定的参数之一。",
+      "id": "co-rc-16"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "填料",
+        "空心微珠"
+      ],
+      "specs": {
+        "产品": "空心玻璃微珠 HS38",
+        "参数来源": "中国粉体网产品页",
+        "官网": "未取得"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "中国粉体网 圣莱特 HS38 页",
+          "url": "https://www.cnpowder.com.cn/index/171964.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "郑州圣莱特空心微珠新材料有限公司",
+      "country": "中国",
+      "region": "河南 · 郑州",
+      "role": "空心玻璃微珠生产商",
+      "website": "",
+      "productHint": "空心玻璃微珠 HS38",
+      "subs": [
+        "rc-1"
+      ],
+      "summary": "空心玻璃微珠专业厂，HS38 在中国粉体网产品页挂牌，含密度、抗压强度等参数栏目。空心微珠既是轻质填料也是散射体，在屋面白色涂料里常与 TiO₂/BaSO₄ 复配使用。本条来源为行业门户产品页（未取得独立官网），故标 B2B 挂牌。",
+      "id": "co-rc-17"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "填料",
+        "TiO₂",
+        "上游"
+      ],
+      "specs": {
+        "产品": "硫酸法 / 氯化法钛白粉",
+        "下游": "涂料 / 塑料 / 造纸 / 油墨 / 化纤"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "龙佰集团 钛系列产品页",
+          "url": "https://www.lbgroup.com/mproduct/10914",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "龙佰集团股份有限公司",
+      "nameEn": "LB Group",
+      "country": "中国",
+      "region": "河南",
+      "role": "钛白粉（TiO₂）生产商",
+      "website": "https://www.lbgroup.com",
+      "productHint": "硫酸法 / 氯化法钛白粉颜料",
+      "subs": [
+        "rc-1"
+      ],
+      "summary": "国内钛白粉龙头，产品为硫酸法与氯化法钛白粉颜料，用于涂料、塑料、造纸、油墨与化纤。TiO₂ 是辐射制冷白色涂层里折射率最高的常用散射相之一，属于\"上游的上游\"——它的粒径与表面处理决定了涂层的太阳反射率上限。",
+      "id": "co-rc-18"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "填料",
+        "ZrO₂",
+        "上游"
+      ],
+      "specs": {
+        "产品": "氧化锆系列",
+        "参数": "未公开（参数页未取证）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "东方锆业 公司介绍页",
+          "url": "https://www.orientzr.com/en/about-us",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "广东东方锆业科技股份有限公司",
+      "nameEn": "Guangdong Orient Zirconic Ind Sci & Tech Co., Ltd.",
+      "country": "中国",
+      "region": "广东",
+      "role": "氧化锆（ZrO₂）及锆制品供应商",
+      "website": "https://www.orientzr.com",
+      "productHint": "氧化锆系列（产品参数页未取证）",
+      "subs": [
+        "rc-1"
+      ],
+      "summary": "氧化锆及锆制品供应商。ZrO₂ 折射率高、化学稳定性好，是文献里常见的辐射制冷填料候选之一。本条只核到公司介绍页，产品参数页未取得，因此具体牌号与粒径不作记录。",
+      "id": "co-rc-19"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "基材",
+        "PET",
+        "上游"
+      ],
+      "specs": {
+        "产品": "BOPET / PET 薄膜",
+        "成立": "1997 年，2011 年上市",
+        "定位": "中国双向拉伸薄膜产业基地（企业自述）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "双星彩塑 公司介绍",
+          "url": "https://www.cpp.com.cn/home/about",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "江苏双星彩塑新材料股份有限公司",
+      "country": "中国",
+      "region": "江苏 · 宿迁",
+      "role": "BOPET / PET 薄膜基材厂",
+      "website": "https://www.cpp.com.cn",
+      "productHint": "双向拉伸聚酯薄膜（辐射制冷卷材/膜的基材）",
+      "subs": [
+        "rc-4"
+      ],
+      "summary": "1997 年成立、2011 年深交所上市的双向拉伸薄膜企业，自述\"中国双向拉伸薄膜产业基地\"。辐射制冷卷材与贴膜都要在 PET/BOPET 基材上涂布，基材的平整度与耐候性直接决定成膜良率，属于膜环节绕不开的上游。",
+      "id": "co-rc-20"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "基材",
+        "光学膜",
+        "上游"
+      ],
+      "specs": {
+        "产品": "光学基膜 OSA/OS、OSE/OSG 系列",
+        "其他": "锂电隔膜 / 固态电解质导离子膜"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "长阳科技 产品页",
+          "url": "https://www.solartrontech.com/index.php/product/index.html?page=1",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "宁波长阳科技股份有限公司",
+      "country": "中国",
+      "region": "浙江 · 宁波",
+      "role": "光学基膜 / PET 基膜厂",
+      "website": "https://www.solartrontech.com",
+      "productHint": "光学基膜 OSA / OS 系列、OSE / OSG 系列",
+      "subs": [
+        "rc-4"
+      ],
+      "summary": "光学基膜与 PET 基膜供应商，产品含 OSA/OS 系列（光学涂布、印刷、扩散膜基材）与 OSE/OSG 系列，另有锂电隔膜与固态电解质导离子膜。辐射制冷膜若走\"精密涂布\"路线，这类光学级基膜是比通用 PET 更合适的起点。",
+      "id": "co-rc-21"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "设备",
+        "涂布",
+        "上游"
+      ],
+      "specs": {
+        "机型": "CL80 / CL120 / CL60",
+        "应用领域": "光学膜 / 窗膜 / 车衣膜",
+        "承印材料": "PET、铝塑复合膜、纸基、特殊膜类"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "陕西北人 产品列表",
+          "url": "https://www.shaanxibeiren.com/Mobile/List/index/cid/11.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "陕西北人印刷机械有限责任公司",
+      "country": "中国",
+      "region": "陕西",
+      "role": "涂布与镀膜设备厂",
+      "website": "https://www.shaanxibeiren.com",
+      "productHint": "CL80/120 涂布机（光学膜）、CL60 涂布机（窗膜 / 车衣膜）",
+      "subs": [
+        "rc-2"
+      ],
+      "summary": "涂布设备厂，CL80/120 面向光学膜涂布、CL60 明确标注应用领域为\"窗膜、车衣膜\"，承印材料覆盖 PET、铝塑复合膜等。辐射制冷与隔热膜能否量产，卡点常在涂布精度与干燥曲线，设备端是浆料环节的隐形上游。",
+      "id": "co-rc-22"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "日系",
+        "涂料",
+        "膜",
+        "织物"
+      ],
+      "specs": {
+        "形态": "涂料 / 膜 / 织物三种",
+        "合作": "日产自动车（车用涂料）",
+        "参数完整度": "公开 R / ε / 冷却力 / 寿命"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "Radi-Cool Japan 产品总览",
+          "url": "https://radi-cool.co.jp/products/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "Radi-Cool Japan 涂料页",
+          "url": "https://radi-cool.co.jp/products/paint/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "ラディクールジャパン株式会社",
+      "nameEn": "Radi-Cool Japan Co., Ltd.",
+      "country": "日本",
+      "region": "东京 · 中央区日本桥",
+      "role": "辐射制冷涂料 / 膜 / 织物的日本市场与施工主体",
+      "website": "https://radi-cool.co.jp",
+      "productHint": "放射冷却塗料（3 液仕様）、反射型シルバーフィルム、ウインドウフィルム、ファブリック",
+      "subs": [
+        "rc-3",
+        "rc-4"
+      ],
+      "summary": "把同一条辐射制冷技术做成涂料 / 膜 / 织物三种形态的日本落地主体，并与日产自动车合作开发车用涂料（涂布方法与层构成由日产承担）。它是目前公开参数最完整的辐射制冷涂料之一：日射反射率 94.4%、8–13 μm 放射率 90% 以上、最大冷却力 145 W/㎡、基本耐用年数 10 年——注意其\"145 W/㎡ 最大冷却力\"是涂料口径，不能与整窗/整机性能直接对比。",
+      "id": "co-rc-23"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "以色列",
+        "涂层",
+        "口径差异"
+      ],
+      "specs": {
+        "产品": "Glacier cooling coating",
+        "冷却功率": "90–170 W/m²（无需电力）",
+        "温降口径": "比阴影处低 7℃"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "SolCold 官网",
+          "url": "https://www.solcold.co/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "SolCold Ltd.",
+      "nameEn": "SolCold",
+      "country": "以色列",
+      "region": "—",
+      "role": "被动冷却涂层",
+      "website": "https://www.solcold.co",
+      "productHint": "Glacier cooling coating",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "以色列被动冷却涂层公司，产品名 Glacier，官网口径为\"无需电力即可获得 90–170 W/m² 冷却功率\"\"比阴影处低 7℃\"。这条数据是**冷却功率**而非温降，与国内厂商普遍报的\"表面降 20–40℃\"口径不同，横向对比时必须先统一口径。",
+      "id": "co-rc-24"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "水性",
+        "参数完整"
+      ],
+      "specs": {
+        "代表产品": "蒙自复合纳米辐射制冷涂料",
+        "TSR": "≥95%（页面口径）",
+        "发射率": "94%（8–13μm）",
+        "温降": "外表面 20–40℃，内部 5–10℃",
+        "有效期": "不低于 10 年"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "优波科 蒙自复合纳米辐射制冷涂料页",
+          "url": "https://www.uoboc.com/cyproductlist_details/c-chanpinid%3D1413105463561703424%26_detailId%3D%E5%A4%8D%E5%90%88%E7%BA%B3%E7%B1%B3%E8%BE%90%E5%B0%84%E5%88%B6%E5%86%B7%E6%B6%82%E6%96%99%26_seoDetailId%3D%E4%B9%8C%E6%B5%B7.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "郑州优波科新材料股份有限公司",
+      "country": "中国",
+      "region": "河南 · 郑州",
+      "role": "水性辐射制冷 / 隔热涂料生产商",
+      "website": "https://www.uoboc.com",
+      "productHint": "蒙自复合纳米辐射制冷涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "水性辐射制冷涂料厂商，\"蒙自\"牌复合纳米辐射制冷涂料给出 TSR≥95%、8–13 μm 发射率 94%、外表面降温 20–40℃、内部降温 5–10℃、综合节能 15–40%、效果不低于 10 年的一整套口径，核心颜填料为复合陶瓷微晶 + 高带隙纳米无机光子晶体。是国内公开参数较完整的涂料之一。",
+      "id": "co-rc-25"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "产学研"
+      ],
+      "specs": {
+        "合作": "香港理工大学 / 西北工业大学",
+        "参数": "未公开"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "邦希化工 技术合作页",
+          "url": "http://bangxihg.com/m.php?c=article&id=218",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "陕西邦希化工有限公司",
+      "country": "中国",
+      "region": "陕西",
+      "role": "水性工业涂料企业（辐射制冷涂料研发）",
+      "website": "http://bangxihg.com",
+      "productHint": "与香港理工大学合作的辐射制冷涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "水性工业涂料企业，公开与香港理工大学合作开发辐射制冷涂料（表述为\"具有较高反射率和大气窗口发射率\"），并与西北工业大学合作水性陶瓷基特种涂料。属\"涂料厂 + 高校\"联合开发模式，具体产品参数未公开。",
+      "id": "co-rc-26"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "膜",
+        "微纳结构"
+      ],
+      "specs": {
+        "太阳反射率": ">96%（页面口径）",
+        "长波红外发射率": ">97%",
+        "减排口径": "最大 39.5 tCO₂/t 全生命周期",
+        "产品形态": "涂料 / 纤维膜 / 超结构薄膜 / 高透保护膜"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "墨光新能 辐射制冷涂料页",
+          "url": "https://www.moguangxn.com/product_detail.asp?id=1722",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "墨光新能科技（苏州）有限公司",
+      "country": "中国",
+      "region": "江苏 · 苏州工业园区",
+      "role": "辐射制冷涂料 / 纤维膜 / 超结构薄膜研发制造商",
+      "website": "https://www.moguangxn.com",
+      "productHint": "微纳结构辐射制冷涂料、高透保护膜、纺丝纤维膜、超结构薄膜",
+      "subs": [
+        "rc-3",
+        "rc-4"
+      ],
+      "summary": "以微纳结构设计为核心的辐射制冷材料公司，产品横跨涂料、纤维膜、超结构薄膜与高透保护膜，公开指标为太阳反射率 >96%、长波红外发射率 >97%，并给出 39.5 tCO₂/t 的全生命周期减排口径。把\"光学设计\"与\"碳减排\"一起报，是国内较少见的产品叙事。",
+      "id": "co-rc-27"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "检测依据完整",
+        "上市公司"
+      ],
+      "specs": {
+        "体系": "水性氟碳改性乳液，单组份",
+        "太阳反射比": "≥92%（T/CECS 10378-2024）",
+        "近红外反射比": "≥0.85（JG/T 235-2014）",
+        "固含量": "50%±2%",
+        "耐老化": "1000 h 不起泡/不开裂/不粉化",
+        "使用年限": "8 年"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "唯特偶 辐射制冷材料页",
+          "url": "https://www.szvital.com/productinfo/315951.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "深圳市唯特偶新材料股份有限公司",
+      "country": "中国",
+      "region": "广东 · 深圳",
+      "role": "电子装联材料企业（延伸至辐射制冷涂料）",
+      "website": "https://www.szvital.com",
+      "productHint": "水性氟碳改性乳液辐射制冷涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "深交所创业板上市公司（301319），主业电子装联材料，近年延伸到辐射制冷涂料：氟碳改性乳液基料 + 反射隔热组分 + 防锈颜料 + 功能填料，水性单组份、低 VOC。它的参数页是本轮调研中**唯一逐项标注检测依据标准**的（太阳反射比按 T/CECS 10378-2024、近红外反射比按 JG/T 235-2014），可比性最强。",
+      "id": "co-rc-28"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料"
+      ],
+      "specs": {
+        "产品线": "辐射制冷涂料 / 反射隔热涂料",
+        "参数": "未公开（仅原理表述）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "蓝叶子 辐射制冷涂料页",
+          "url": "https://www.lanyezi.com.cn/page97.html?article_id=128",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "重庆蓝叶子新材料有限公司",
+      "country": "中国",
+      "region": "重庆",
+      "role": "反射隔热 + 辐射制冷涂料生产商",
+      "website": "https://www.lanyezi.com.cn",
+      "productHint": "辐射制冷涂料系列 / 反射隔热涂料系列",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "同时做反射隔热与辐射制冷两条产品线的重庆涂料企业，原理表述为标准口径（8–13 μm 高红外发射 + 高太阳反射、24 小时零能耗），但产品页未公开 R/ε 数值，属\"有原理、无参数\"类型。",
+      "id": "co-rc-29"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "无机涂料",
+        "专利主体",
+        "混凝土"
+      ],
+      "specs": {
+        "技术路线": "无机（硫铝酸盐水泥基 + 无机功能填料）",
+        "专利": "CN121108788B / CN122725754A / CN122521181A",
+        "官网": "未取证"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "网易 银杉超材专利报道",
+          "url": "https://www.163.com/dy/article/L6S3PHFK05568W0A.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "江西银杉超材科技股份有限公司",
+      "country": "中国",
+      "region": "江西 · 安福",
+      "role": "无机辐射制冷涂料 + 超高性能混凝土（专利主体）",
+      "website": "",
+      "productHint": "CN121108788B 无机辐射制冷涂料、CN122725754A 辐射制冷 UHPC",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "2013 年成立的无机材料企业（注册资本 4576 万元），围绕\"无机辐射制冷涂料\"与\"辐射制冷超高性能混凝土\"布局了三件专利（详见标准与专利维度）。它的技术路线与有机涂料不同：以白色硫铝酸盐水泥为成膜基体 + 表面处理无机功能填料，适合混凝土/屋面这类无机基面。",
+      "id": "co-rc-30"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "媒体单源"
+      ],
+      "specs": {
+        "技术路线": "高反射基涂 + 微纳发射填料",
+        "证据强度": "媒体单源，官网未取证"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "搜狐 辐射制冷涂料企业综述",
+          "url": "https://www.sohu.com/a/945047320_777213",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "三棵树涂料股份有限公司",
+      "country": "中国",
+      "region": "福建",
+      "role": "建筑涂料企业（辐射制冷产品线）",
+      "website": "",
+      "productHint": "高反射白色基涂 + 微纳发射功能填料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "建筑涂料龙头之一，辐射制冷路线为\"高反射白色基涂 + 微纳发射功能填料\"，通过调整粒径分布与膜层结构提升红外辐射效率。信息仅有媒体单源（搜狐），官网产品页未取证，故标为媒体口径。",
+      "id": "co-rc-31"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "自清洁",
+        "媒体单源"
+      ],
+      "specs": {
+        "产品": "纳米自洁无电制冷涂料",
+        "特性": "光催化自清洁 + 降温",
+        "证据强度": "媒体单源"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "搜狐 辐射制冷涂料企业综述",
+          "url": "https://www.sohu.com/a/945047320_777213",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "嘉宝莉化工集团股份有限公司",
+      "country": "中国",
+      "region": "广东",
+      "role": "功能涂层企业",
+      "website": "",
+      "productHint": "纳米自洁无电制冷涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "功能涂层企业，其\"纳米自洁无电制冷涂料\"引入光催化型纳米粒子，实现自清洁 + 降温双效。同样只有媒体单源，参数未公开。",
+      "id": "co-rc-32"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "跨国",
+        "媒体单源"
+      ],
+      "specs": {
+        "路线": "反射 + 辐射协同",
+        "证据强度": "媒体单源"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "搜狐 辐射制冷涂料企业综述",
+          "url": "https://www.sohu.com/a/945047320_777213",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "阿克苏诺贝尔（AkzoNobel）",
+      "nameEn": "AkzoNobel",
+      "country": "荷兰",
+      "region": "在华运营",
+      "role": "全球涂料巨头（外墙隔热 / 辐射制冷体系）",
+      "website": "",
+      "productHint": "反射 + 辐射协同制冷系统",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "跨国涂料企业，其建筑体系主打\"高反射颜料 + 远红外发射添加剂\"的反射辐射协同方案，面向建筑节能与工业屋面。本条为媒体单源，未见官网产品页，仅作市场位置参考。",
+      "id": "co-rc-33"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "科研团队",
+        "标准起草"
+      ],
+      "specs": {
+        "负责人": "杨荣贵",
+        "背景": "MIT 博士 / 前科罗拉多大学终身正教授",
+        "标准参与": "T/ZZB 2304-2021 起草人"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "华中科大 杨荣贵教授主页",
+          "url": "http://faculty.hust.edu.cn/YANGRONGGUI/zh_CN/more/2153398/jsjjgd/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "华中科技大学 杨荣贵教授团队（X-Thermal）",
+      "nameEn": "Huazhong University of Science and Technology",
+      "country": "中国",
+      "region": "湖北 · 武汉",
+      "role": "科研团队（PDRC 奠基性工作团队之一）",
+      "website": "http://faculty.hust.edu.cn/YANGRONGGUI/",
+      "productHint": "辐射制冷材料与热辐射调控研究；T/ZZB 2304-2021 起草人",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "杨荣贵教授团队是辐射制冷领域的奠基性团队之一（MIT 机械工程博士，曾任科罗拉多大学博尔德分校终身正教授），同时是 T/ZZB 2304-2021《辐射致（制）冷膜》的起草人之一。看这条赛道的技术走向，跟着这类团队的标准参与和论文方向比看厂商宣传更有效。",
+      "id": "co-rc-34"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "科研团队",
+        "微纳结构"
+      ],
+      "specs": {
+        "成立": "2013 年",
+        "方向": "辐射制冷 / 界面光蒸发 / 锂钠光学",
+        "专利": "国家授权 18 项（页面口径）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "南大 光热调控研究中心",
+          "url": "https://zlab.nju.edu.cn/57074/list.htm",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "南京大学 光热调控研究中心（朱嘉教授）",
+      "nameEn": "Nanjing University, Research Center for Photothermal Regulation",
+      "country": "中国",
+      "region": "江苏 · 南京",
+      "role": "科研团队",
+      "website": "https://zlab.nju.edu.cn",
+      "productHint": "辐射制冷、界面光蒸发、锂钠光学",
+      "subs": [
+        "rc-1"
+      ],
+      "summary": "2013 年由朱嘉教授创立的研究中心，方向含辐射制冷、界面光蒸发与锂钠光学，已获国家授权专利 18 项并有部分成果转化。填料体系（等离激元/微纳结构）的很多设计思路来自这类团队。",
+      "id": "co-rc-35"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "科研机构",
+        "成果转化"
+      ],
+      "specs": {
+        "产品": "辐射制冷涂料",
+        "反射率": ">94%（页面口径）",
+        "标准参与": "T/SXCIES 003-2026 起草方"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "天府兴隆湖实验室 产品页",
+          "url": "http://www.xlll.cn/index.php?m=content&c=index&a=show&catid=35&id=372",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "天府兴隆湖实验室",
+      "nameEn": "Tianfu Xinglong Lake Laboratory",
+      "country": "中国",
+      "region": "四川 · 成都",
+      "role": "科研机构 + 辐射制冷产品转化",
+      "website": "http://www.xlll.cn",
+      "productHint": "辐射制冷涂料（反射率 >94%）",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "同时做科研与产品转化的实验室，公开产品页称其辐射制冷涂料\"超过 94% 的反射率\"，并对外招募辐射制冷产品合作伙伴。它也是 T/SXCIES 003-2026《被动式辐射制冷涂层》的起草参与方之一。",
+      "id": "co-rc-36"
+    },
+    {
+      "type": "company",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "科研机构",
+        "标准负责起草"
+      ],
+      "specs": {
+        "标准角色": "T/CECS 10378-2024 负责起草单位",
+        "发布/实施": "2024-05-16 / 2024-10-01"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "标准平台 T/CECS 10378-2024 起草单位",
+          "url": "https://ndls.cnis.ac.cn/standard/detail/c7929628fd0c2bbda5ca47d3570f0c89",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "重庆大学（T/CECS 10378-2024 负责起草单位）",
+      "nameEn": "Chongqing University",
+      "country": "中国",
+      "region": "重庆",
+      "role": "科研机构（标准负责起草）",
+      "website": "",
+      "productHint": "T/CECS 10378-2024《建筑用辐射致冷涂料》负责起草",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "《建筑用辐射致冷涂料》（T/CECS 10378-2024）的负责起草单位，参加起草含中国建筑科学研究院等。该标准是辐射制冷涂料进入建筑工程体系的关键\"话语入口\"，也是唯特偶等厂商标注检测依据的来源。",
+      "id": "co-rc-37"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "日系",
+        "参数完整"
+      ],
+      "specs": {
+        "日射反射率": "94.4%",
+        "紫外线遮蔽率": "99.9%",
+        "8–13μm放射率": "90% 以上",
+        "最大冷却力": "145 W/㎡",
+        "耐用年数": "10 年（基本）",
+        "体系": "底漆 + 中涂 + 面涂"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "Radi-Cool Japan 涂料页",
+          "url": "https://radi-cool.co.jp/products/paint/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "放射冷却塗料（3 液仕様 / 2 液混合型）",
+      "org": "ラディクールジャパン株式会社",
+      "form": "涂料（底漆弱溶剂环氧 + 中涂/面涂水性丙烯酸）",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "目前公开参数最完整的辐射制冷涂料之一：日射反射率 94.4%、紫外线遮蔽 99.9%、8–13 μm 放射率 90% 以上、最大冷却力 145 W/㎡、基本耐用年数 10 年。三层体系（底漆 + 中涂 + 面涂）说明它对基面处理有明确要求，不是单层刷涂就能达标。",
+      "id": "pd-rc-16"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "膜",
+        "日系"
+      ],
+      "specs": {
+        "形态": "银色反射膜 / 窗膜",
+        "定量参数": "未公开（页面沿用涂料口径）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "Radi-Cool Japan 产品总览",
+          "url": "https://radi-cool.co.jp/products/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "放射冷却反射型シルバーフィルム / 放射冷却型ウインドウフィルム",
+      "org": "ラディクールジャパン株式会社",
+      "form": "膜（金属面用银色反射膜 / 玻璃面用窗膜）",
+      "subs": [
+        "rc-4"
+      ],
+      "summary": "把与涂料同源的技术做成膜形态，分金属面用的银色反射膜与玻璃面用的窗膜。页面沿用涂料的 94.4% / 90% 以上 / 145 W/㎡ 指标，但膜的单体定量参数未在该页公开，因此这里不把涂料数据当作膜的性能引用。",
+      "id": "pd-rc-17"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂层",
+        "以色列",
+        "口径差异"
+      ],
+      "specs": {
+        "冷却功率": "90–170 W/m²",
+        "温降": "比阴影处低 7℃",
+        "通电需求": "无需电力"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "SolCold 官网",
+          "url": "https://www.solcold.co/",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "Glacier cooling coating",
+      "org": "SolCold Ltd.",
+      "form": "被动冷却涂层",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "官网口径：无需电力即可获得 90–170 W/m² 冷却功率，可比阴影处低 7℃。注意这是\"冷却功率 + 相对阴影温降\"，与国内常见的\"表面绝对温降\"不是同一口径。",
+      "id": "pd-rc-18"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "参数完整"
+      ],
+      "specs": {
+        "TSR": "≥95%",
+        "发射率": "94%（8–13μm）",
+        "温降": "外表面 20–40℃ / 内部 5–10℃",
+        "节能": "15–40%（企业口径）",
+        "有效期": "不低于 10 年"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "优波科 产品页",
+          "url": "https://www.uoboc.com/cyproductlist_details/c-chanpinid%3D1413105463561703424%26_detailId%3D%E5%A4%8D%E5%90%88%E7%BA%B3%E7%B1%B3%E8%BE%90%E5%B0%84%E5%88%B6%E5%86%B7%E6%B6%82%E6%96%99%26_seoDetailId%3D%E4%B9%8C%E6%B5%B7.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "蒙自复合纳米辐射制冷涂料",
+      "org": "郑州优波科新材料股份有限公司",
+      "form": "水性涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "国产涂料里少见地把\"反射率—发射率—温降—节能量—寿命\"五段都写全的产品：TSR≥95%、8–13 μm 发射率 94%、外表面降 20–40℃、内部降 5–10℃、综合节能 15–40%、效果不低于 10 年。核心颜填料为复合陶瓷微晶 + 高带隙纳米无机光子晶体。",
+      "id": "pd-rc-19"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "工业",
+        "参数缺失"
+      ],
+      "specs": {
+        "粉体体系": "尖晶石结构粉体",
+        "加权反射率": "93% 以上",
+        "发射率": "未公开",
+        "应用": "建筑 / 设备柜 / 变压器 / 储罐 / 管道 / 光伏背板"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "志盛威华 ZS-223 产品页",
+          "url": "https://www.bjzswh168.com/news/show665912.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "ZS-223 热反射自清洁隔热辐射制冷涂料",
+      "org": "北京志盛威华化工有限公司",
+      "form": "涂料（超疏水自洁）",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "与同厂 ZS-411 并列的另一条产品线：采用尖晶石结构粉体，加权反射率 93% 以上，适用建筑表面、设备柜、变压器、储罐、管道与光伏背板。发射率未公开——这类\"只报反射率不报发射率\"的宣传在行业里很常见，判断辐射制冷效果时两者缺一不可。",
+      "id": "pd-rc-20"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "检测依据完整"
+      ],
+      "specs": {
+        "太阳反射比": "≥92%（T/CECS 10378-2024）",
+        "近红外反射比": "≥0.85（JG/T 235-2014）",
+        "固含量": "50%±2%",
+        "密度": "1.0–1.6 g/cm³",
+        "耐老化": "1000 h 合格",
+        "使用年限": "8 年"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "唯特偶 辐射制冷材料页",
+          "url": "https://www.szvital.com/productinfo/315951.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "辐射制冷材料（水性氟碳改性乳液体系）",
+      "org": "深圳市唯特偶新材料股份有限公司",
+      "form": "水性单组份涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "本轮调研中唯一把每一项性能都挂上检测依据标准的产品页：太阳反射比 ≥92%（T/CECS 10378-2024）、近红外反射比 ≥0.85（JG/T 235-2014）、固含 50%±2%、密度 1.0–1.6 g/cm³、耐老化 1000 h 不起泡不开裂不粉化、使用年限 8 年。做参数对比时，这类标注依据的数据才算\"可比值\"。",
+      "id": "pd-rc-21"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "微纳结构"
+      ],
+      "specs": {
+        "太阳反射率": ">96%",
+        "长波红外发射率": ">97%",
+        "减排": "39.5 tCO₂/t（全生命周期，企业口径）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "墨光新能 产品页",
+          "url": "https://www.moguangxn.com/product_detail.asp?id=1722",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "基于微纳结构的辐射制冷涂料",
+      "org": "墨光新能科技（苏州）有限公司",
+      "form": "涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "太阳反射率 >96%、长波红外发射率 >97%，通过 8–13 μm 大气窗口高效辐射；同时报出最大 39.5 tCO₂/t 的全生命周期减排。",
+      "id": "pd-rc-22"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "科研转化"
+      ],
+      "specs": {
+        "反射率": ">94%（页面口径）",
+        "发射率": "未公开"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "天府兴隆湖实验室 产品页",
+          "url": "http://www.xlll.cn/index.php?m=content&c=index&a=show&catid=35&id=372",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "辐射制冷涂料（天府兴隆湖实验室产品）",
+      "org": "天府兴隆湖实验室",
+      "form": "涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "页面仅给\"超过 94% 的反射率\"，发射率未公开。实验室同时在招募辐射制冷产品合作伙伴，属于\"科研成果 + 产业化接口\"并行的形态。",
+      "id": "pd-rc-23"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "参数缺失"
+      ],
+      "specs": {
+        "参数": "未公开（仅原理表述）"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "蓝叶子 辐射制冷涂料页",
+          "url": "https://www.lanyezi.com.cn/page97.html?article_id=128",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "辐射制冷涂料系列 / 反射隔热涂料系列",
+      "org": "重庆蓝叶子新材料有限公司",
+      "form": "涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "产品页只给原理表述（8–13 μm 高红外发射 + 高太阳反射、24 小时零能耗），R/ε 数值未公开。属\"有技术叙事、无实测参数\"的类型，引用时需另行索取检测报告。",
+      "id": "pd-rc-24"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "涂料",
+        "媒体单源"
+      ],
+      "specs": {
+        "特性": "光催化自清洁 + 降温",
+        "参数": "未公开",
+        "证据强度": "媒体单源"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "搜狐 辐射制冷涂料企业综述",
+          "url": "https://www.sohu.com/a/945047320_777213",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "纳米自洁无电制冷涂料",
+      "org": "嘉宝莉化工集团股份有限公司",
+      "form": "涂料",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "引入光催化型纳米粒子，实现自清洁与降温双效。仅有媒体单源，参数未公开。",
+      "id": "pd-rc-25"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "填料",
+        "SiO₂"
+      ],
+      "specs": {
+        "材质": "二氧化硅",
+        "粒径档位": "20/50/100/200/300/400/500/600/700/800/900 nm",
+        "形态": "单分散微球 / 光子晶体"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "中科科优 产品页",
+          "url": "https://www.zhongkekeyou.cn/product-detail/cp23062101.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "单分散二氧化硅微球（20 nm–900 nm）",
+      "org": "中科科优",
+      "form": "填料（微球）",
+      "subs": [
+        "rc-1"
+      ],
+      "summary": "提供 20 nm 至 900 nm 多档单分散 SiO₂ 微球与光子晶体结构。辐射制冷涂层的太阳波段散射效率由填料粒径分布决定，这类\"按 nm 分档供应\"的微球是配方的起点。",
+      "id": "pd-rc-26"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "填料",
+        "空心微珠"
+      ],
+      "specs": {
+        "产品": "HS38",
+        "来源": "中国粉体网挂牌页",
+        "参数栏目": "密度 / 抗压强度等"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "中国粉体网 HS38 页",
+          "url": "https://www.cnpowder.com.cn/index/171964.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "b2b",
+      "name": "空心玻璃微珠 HS38",
+      "org": "郑州圣莱特空心微珠新材料有限公司",
+      "form": "填料（空心微珠）",
+      "subs": [
+        "rc-1"
+      ],
+      "summary": "空心玻璃微珠，在中国粉体网挂牌并给出密度、抗压强度等参数栏目。空心微珠兼具轻质与散射功能，常与 TiO₂/BaSO₄ 复配用于屋面白色涂层。",
+      "id": "pd-rc-27"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "基材",
+        "PET",
+        "光学级"
+      ],
+      "specs": {
+        "产品": "OSA / OS / OSE / OSG 系列",
+        "用途": "光学涂布 / 印刷 / 扩散膜基材"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "长阳科技 产品页",
+          "url": "https://www.solartrontech.com/index.php/product/index.html?page=1",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "光学基膜 OSA / OS 系列",
+      "org": "宁波长阳科技股份有限公司",
+      "form": "基膜（PET 光学级）",
+      "subs": [
+        "rc-4"
+      ],
+      "summary": "面向光学涂布、印刷与扩散膜基材的 PET 基膜系列，另有 OSE/OSG 系列。辐射制冷膜若走精密涂布路线，光学级基膜比通用 PET 更适合作为起点。",
+      "id": "pd-rc-28"
+    },
+    {
+      "type": "product",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "设备",
+        "涂布"
+      ],
+      "specs": {
+        "机型": "CL60（窗膜/车衣膜）、CL80/CL120（光学膜）",
+        "承印材料": "PET / 铝塑复合膜 / 纸基 / 特殊膜类"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "陕西北人 产品列表",
+          "url": "https://www.shaanxibeiren.com/Mobile/List/index/cid/11.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "CL60 涂布机（窗膜 / 车衣膜）",
+      "org": "陕西北人印刷机械有限责任公司",
+      "form": "设备（涂布机）",
+      "subs": [
+        "rc-2"
+      ],
+      "summary": "应用领域明确标注\"窗膜、车衣膜\"的涂布设备，承印材料含 PET 与铝塑复合膜；同厂 CL80/120 面向光学膜涂布。辐射制冷卷材的良率与涂布精度、干燥曲线强相关，设备端常被忽略但是量产瓶颈。",
+      "id": "pd-rc-29"
+    },
+    {
+      "type": "standard",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "协会标准",
+        "涂料",
+        "检测依据"
+      ],
+      "specs": {},
+      "values": {},
+      "sources": [
+        {
+          "title": "标准平台 T/CECS 10378-2024",
+          "url": "https://www.spc.org.cn/online/0304efb9362c957cb4d9fdbb46afe0fc.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        },
+        {
+          "title": "标准平台 起草单位第二来源",
+          "url": "https://ndls.cnis.ac.cn/standard/detail/c7929628fd0c2bbda5ca47d3570f0c89",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "official",
+      "name": "T/CECS 10378-2024 建筑用辐射致冷涂料",
+      "nameEn": "T/CECS 10378-2024",
+      "org": "中国工程建设标准化协会（负责起草：重庆大学）",
+      "role": "协会标准（发布 2024-05-16 / 实施 2024-10-01）",
+      "year": "2024",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "目前唯一专门针对\"建筑用辐射致冷涂料\"的协会标准，由重庆大学负责起草、中国建筑科学研究院等参加起草。它的意义在于：厂商终于可以按同一份文件标\"太阳反射比\"和\"发射率\"，唯特偶的产品页已直接引用本标准作为检测依据。",
+      "id": "st-rc-10"
+    },
+    {
+      "type": "standard",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "专利",
+        "无机涂料"
+      ],
+      "specs": {
+        "体系": "白色硫铝酸盐水泥 + 表面处理无机功能填料",
+        "发明人": "黄安冲 / 吴帅 / 曾嵘",
+        "授权公告": "2026-09-11"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "网易 银杉超材专利报道",
+          "url": "https://www.163.com/dy/article/L6S3PHFK05568W0A.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "CN121108788B 一种无机辐射制冷涂料及其制备方法和应用",
+      "nameEn": "CN121108788B",
+      "org": "江西银杉超材科技股份有限公司",
+      "role": "发明专利（申请 2025-11-05 / 授权公告 2026-09-11）",
+      "year": "2026",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "无机路线的辐射制冷涂料专利：以白色硫铝酸盐水泥（20–40 份）为成膜基体，配合表面处理无机功能填料（30–50 份）。与有机乳液体系相比，无机路线更适配混凝土/屋面基面，耐候逻辑也不同。发明人黄安冲、吴帅、曾嵘。",
+      "id": "st-rc-11"
+    },
+    {
+      "type": "standard",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "专利",
+        "稀土填料"
+      ],
+      "specs": {
+        "填料": "三维放射状稀土磷酸盐微球",
+        "申请日": "2026-05-25",
+        "公开日": "2026-08-07"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "网易 银杉超材专利报道",
+          "url": "https://www.163.com/dy/article/L6S3PHFK05568W0A.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "CN122521181A 一种含三维放射状稀土磷酸盐微球的被动辐射制冷涂料及其制备方法",
+      "nameEn": "CN122521181A",
+      "org": "江西银杉超材科技股份有限公司",
+      "role": "发明专利申请（申请 2026-05-25 / 公开 2026-08-07）",
+      "year": "2026",
+      "subs": [
+        "rc-1",
+        "rc-3"
+      ],
+      "summary": "把\"三维放射状稀土磷酸盐微球\"作为功能填料的被动辐射制冷涂料专利。稀土磷酸盐是近年填料端的新方向（成本与光谱可调性），这条专利说明国内已有人在填料形貌层面做文章，而不只是调粒径分布。",
+      "id": "st-rc-12"
+    },
+    {
+      "type": "standard",
+      "board": "rc",
+      "createdAt": "2026-11-24T13:17:16.180Z",
+      "updatedAt": "2026-11-24T13:17:16.180Z",
+      "tags": [
+        "专利",
+        "混凝土",
+        "结构一体化"
+      ],
+      "specs": {
+        "载体": "白色超高性能混凝土（UHPC）",
+        "申请日": "2026-06-12",
+        "公开日": "2026-09-11"
+      },
+      "values": {},
+      "sources": [
+        {
+          "title": "网易 银杉超材专利报道",
+          "url": "https://www.163.com/dy/article/L6S3PHFK05568W0A.html",
+          "kind": "official",
+          "accessed": "2026-11-24"
+        }
+      ],
+      "verification": "media",
+      "name": "CN122725754A 一种具有辐射制冷功能的白色超高性能混凝土及其制备方法",
+      "nameEn": "CN122725754A",
+      "org": "江西银杉超材科技股份有限公司",
+      "role": "发明专利申请（申请 2026-06-12 / 公开 2026-09-11）",
+      "year": "2026",
+      "subs": [
+        "rc-3"
+      ],
+      "summary": "把辐射制冷功能直接做进超高性能混凝土（UHPC）本体，而不是表面涂层。若成立，屋面/路面可以\"结构即功能\"，省掉涂层维护；但也意味着功能相掺量要受力学性能约束。",
+      "id": "st-rc-13"
+    }
+  ]
+}

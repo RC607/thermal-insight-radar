@@ -1,0 +1,19 @@
+{
+  "name": "thermal-insight-radar",
+  "version": "1.1.0",
+  "private": true,
+  "description": "隔热情报雷达：透明陶瓷隔热（铯钨青铜）与辐射制冷行业情报检索站点",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node server/server.mjs --port 8788",
+    "build": "node tools/build-static.mjs",
+    "preview": "node tools/serve-static.mjs --dir dist --port 8899",
+    "seed": "node tools/seed-records.mjs --force",
+    "fetch:literature": "node tools/fetch-crossref.mjs --rows 22",
+    "verify": "node tools/verify.mjs",
+    "verify:static": "node tools/verify-static.mjs"
+  }
+}

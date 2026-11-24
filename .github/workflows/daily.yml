@@ -1,0 +1,70 @@
+name: daily-build-and-deploy
+
+# 每天北京时间 05:20（UTC 21:20）自动跑一次；也可在 Actions 页面手动触发
+on:
+  schedule:
+    - cron: '20 21 * * *'
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 准备 Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 抓取 Crossref 文献增量（失败不阻塞发布）
+        run: node tools/fetch-crossref.mjs --rows 22
+        continue-on-error: true
+
+      - name: 重建记录与静态站点
+        run: |
+          node tools/seed-records.mjs --force
+          node tools/build-static.mjs
+
+      - name: 自检（数据完整性 / 无明文密钥）
+        run: node tools/verify-static.mjs
+
+      - name: 提交数据变更（留痕，便于回溯某天的数据长什么样）
+        run: |
+          git config user.name 'thermal-radar-bot'
+          git config user.email 'bot@users.noreply.github.com'
+          git add data/records.json data/literature.json
+          if git diff --staged --quiet; then
+            echo "数据无变化"
+          else
+            git commit -m "chore: daily data refresh $(date -u +%Y-%m-%d)"
+            git push
+          fi
+
+      - name: 上传 Pages 产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: 发布到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

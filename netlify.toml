@@ -1,0 +1,12 @@
+[build]
+  command = "node tools/build-static.mjs"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# 站内使用 hash 路由，任何路径都回落到 index.html
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

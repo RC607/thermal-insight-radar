@@ -1,0 +1,86 @@
+{
+  "productName": "隔热情报雷达",
+  "productNameEn": "ThermalInsight Radar",
+  "version": "1.1.0",
+  "boards": [
+    {
+      "id": "dc",
+      "name": "透明陶瓷隔热",
+      "nameEn": "Transparent Ceramic Thermal Insulation",
+      "subtitle": "铯钨青铜 CsₓWO₃ 近红外吸收体系",
+      "accent": "#c2761a",
+      "subs": [
+        {
+          "id": "dc-1",
+          "name": "铯钨青铜粉体",
+          "nameEn": "CsxWO3 Powder",
+          "desc": "纳米铯钨青铜粉体（Cs₀.₂₀₋₀.₃₃WO₃）与各类钨青铜近红外吸收粉体，关注纯度、一次粒径、比表面积、分散性与成膜可见光透过率。"
+        },
+        {
+          "id": "dc-2",
+          "name": "透明隔热浆料",
+          "nameEn": "Transparent Insulation Slurry",
+          "desc": "把粉体分散于水/溶剂/PVB 体系形成的中间体，也含分散剂、载体树脂等配套材料，关注固含量、粘度、稳定性与涂布窗口。"
+        },
+        {
+          "id": "dc-3",
+          "name": "隔热涂料",
+          "nameEn": "Thermal Insulation Coating",
+          "desc": "可直接施工于玻璃或幕墙的透明隔热功能涂层，关注附着力、耐候、雾度、施工工艺与检测依据。"
+        },
+        {
+          "id": "dc-4",
+          "name": "透明陶瓷隔热膜",
+          "nameEn": "Transparent Ceramic Insulation Film",
+          "desc": "PET/PVB 基功能膜（窗膜、外贴膜、夹层膜）与膜用基材，关注 VLT、TSER、红外阻隔、雾度与耐候年限。"
+        }
+      ]
+    },
+    {
+      "id": "rc",
+      "name": "辐射制冷",
+      "nameEn": "Passive Daytime Radiative Cooling",
+      "subtitle": "8–13 μm 大气窗口被动散热体系",
+      "accent": "#0d7f92",
+      "subs": [
+        {
+          "id": "rc-1",
+          "name": "辐射制冷填料",
+          "nameEn": "Radiative Cooling Filler",
+          "desc": "SiO₂/Al₂O₃/BaSO₄/ZrO₂ 微球、空心玻璃微珠、稀土功能粉体等具有太阳高反射与中红外高发射的功能填料。"
+        },
+        {
+          "id": "rc-2",
+          "name": "辐射制冷浆料",
+          "nameEn": "Radiative Cooling Slurry",
+          "desc": "面向涂布/喷涂/浸涂的中间体，也含分散剂、载体树脂、基材等配套环节，关注固含量、粒径分布与成膜厚度窗口。"
+        },
+        {
+          "id": "rc-3",
+          "name": "辐射制冷涂料",
+          "nameEn": "Radiative Cooling Coating",
+          "desc": "屋面/外墙/金属屋面/设备可施工的辐射制冷涂层，关注太阳反射率 R、发射率 ε、附着力与耐污自清洁。"
+        },
+        {
+          "id": "rc-4",
+          "name": "辐射制冷膜",
+          "nameEn": "Radiative Cooling Film",
+          "desc": "卷材/贴膜/磁吸片等膜形态的辐射制冷层，关注柔性、耐候、贴合工艺与净制冷功率。"
+        }
+      ]
+    }
+  ],
+  "dimensions": [
+    { "id": "company", "name": "生产商", "desc": "企业主体与产业链位置" },
+    { "id": "product", "name": "产品资料", "desc": "型号、形态、公开技术参数" },
+    { "id": "standard", "name": "标准与专利", "desc": "国标/行标/团标与授权专利" },
+    { "id": "literature", "name": "学术文献", "desc": "Crossref 论文元数据与 DOI" }
+  ],
+  "verificationLevels": [
+    { "id": "official", "name": "官方原文", "desc": "企业官网/官方公告/官方旗舰店可直接验证" },
+    { "id": "media", "name": "权威媒体", "desc": "新闻媒体、行业协会、政府公示" },
+    { "id": "b2b", "name": "B2B 挂牌", "desc": "1688/爱采购等平台挂牌信息" },
+    { "id": "report", "name": "研究报告", "desc": "券商/咨询/学术报告口径数据" },
+    { "id": "pending", "name": "待核验", "desc": "线索可用但未找到原始出处，仅作方向参考" }
+  ]
+}
