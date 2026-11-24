@@ -17,9 +17,15 @@ node server\server.mjs --port 8788
 浏览器打开 <http://127.0.0.1:8788>。端口被占用时自动顺延（8789、8790…），控制台打印实际地址。
 要求 Node.js 18+（开发验证于 v24.21.0）。
 
-## 一之二、挂网发布（分享给别人看 + 每日自动更新）
+## 一之二、已上线（公网可分享）
 
-站点已支持**纯静态发布**，见 [DEPLOY.md](DEPLOY.md)：
+**地址：<https://rc607.github.io/thermal-insight-radar/>**
+
+- 仓库 <https://github.com/RC607/thermal-insight-radar>（Public），GitHub Pages 托管，强制 HTTPS
+- 每天北京时间 05:20 自动抓 Crossref 文献 → 重建 → 发布；每次 push 也会触发
+- 加数据：本地 `node server/server.mjs` 用「录入情报」补录 → `git add data/records.json && git commit && git push` → 云端自动重建
+
+站点已静态化，也可自行部署到任意静态托管：
 
 ```bat
 node tools/build-static.mjs       :: 产出 dist/（约 0.6 MB，无后端依赖）
@@ -27,8 +33,7 @@ node tools/serve-static.mjs       :: 本地预览静态版 http://127.0.0.1:8899
 node tools/verify-static.mjs      :: 静态产物自检
 ```
 
-`.github/workflows/daily.yml` 已配好每日定时（北京时间 05:20）抓文献 → 重建 → 发布。
-静态版是**只读**的：写入、在线抓取、X-Mol 导入入口会自动隐藏。
+详见 [DEPLOY.md](DEPLOY.md)。静态版是**只读**的：写入、在线抓取、X-Mol 导入入口会自动隐藏。
 
 ---
 
