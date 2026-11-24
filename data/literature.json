@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-24T13:45:09.970Z",
+    "generatedAt": "2026-11-24T22:20:09.201Z",
     "provider": "Crossref REST API (https://api.crossref.org)",
     "license": "Crossref 元数据按开放政策提供；摘要版权归原出版方",
     "filter": "from-pub-date:2014-01-01, type:journal-article",
@@ -697,7 +697,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
-      "order": 9,
+      "order": 8,
       "rank": 20
     },
     {
@@ -756,7 +756,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 5,
+      "order": 4,
       "rank": 22
     },
     {
@@ -1024,7 +1024,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
-      "order": 8,
+      "order": 9,
       "rank": 31
     },
     {
@@ -1827,7 +1827,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
-      "order": 16,
+      "order": 17,
       "rank": 59
     },
     {
@@ -1969,7 +1969,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
-      "order": 19,
+      "order": 18,
       "rank": 64
     },
     {
@@ -2753,7 +2753,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 19,
+      "order": 20,
       "rank": 91
     },
     {
@@ -2813,7 +2813,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
-      "order": 4,
+      "order": 5,
       "rank": 93
     },
     {
@@ -3575,7 +3575,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 1,
+      "order": 0,
       "rank": 120
     },
     {
@@ -3897,7 +3897,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
-      "order": 19,
+      "order": 20,
       "rank": 131
     },
     {
@@ -3926,7 +3926,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
-      "order": 19,
+      "order": 17,
       "rank": 132
     },
     {
@@ -4366,7 +4366,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
-      "order": 18,
+      "order": 19,
       "rank": 147
     },
     {
@@ -4426,7 +4426,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
-      "order": 9,
+      "order": 10,
       "rank": 149
     },
     {
@@ -5150,7 +5150,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
-      "order": 4,
+      "order": 3,
       "rank": 174
     },
     {
@@ -5448,7 +5448,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
-      "order": 20,
+      "order": 19,
       "rank": 185
     },
     {
@@ -5801,7 +5801,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 17,
+      "order": 18,
       "rank": 197
     },
     {
@@ -5892,7 +5892,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
-      "order": 4,
+      "order": 6,
       "rank": 200
     },
     {
@@ -6011,7 +6011,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
-      "order": 10,
+      "order": 9,
       "rank": 204
     },
     {
@@ -6182,7 +6182,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
-      "order": 5,
+      "order": 4,
       "rank": 210
     },
     {
@@ -6244,7 +6244,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
-      "order": 20,
+      "order": 21,
       "rank": 212
     },
     {
@@ -6424,7 +6424,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
-      "order": 5,
+      "order": 4,
       "rank": 218
     },
     {
@@ -6537,7 +6537,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 0,
+      "order": 1,
       "rank": 222
     },
     {
@@ -6714,7 +6714,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
-      "order": 19,
+      "order": 18,
       "rank": 228
     },
     {
@@ -6744,7 +6744,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
-      "order": 17,
+      "order": 18,
       "rank": 229
     },
     {
@@ -6976,7 +6976,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 8,
+      "order": 7,
       "rank": 237
     },
     {
@@ -7091,7 +7091,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 4,
+      "order": 5,
       "rank": 241
     },
     {
@@ -7444,7 +7444,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
-      "order": 3,
+      "order": 4,
       "rank": 253
     },
     {
@@ -7788,7 +7788,7 @@
       "year": 2021,
       "doi": "10.1126/science.abg0291",
       "url": "https://doi.org/10.1126/science.abg0291",
-      "citations": 1093,
+      "citations": 1094,
       "abstract": "A passive turnoff Passive radiative cooling technology uses the infrared atmospheric window to allow outer space to be a cold sink for heat. However, this effect is one that is only helpful for energy savings in the warmer months. Wang et al . and Tang et al . used the metal-insulator transition in tungsten-doped vanadium dioxide to create window glass and a rooftop coating that circumvents this problem by turning off the radiative cooling at lower temperatures. Because the transition is simply temperature dependent, this effect also happens passively. Model simulations suggest that these materials would lead to energy savings year-round across most of the climate zones in the United States. —BG",
       "board": "rc",
       "subs": [
@@ -7828,7 +7828,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 20,
+      "order": 19,
       "rank": 267
     },
     {
@@ -7945,7 +7945,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
-      "order": 17,
+      "order": 16,
       "rank": 271
     },
     {
@@ -8140,7 +8140,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
-      "order": 18,
+      "order": 20,
       "rank": 278
     },
     {
@@ -8171,7 +8171,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
-      "order": 6,
+      "order": 5,
       "rank": 279
     },
     {
@@ -8460,7 +8460,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 7,
+      "order": 8,
       "rank": 289
     },
     {
@@ -9084,7 +9084,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
-      "order": 20,
+      "order": 19,
       "rank": 311
     },
     {
@@ -9562,7 +9562,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
-      "order": 21,
+      "order": 20,
       "rank": 328
     },
     {
@@ -9610,7 +9610,7 @@
       "year": 2019,
       "doi": "10.1016/j.electacta.2018.11.179",
       "url": "https://doi.org/10.1016/j.electacta.2018.11.179",
-      "citations": 49,
+      "citations": 50,
       "abstract": "",
       "board": "dc",
       "subs": [
