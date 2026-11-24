@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-11-24T13:17:12.906Z",
+    "generatedAt": "2026-11-24T13:39:46.191Z",
     "provider": "Crossref REST API (https://api.crossref.org)",
     "license": "Crossref 元数据按开放政策提供；摘要版权归原出版方",
     "filter": "from-pub-date:2014-01-01, type:journal-article",
@@ -263,7 +263,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
-      "order": 9,
+      "order": 10,
       "rank": 5
     },
     {
@@ -293,7 +293,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
-      "order": 11,
+      "order": 9,
       "rank": 6
     },
     {
@@ -756,7 +756,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 4,
+      "order": 5,
       "rank": 22
     },
     {
@@ -1051,7 +1051,7 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
-      "order": 20,
+      "order": 21,
       "rank": 32
     },
     {
@@ -1143,7 +1143,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 4,
-      "rank": 36
+      "rank": 35
     },
     {
       "id": "lit-10-55674-cs-v18i3-266086",
@@ -1174,7 +1174,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 11,
-      "rank": 37
+      "rank": 36
     },
     {
       "id": "lit-10-1021-acsaenm-6c01214",
@@ -1203,7 +1203,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 16,
-      "rank": 38
+      "rank": 37
     },
     {
       "id": "lit-10-1016-j-ceramint-2026-10-173",
@@ -1232,7 +1232,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 9,
-      "rank": 39
+      "rank": 38
     },
     {
       "id": "lit-10-1016-j-applthermaleng-2026-131550",
@@ -1258,7 +1258,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 17,
-      "rank": 40
+      "rank": 39
     },
     {
       "id": "lit-10-3390-en19133202",
@@ -1284,7 +1284,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 20,
-      "rank": 41
+      "rank": 40
     },
     {
       "id": "lit-10-1155-jspe-9466477",
@@ -1310,7 +1310,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 6,
-      "rank": 42
+      "rank": 41
     },
     {
       "id": "lit-10-1016-j-applthermaleng-2026-132496",
@@ -1339,7 +1339,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 13,
-      "rank": 43
+      "rank": 42
     },
     {
       "id": "lit-10-47982-cgc-10-731",
@@ -1365,7 +1365,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 16,
-      "rank": 44
+      "rank": 43
     },
     {
       "id": "lit-10-1007-s40940-025-00313-3",
@@ -1394,7 +1394,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 19,
-      "rank": 45
+      "rank": 44
     },
     {
       "id": "lit-10-1016-j-polymer-2026-130911",
@@ -1422,7 +1422,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 0,
-      "rank": 46
+      "rank": 45
     },
     {
       "id": "lit-10-1016-j-matlet-2026-141347",
@@ -1452,7 +1452,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 19,
-      "rank": 47
+      "rank": 46
     },
     {
       "id": "lit-10-1021-acsphotonics-6c01355",
@@ -1484,7 +1484,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 0,
-      "rank": 48
+      "rank": 47
     },
     {
       "id": "lit-10-1016-j-solener-2026-115251",
@@ -1510,7 +1510,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 8,
-      "rank": 49
+      "rank": 48
     },
     {
       "id": "lit-10-1016-j-vacuum-2026-115622",
@@ -1539,7 +1539,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 9,
-      "rank": 50
+      "rank": 49
     },
     {
       "id": "lit-10-1038-s41560-026-02085-8",
@@ -1562,7 +1562,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 0,
-      "rank": 51
+      "rank": 50
     },
     {
       "id": "lit-10-1016-j-scib-2026-06-014",
@@ -1590,7 +1590,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 15,
-      "rank": 52
+      "rank": 51
     },
     {
       "id": "lit-10-1038-s41377-026-02391-6",
@@ -1620,7 +1620,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 11,
-      "rank": 53
+      "rank": 52
     },
     {
       "id": "lit-10-1016-j-conbuildmat-2026-147623",
@@ -1650,7 +1650,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 15,
-      "rank": 54
+      "rank": 53
     },
     {
       "id": "lit-10-1016-j-buildenv-2026-115140",
@@ -1680,7 +1680,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 20,
-      "rank": 55
+      "rank": 54
     },
     {
       "id": "lit-10-1021-acsaem-6c01788",
@@ -1710,7 +1710,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
       "order": 10,
-      "rank": 56
+      "rank": 55
     },
     {
       "id": "lit-10-1016-j-susmat-2026-e02350",
@@ -1738,7 +1738,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
       "order": 13,
-      "rank": 57
+      "rank": 56
     },
     {
       "id": "lit-10-1016-j-surfin-2026-109819",
@@ -1768,7 +1768,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
       "order": 15,
-      "rank": 58
+      "rank": 57
     },
     {
       "id": "lit-10-1038-s41467-026-77997-w",
@@ -1797,8 +1797,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
-      "order": 18,
-      "rank": 59
+      "order": 17,
+      "rank": 58
     },
     {
       "id": "lit-10-1016-j-energy-2026-142831",
@@ -1827,8 +1827,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
-      "order": 17,
-      "rank": 60
+      "order": 16,
+      "rank": 59
     },
     {
       "id": "lit-10-1117-1-oe-65-10-107101",
@@ -1853,7 +1853,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 1,
-      "rank": 61
+      "rank": 60
     },
     {
       "id": "lit-10-1021-acsami-6c18411",
@@ -1883,7 +1883,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 9,
-      "rank": 62
+      "rank": 61
     },
     {
       "id": "lit-10-3390-ma19204301",
@@ -1913,7 +1913,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 21,
-      "rank": 63
+      "rank": 62
     },
     {
       "id": "lit-10-1021-acsnano-5c00330",
@@ -1940,7 +1940,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 7,
-      "rank": 64
+      "rank": 63
     },
     {
       "id": "lit-10-1016-j-solmat-2024-113291",
@@ -1970,7 +1970,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 19,
-      "rank": 65
+      "rank": 64
     },
     {
       "id": "lit-10-1002-smll-202412221",
@@ -1999,7 +1999,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 20,
-      "rank": 66
+      "rank": 65
     },
     {
       "id": "lit-10-1002-adfm-202419777",
@@ -2029,7 +2029,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
       "order": 11,
-      "rank": 67
+      "rank": 66
     },
     {
       "id": "lit-10-1016-j-solmat-2025-113812",
@@ -2059,7 +2059,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 10,
-      "rank": 68
+      "rank": 67
     },
     {
       "id": "lit-10-1186-s43074-025-00198-z",
@@ -2091,7 +2091,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 20,
-      "rank": 69
+      "rank": 68
     },
     {
       "id": "lit-10-1016-j-applthermaleng-2025-128770",
@@ -2120,7 +2120,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 14,
-      "rank": 70
+      "rank": 69
     },
     {
       "id": "lit-10-1016-j-coco-2025-102322",
@@ -2149,7 +2149,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 7,
-      "rank": 71
+      "rank": 70
     },
     {
       "id": "lit-10-1016-j-energy-2025-137118",
@@ -2180,7 +2180,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 10,
-      "rank": 72
+      "rank": 71
     },
     {
       "id": "lit-10-1016-j-porgcoat-2025-109075",
@@ -2210,7 +2210,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 6,
-      "rank": 73
+      "rank": 72
     },
     {
       "id": "lit-10-1016-j-solmat-2025-113565",
@@ -2237,7 +2237,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 17,
-      "rank": 74
+      "rank": 73
     },
     {
       "id": "lit-10-1016-j-enbuild-2025-116604",
@@ -2268,7 +2268,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 17,
-      "rank": 75
+      "rank": 74
     },
     {
       "id": "lit-10-1016-j-solmat-2025-113567",
@@ -2297,7 +2297,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 7,
-      "rank": 76
+      "rank": 75
     },
     {
       "id": "lit-10-1016-j-energy-2025-137292",
@@ -2326,7 +2326,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 4,
-      "rank": 77
+      "rank": 76
     },
     {
       "id": "lit-10-1038-s41467-025-64955-1",
@@ -2356,7 +2356,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze electrochromic near infrared absorption",
       "order": 15,
-      "rank": 78
+      "rank": 77
     },
     {
       "id": "lit-10-1016-j-buildenv-2024-112447",
@@ -2383,7 +2383,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 3,
-      "rank": 79
+      "rank": 78
     },
     {
       "id": "lit-10-1016-j-mtener-2025-102146",
@@ -2411,7 +2411,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 16,
-      "rank": 80
+      "rank": 79
     },
     {
       "id": "lit-10-1016-j-compositesb-2025-112207",
@@ -2437,7 +2437,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 6,
-      "rank": 81
+      "rank": 80
     },
     {
       "id": "lit-10-1016-j-energy-2025-137507",
@@ -2464,7 +2464,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 2,
-      "rank": 82
+      "rank": 81
     },
     {
       "id": "lit-10-1016-j-enbuild-2025-115759",
@@ -2492,7 +2492,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 0,
-      "rank": 83
+      "rank": 82
     },
     {
       "id": "lit-10-1016-j-solmat-2025-113433",
@@ -2522,7 +2522,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 1,
-      "rank": 84
+      "rank": 83
     },
     {
       "id": "lit-10-1021-acsapm-5c02435",
@@ -2550,7 +2550,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 1,
-      "rank": 85
+      "rank": 84
     },
     {
       "id": "lit-10-3390-ma18184385",
@@ -2583,7 +2583,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 11,
-      "rank": 86
+      "rank": 85
     },
     {
       "id": "lit-10-1016-j-energy-2025-135444",
@@ -2611,7 +2611,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 9,
-      "rank": 87
+      "rank": 86
     },
     {
       "id": "lit-10-1016-j-electacta-2025-146055",
@@ -2638,7 +2638,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 9,
-      "rank": 88
+      "rank": 87
     },
     {
       "id": "lit-10-1016-j-jobe-2025-114500",
@@ -2668,7 +2668,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 20,
-      "rank": 89
+      "rank": 88
     },
     {
       "id": "lit-10-1016-j-solmat-2024-113356",
@@ -2694,7 +2694,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 8,
-      "rank": 90
+      "rank": 89
     },
     {
       "id": "lit-10-1016-j-jmat-2025-101070",
@@ -2725,7 +2725,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 3,
-      "rank": 91
+      "rank": 90
     },
     {
       "id": "lit-10-1021-acsami-5c13668",
@@ -2754,7 +2754,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 19,
-      "rank": 92
+      "rank": 91
     },
     {
       "id": "lit-10-1016-j-jallcom-2025-179781",
@@ -2782,7 +2782,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 8,
-      "rank": 93
+      "rank": 92
     },
     {
       "id": "lit-10-3390-nano15080627",
@@ -2814,7 +2814,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 4,
-      "rank": 94
+      "rank": 93
     },
     {
       "id": "lit-10-1002-eem2-70155",
@@ -2841,7 +2841,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 7,
-      "rank": 95
+      "rank": 94
     },
     {
       "id": "lit-10-1016-j-enbuild-2025-116214",
@@ -2869,7 +2869,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 12,
-      "rank": 96
+      "rank": 95
     },
     {
       "id": "lit-10-1002-app-58121",
@@ -2897,7 +2897,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 13,
-      "rank": 97
+      "rank": 96
     },
     {
       "id": "lit-10-1016-j-matlet-2025-138560",
@@ -2924,7 +2924,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 1,
-      "rank": 98
+      "rank": 97
     },
     {
       "id": "lit-10-3390-solids6030037",
@@ -2950,7 +2950,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
       "order": 6,
-      "rank": 99
+      "rank": 98
     },
     {
       "id": "lit-10-1016-j-cej-2025-171497",
@@ -2980,7 +2980,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 2,
-      "rank": 100
+      "rank": 99
     },
     {
       "id": "lit-10-3390-polym17212907",
@@ -3010,7 +3010,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 21,
-      "rank": 101
+      "rank": 100
     },
     {
       "id": "lit-10-1002-adom-202402827",
@@ -3038,7 +3038,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 6,
-      "rank": 102
+      "rank": 101
     },
     {
       "id": "lit-10-1016-j-jobe-2025-114001",
@@ -3065,7 +3065,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 6,
-      "rank": 103
+      "rank": 102
     },
     {
       "id": "lit-10-1016-j-mlblux-2025-100249",
@@ -3095,8 +3095,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
-      "order": 14,
-      "rank": 104
+      "order": 13,
+      "rank": 103
     },
     {
       "id": "lit-10-1016-j-matlet-2025-138911",
@@ -3125,7 +3125,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 15,
-      "rank": 105
+      "rank": 104
     },
     {
       "id": "lit-10-1016-j-csite-2025-106439",
@@ -3151,7 +3151,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 18,
-      "rank": 106
+      "rank": 105
     },
     {
       "id": "lit-10-1016-j-surfin-2025-105880",
@@ -3178,7 +3178,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 14,
-      "rank": 107
+      "rank": 106
     },
     {
       "id": "lit-10-3390-coatings15030340",
@@ -3209,7 +3209,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 2,
-      "rank": 108
+      "rank": 107
     },
     {
       "id": "lit-10-1016-j-matchemphys-2025-130715",
@@ -3240,7 +3240,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 15,
-      "rank": 109
+      "rank": 108
     },
     {
       "id": "lit-10-12732-ijam-v38i12s-1644",
@@ -3266,7 +3266,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 21,
-      "rank": 110
+      "rank": 109
     },
     {
       "id": "lit-10-36463-idw-2025-1171",
@@ -3292,7 +3292,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze electrochromic near infrared absorption",
       "order": 21,
-      "rank": 111
+      "rank": 110
     },
     {
       "id": "lit-10-1007-s40940-025-00311-5",
@@ -3318,7 +3318,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 0,
-      "rank": 112
+      "rank": 111
     },
     {
       "id": "lit-10-3390-buildings15111766",
@@ -3346,7 +3346,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 8,
-      "rank": 113
+      "rank": 112
     },
     {
       "id": "lit-10-29070-cvtn3j60",
@@ -3374,7 +3374,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 15,
-      "rank": 114
+      "rank": 113
     },
     {
       "id": "lit-10-14445-23948884-ijmse-v11i3p102",
@@ -3398,7 +3398,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 16,
-      "rank": 115
+      "rank": 114
     },
     {
       "id": "lit-10-1149-ma2025-021139mtgabs",
@@ -3428,7 +3428,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 14,
-      "rank": 116
+      "rank": 115
     },
     {
       "id": "lit-10-1360-csb-2025-0272",
@@ -3460,7 +3460,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 10,
-      "rank": 117
+      "rank": 116
     },
     {
       "id": "lit-10-1016-j-optmat-2025-116685",
@@ -3488,7 +3488,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 21,
-      "rank": 118
+      "rank": 117
     },
     {
       "id": "lit-10-1007-s40820-024-01360-1",
@@ -3518,7 +3518,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
       "order": 8,
-      "rank": 119
+      "rank": 118
     },
     {
       "id": "lit-10-1016-j-jechem-2023-11-016",
@@ -3549,7 +3549,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 20,
-      "rank": 120
+      "rank": 119
     },
     {
       "id": "lit-10-1021-acsenergylett-4c00909",
@@ -3576,7 +3576,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 1,
-      "rank": 121
+      "rank": 120
     },
     {
       "id": "lit-10-1002-adom-202303296",
@@ -3607,7 +3607,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 2,
-      "rank": 122
+      "rank": 121
     },
     {
       "id": "lit-10-1016-j-apenergy-2024-122672",
@@ -3635,7 +3635,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 19,
-      "rank": 123
+      "rank": 122
     },
     {
       "id": "lit-10-1002-smll-202306823",
@@ -3665,7 +3665,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 19,
-      "rank": 124
+      "rank": 123
     },
     {
       "id": "lit-10-1016-j-cej-2024-156713",
@@ -3693,7 +3693,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
       "order": 16,
-      "rank": 125
+      "rank": 124
     },
     {
       "id": "lit-10-1016-j-cej-2024-152637",
@@ -3721,7 +3721,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
       "order": 0,
-      "rank": 126
+      "rank": 125
     },
     {
       "id": "lit-10-1016-j-enbuild-2023-113764",
@@ -3751,7 +3751,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 10,
-      "rank": 127
+      "rank": 126
     },
     {
       "id": "lit-10-1016-j-compscitech-2024-110566",
@@ -3780,7 +3780,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 12,
-      "rank": 128
+      "rank": 127
     },
     {
       "id": "lit-10-1016-j-solener-2024-112545",
@@ -3807,7 +3807,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 16,
-      "rank": 129
+      "rank": 128
     },
     {
       "id": "lit-10-1007-s12273-024-1137-2",
@@ -3837,7 +3837,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 17,
-      "rank": 130
+      "rank": 129
     },
     {
       "id": "lit-10-1002-smll-202409611",
@@ -3869,7 +3869,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 5,
-      "rank": 131
+      "rank": 130
     },
     {
       "id": "lit-10-1016-j-mtphys-2024-101511",
@@ -3897,8 +3897,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
-      "order": 19,
-      "rank": 132
+      "order": 20,
+      "rank": 131
     },
     {
       "id": "lit-10-1515-nanoph-2023-0664",
@@ -3927,7 +3927,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 19,
-      "rank": 133
+      "rank": 132
     },
     {
       "id": "lit-10-1039-d3tc03769j",
@@ -3955,7 +3955,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 13,
-      "rank": 134
+      "rank": 133
     },
     {
       "id": "lit-10-1016-j-porgcoat-2024-108456",
@@ -3986,7 +3986,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 1,
-      "rank": 135
+      "rank": 134
     },
     {
       "id": "lit-10-1016-j-solener-2024-112373",
@@ -4015,7 +4015,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 11,
-      "rank": 136
+      "rank": 135
     },
     {
       "id": "lit-10-1016-j-solener-2024-112586",
@@ -4046,7 +4046,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 7,
-      "rank": 137
+      "rank": 136
     },
     {
       "id": "lit-10-1016-j-porgcoat-2023-108104",
@@ -4075,7 +4075,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 15,
-      "rank": 138
+      "rank": 137
     },
     {
       "id": "lit-10-1016-j-solener-2024-112543",
@@ -4105,7 +4105,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 4,
-      "rank": 139
+      "rank": 138
     },
     {
       "id": "lit-10-1016-j-enbuild-2024-114350",
@@ -4134,7 +4134,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 1,
-      "rank": 140
+      "rank": 139
     },
     {
       "id": "lit-10-1016-j-renene-2024-121800",
@@ -4162,7 +4162,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 18,
-      "rank": 141
+      "rank": 140
     },
     {
       "id": "lit-10-1016-j-polymer-2024-126979",
@@ -4192,7 +4192,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 11,
-      "rank": 142
+      "rank": 141
     },
     {
       "id": "lit-10-1016-j-energy-2023-130186",
@@ -4221,7 +4221,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 2,
-      "rank": 143
+      "rank": 142
     },
     {
       "id": "lit-10-1016-j-renene-2023-119820",
@@ -4249,7 +4249,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 8,
-      "rank": 144
+      "rank": 143
     },
     {
       "id": "lit-10-1016-j-indcrop-2024-119388",
@@ -4280,7 +4280,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 11,
-      "rank": 145
+      "rank": 144
     },
     {
       "id": "lit-10-1002-adom-202401020",
@@ -4310,7 +4310,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 4,
-      "rank": 146
+      "rank": 145
     },
     {
       "id": "lit-10-1515-nanoph-2023-0650",
@@ -4337,7 +4337,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 11,
-      "rank": 147
+      "rank": 146
     },
     {
       "id": "lit-10-1016-j-mtphys-2024-101556",
@@ -4366,8 +4366,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
-      "order": 18,
-      "rank": 148
+      "order": 19,
+      "rank": 147
     },
     {
       "id": "lit-10-1016-j-xcrp-2024-101876",
@@ -4397,7 +4397,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 10,
-      "rank": 149
+      "rank": 148
     },
     {
       "id": "lit-10-1007-s10118-024-3128-2",
@@ -4427,7 +4427,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 10,
-      "rank": 150
+      "rank": 149
     },
     {
       "id": "lit-10-1016-j-jobe-2024-109174",
@@ -4457,7 +4457,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 13,
-      "rank": 151
+      "rank": 150
     },
     {
       "id": "lit-10-1016-j-polymer-2024-127327",
@@ -4488,7 +4488,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 6,
-      "rank": 152
+      "rank": 151
     },
     {
       "id": "lit-10-1016-j-addma-2024-104392",
@@ -4518,7 +4518,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 19,
-      "rank": 153
+      "rank": 152
     },
     {
       "id": "lit-10-1021-acs-inorgchem-3c03666",
@@ -4548,7 +4548,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 20,
-      "rank": 154
+      "rank": 153
     },
     {
       "id": "lit-10-1016-j-solener-2024-113071",
@@ -4577,7 +4577,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 5,
-      "rank": 155
+      "rank": 154
     },
     {
       "id": "lit-10-1007-s10570-024-06248-2",
@@ -4605,7 +4605,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
       "order": 9,
-      "rank": 156
+      "rank": 155
     },
     {
       "id": "lit-10-1016-j-jallcom-2024-174846",
@@ -4633,7 +4633,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 5,
-      "rank": 157
+      "rank": 156
     },
     {
       "id": "lit-10-1021-acsaem-4c01474",
@@ -4664,7 +4664,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 10,
-      "rank": 158
+      "rank": 157
     },
     {
       "id": "lit-10-1016-j-optmat-2024-116091",
@@ -4693,7 +4693,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 13,
-      "rank": 159
+      "rank": 158
     },
     {
       "id": "lit-10-3390-mi15030292",
@@ -4722,7 +4722,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 12,
-      "rank": 160
+      "rank": 159
     },
     {
       "id": "lit-10-1016-j-enbuild-2024-114768",
@@ -4751,7 +4751,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 7,
-      "rank": 161
+      "rank": 160
     },
     {
       "id": "lit-10-1016-j-ceramint-2024-08-406",
@@ -4781,7 +4781,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 18,
-      "rank": 162
+      "rank": 161
     },
     {
       "id": "lit-10-1002-smll-202403249",
@@ -4810,7 +4810,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
       "order": 7,
-      "rank": 163
+      "rank": 162
     },
     {
       "id": "lit-10-1016-j-ijleo-2024-172098",
@@ -4836,7 +4836,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 5,
-      "rank": 164
+      "rank": 163
     },
     {
       "id": "lit-10-1016-j-mtcomm-2024-108918",
@@ -4866,8 +4866,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
-      "order": 10,
-      "rank": 165
+      "order": 11,
+      "rank": 164
     },
     {
       "id": "lit-10-1016-j-joule-2024-04-011",
@@ -4894,7 +4894,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 4,
-      "rank": 166
+      "rank": 165
     },
     {
       "id": "lit-10-1016-j-jqsrt-2023-108797",
@@ -4924,7 +4924,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 9,
-      "rank": 167
+      "rank": 166
     },
     {
       "id": "lit-10-1088-1361-6463-ad17a2",
@@ -4954,7 +4954,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 3,
-      "rank": 168
+      "rank": 167
     },
     {
       "id": "lit-10-1088-1681-7575-ad60ca",
@@ -4982,7 +4982,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 7,
-      "rank": 169
+      "rank": 168
     },
     {
       "id": "lit-10-1016-j-jobe-2024-109620",
@@ -5011,7 +5011,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 12,
-      "rank": 170
+      "rank": 169
     },
     {
       "id": "lit-10-1016-j-optmat-2023-114751",
@@ -5037,7 +5037,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 5,
-      "rank": 171
+      "rank": 170
     },
     {
       "id": "lit-10-1016-j-mtla-2024-102249",
@@ -5067,7 +5067,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 6,
-      "rank": 172
+      "rank": 171
     },
     {
       "id": "lit-10-1016-j-heliyon-2024-e37094",
@@ -5095,7 +5095,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze electrochromic near infrared absorption",
       "order": 6,
-      "rank": 173
+      "rank": 172
     },
     {
       "id": "lit-10-1051-photon-202412856",
@@ -5121,7 +5121,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 3,
-      "rank": 174
+      "rank": 173
     },
     {
       "id": "lit-10-62051--ijmsts-v1n1-01",
@@ -5151,7 +5151,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 3,
-      "rank": 175
+      "rank": 174
     },
     {
       "id": "lit-10-1016-j-mtsust-2024-100928",
@@ -5177,7 +5177,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 8,
-      "rank": 176
+      "rank": 175
     },
     {
       "id": "lit-10-1038-d44151-024-00072-0",
@@ -5202,7 +5202,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 2,
-      "rank": 177
+      "rank": 176
     },
     {
       "id": "lit-10-1115-1-4066497",
@@ -5231,7 +5231,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 8,
-      "rank": 178
+      "rank": 177
     },
     {
       "id": "lit-10-4028-p-x163qd",
@@ -5258,7 +5258,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 11,
-      "rank": 179
+      "rank": 178
     },
     {
       "id": "lit-10-36463-idw-2024-1384",
@@ -5283,7 +5283,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 15,
-      "rank": 180
+      "rank": 179
     },
     {
       "id": "lit-10-1061-ciegag-0001746",
@@ -5309,7 +5309,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 1,
-      "rank": 181
+      "rank": 180
     },
     {
       "id": "lit-10-23880-oaja-16000121",
@@ -5334,7 +5334,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 18,
-      "rank": 182
+      "rank": 181
     },
     {
       "id": "lit-10-1002-adfm-202300794",
@@ -5364,7 +5364,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 15,
-      "rank": 183
+      "rank": 182
     },
     {
       "id": "lit-10-1016-j-cej-2022-139518",
@@ -5394,7 +5394,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 16,
-      "rank": 184
+      "rank": 183
     },
     {
       "id": "lit-10-1016-j-nantod-2023-101897",
@@ -5422,7 +5422,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
       "order": 12,
-      "rank": 185
+      "rank": 184
     },
     {
       "id": "lit-10-1021-acsami-3c00252",
@@ -5448,8 +5448,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
-      "order": 21,
-      "rank": 186
+      "order": 19,
+      "rank": 185
     },
     {
       "id": "lit-10-1186-s43593-023-00053-3",
@@ -5479,7 +5479,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 3,
-      "rank": 187
+      "rank": 186
     },
     {
       "id": "lit-10-1002-smll-202206145",
@@ -5505,7 +5505,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 8,
-      "rank": 188
+      "rank": 187
     },
     {
       "id": "lit-10-1021-acsphotonics-3c00494",
@@ -5534,7 +5534,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 18,
-      "rank": 189
+      "rank": 188
     },
     {
       "id": "lit-10-1002-smll-202206149",
@@ -5564,7 +5564,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
       "order": 1,
-      "rank": 190
+      "rank": 189
     },
     {
       "id": "lit-10-1016-j-mtener-2023-101302",
@@ -5592,7 +5592,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 20,
-      "rank": 191
+      "rank": 190
     },
     {
       "id": "lit-10-1016-j-solener-2023-05-011",
@@ -5623,7 +5623,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 15,
-      "rank": 192
+      "rank": 191
     },
     {
       "id": "lit-10-3390-nano13030467",
@@ -5652,7 +5652,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 14,
-      "rank": 193
+      "rank": 192
     },
     {
       "id": "lit-10-1515-nanoph-2023-0511",
@@ -5685,7 +5685,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 4,
-      "rank": 194
+      "rank": 193
     },
     {
       "id": "lit-10-1021-acsami-3c10772",
@@ -5715,7 +5715,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 12,
-      "rank": 195
+      "rank": 194
     },
     {
       "id": "lit-10-1016-j-solener-2023-03-018",
@@ -5744,7 +5744,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 16,
-      "rank": 196
+      "rank": 195
     },
     {
       "id": "lit-10-26599-nre-2023-9120060",
@@ -5775,7 +5775,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 3,
-      "rank": 197
+      "rank": 196
     },
     {
       "id": "lit-10-1088-0256-307x-40-7-077801",
@@ -5802,7 +5802,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 17,
-      "rank": 198
+      "rank": 197
     },
     {
       "id": "lit-10-3390-horticulturae9080889",
@@ -5832,7 +5832,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 20,
-      "rank": 199
+      "rank": 198
     },
     {
       "id": "lit-10-1016-j-ceramint-2023-03-268",
@@ -5862,7 +5862,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 1,
-      "rank": 200
+      "rank": 199
     },
     {
       "id": "lit-10-1016-j-jallcom-2023-169119",
@@ -5893,7 +5893,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 4,
-      "rank": 201
+      "rank": 200
     },
     {
       "id": "lit-10-1016-j-enbuild-2023-112909",
@@ -5923,7 +5923,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 1,
-      "rank": 202
+      "rank": 201
     },
     {
       "id": "lit-10-1016-j-solmat-2022-112074",
@@ -5953,7 +5953,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 13,
-      "rank": 203
+      "rank": 202
     },
     {
       "id": "lit-10-1016-j-energy-2023-129437",
@@ -5984,7 +5984,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 14,
-      "rank": 204
+      "rank": 203
     },
     {
       "id": "lit-10-1016-j-solener-2023-111983",
@@ -6012,7 +6012,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 9,
-      "rank": 205
+      "rank": 204
     },
     {
       "id": "lit-10-1016-j-solener-2023-04-046",
@@ -6041,7 +6041,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 9,
-      "rank": 206
+      "rank": 205
     },
     {
       "id": "lit-10-1016-j-enbuild-2023-113578",
@@ -6069,7 +6069,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 13,
-      "rank": 207
+      "rank": 206
     },
     {
       "id": "lit-10-3390-polym15193876",
@@ -6097,7 +6097,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 17,
-      "rank": 208
+      "rank": 207
     },
     {
       "id": "lit-10-1016-j-conbuildmat-2022-130023",
@@ -6128,7 +6128,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 12,
-      "rank": 209
+      "rank": 208
     },
     {
       "id": "lit-10-1038-s41377-023-01317-w",
@@ -6153,7 +6153,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 0,
-      "rank": 210
+      "rank": 209
     },
     {
       "id": "lit-10-1016-j-jallcom-2023-169164",
@@ -6183,7 +6183,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 5,
-      "rank": 211
+      "rank": 210
     },
     {
       "id": "lit-10-1039-d3va00161j",
@@ -6214,7 +6214,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 9,
-      "rank": 212
+      "rank": 211
     },
     {
       "id": "lit-10-1021-acsanm-3c03378",
@@ -6245,7 +6245,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 20,
-      "rank": 213
+      "rank": 212
     },
     {
       "id": "lit-10-1002-adem-202301003",
@@ -6275,7 +6275,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze electrochromic near infrared absorption",
       "order": 12,
-      "rank": 214
+      "rank": 213
     },
     {
       "id": "lit-10-3390-polym15112478",
@@ -6306,7 +6306,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 4,
-      "rank": 215
+      "rank": 214
     },
     {
       "id": "lit-10-3390-coatings13020344",
@@ -6335,7 +6335,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze electrochromic near infrared absorption",
       "order": 1,
-      "rank": 216
+      "rank": 215
     },
     {
       "id": "lit-10-15376-biores-18-4-7645-7662",
@@ -6364,7 +6364,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 2,
-      "rank": 217
+      "rank": 216
     },
     {
       "id": "lit-10-1016-j-mfglet-2023-08-006",
@@ -6395,7 +6395,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 1,
-      "rank": 218
+      "rank": 217
     },
     {
       "id": "lit-10-1108-prt-10-2022-0119",
@@ -6425,7 +6425,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 6,
-      "rank": 219
+      "rank": 218
     },
     {
       "id": "lit-10-7577-formakademisk-5401",
@@ -6451,7 +6451,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 17,
-      "rank": 220
+      "rank": 219
     },
     {
       "id": "lit-10-35848-1347-4065-acb35f",
@@ -6480,7 +6480,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 10,
-      "rank": 221
+      "rank": 220
     },
     {
       "id": "lit-10-55674-cs-v15i3-251830",
@@ -6508,7 +6508,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 2,
-      "rank": 222
+      "rank": 221
     },
     {
       "id": "lit-10-1021-acs-nanolett-2c01570",
@@ -6538,7 +6538,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 0,
-      "rank": 223
+      "rank": 222
     },
     {
       "id": "lit-10-1016-j-solmat-2022-111954",
@@ -6568,7 +6568,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 21,
-      "rank": 224
+      "rank": 223
     },
     {
       "id": "lit-10-1021-acsami-2c01370",
@@ -6595,8 +6595,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
-      "order": 17,
-      "rank": 225
+      "order": 18,
+      "rank": 224
     },
     {
       "id": "lit-10-1016-j-renene-2022-04-093",
@@ -6626,7 +6626,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 20,
-      "rank": 226
+      "rank": 225
     },
     {
       "id": "lit-10-1016-j-applthermaleng-2021-117909",
@@ -6654,7 +6654,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 2,
-      "rank": 227
+      "rank": 226
     },
     {
       "id": "lit-10-1021-acsami-2c12400",
@@ -6684,7 +6684,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 21,
-      "rank": 228
+      "rank": 227
     },
     {
       "id": "lit-10-1016-j-compositesa-2022-106949",
@@ -6714,8 +6714,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
-      "order": 19,
-      "rank": 229
+      "order": 18,
+      "rank": 228
     },
     {
       "id": "lit-10-1016-j-isci-2022-104584",
@@ -6745,7 +6745,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 17,
-      "rank": 230
+      "rank": 229
     },
     {
       "id": "lit-10-1016-j-solmat-2022-111853",
@@ -6773,7 +6773,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 18,
-      "rank": 231
+      "rank": 230
     },
     {
       "id": "lit-10-1016-j-xcrp-2022-100853",
@@ -6803,7 +6803,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 5,
-      "rank": 232
+      "rank": 231
     },
     {
       "id": "lit-10-1016-j-enss-2022-07-003",
@@ -6833,7 +6833,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 16,
-      "rank": 233
+      "rank": 232
     },
     {
       "id": "lit-10-1016-j-jpowsour-2022-231524",
@@ -6862,7 +6862,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 18,
-      "rank": 234
+      "rank": 233
     },
     {
       "id": "lit-10-1002-admt-202101583",
@@ -6892,7 +6892,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 15,
-      "rank": 235
+      "rank": 234
     },
     {
       "id": "lit-10-1021-acsami-2c13727",
@@ -6919,7 +6919,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 13,
-      "rank": 236
+      "rank": 235
     },
     {
       "id": "lit-10-1016-j-solener-2022-06-019",
@@ -6947,7 +6947,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 21,
-      "rank": 237
+      "rank": 236
     },
     {
       "id": "lit-10-1016-j-solener-2022-05-023",
@@ -6977,7 +6977,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 8,
-      "rank": 238
+      "rank": 237
     },
     {
       "id": "lit-10-1016-j-energy-2022-124350",
@@ -7007,7 +7007,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 21,
-      "rank": 239
+      "rank": 238
     },
     {
       "id": "lit-10-1016-j-isci-2022-104126",
@@ -7037,7 +7037,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 20,
-      "rank": 240
+      "rank": 239
     },
     {
       "id": "lit-10-1016-j-applthermaleng-2022-118493",
@@ -7065,7 +7065,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 6,
-      "rank": 241
+      "rank": 240
     },
     {
       "id": "lit-10-1021-acsaem-1c03457",
@@ -7091,8 +7091,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 5,
-      "rank": 242
+      "order": 4,
+      "rank": 241
     },
     {
       "id": "lit-10-1016-j-solener-2022-09-029",
@@ -7123,7 +7123,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 16,
-      "rank": 243
+      "rank": 242
     },
     {
       "id": "lit-10-1016-j-apmt-2021-101298",
@@ -7153,7 +7153,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 8,
-      "rank": 244
+      "rank": 243
     },
     {
       "id": "lit-10-1016-j-renene-2022-05-094",
@@ -7182,7 +7182,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 10,
-      "rank": 245
+      "rank": 244
     },
     {
       "id": "lit-10-1007-s12273-022-0894-z",
@@ -7209,7 +7209,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 5,
-      "rank": 246
+      "rank": 245
     },
     {
       "id": "lit-10-1016-j-ceramint-2021-11-250",
@@ -7236,8 +7236,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
-      "order": 7,
-      "rank": 247
+      "order": 8,
+      "rank": 246
     },
     {
       "id": "lit-10-1016-j-ceramint-2021-11-187",
@@ -7267,7 +7267,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 18,
-      "rank": 248
+      "rank": 247
     },
     {
       "id": "lit-10-1016-j-conbuildmat-2022-127700",
@@ -7298,7 +7298,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 17,
-      "rank": 249
+      "rank": 248
     },
     {
       "id": "lit-10-1016-j-surfcoat-2021-127964",
@@ -7328,7 +7328,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 5,
-      "rank": 250
+      "rank": 249
     },
     {
       "id": "lit-10-1002-marc-202200695",
@@ -7359,7 +7359,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 15,
-      "rank": 251
+      "rank": 250
     },
     {
       "id": "lit-10-1016-j-enss-2022-02-002",
@@ -7387,7 +7387,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 16,
-      "rank": 252
+      "rank": 251
     },
     {
       "id": "lit-10-1016-j-scib-2021-08-019",
@@ -7415,7 +7415,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
       "order": 5,
-      "rank": 253
+      "rank": 252
     },
     {
       "id": "lit-10-1016-j-mtcomm-2022-103530",
@@ -7445,7 +7445,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 4,
-      "rank": 254
+      "rank": 253
     },
     {
       "id": "lit-10-1016-j-cplett-2021-139238",
@@ -7474,7 +7474,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 21,
-      "rank": 255
+      "rank": 254
     },
     {
       "id": "lit-10-1016-j-ceramint-2022-03-108",
@@ -7502,7 +7502,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 16,
-      "rank": 256
+      "rank": 255
     },
     {
       "id": "lit-10-56767-jfpe-2022-1-1-65",
@@ -7528,7 +7528,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 8,
-      "rank": 257
+      "rank": 256
     },
     {
       "id": "lit-10-1051-e3sconf-202235601074",
@@ -7558,7 +7558,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 14,
-      "rank": 258
+      "rank": 257
     },
     {
       "id": "lit-10-1111-ijac-14306",
@@ -7584,7 +7584,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 7,
-      "rank": 259
+      "rank": 258
     },
     {
       "id": "lit-10-2139-ssrn-4032329",
@@ -7615,7 +7615,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 7,
-      "rank": 260
+      "rank": 259
     },
     {
       "id": "lit-10-3390-polym14163382",
@@ -7645,7 +7645,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 4,
-      "rank": 261
+      "rank": 260
     },
     {
       "id": "lit-10-12677-ms-2022-126068",
@@ -7670,7 +7670,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 11,
-      "rank": 262
+      "rank": 261
     },
     {
       "id": "lit-10-20998-2313-8890-2021-07-05",
@@ -7695,7 +7695,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 14,
-      "rank": 263
+      "rank": 262
     },
     {
       "id": "lit-10-1504-ijmmp-2022-125565",
@@ -7721,7 +7721,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 21,
-      "rank": 264
+      "rank": 263
     },
     {
       "id": "lit-10-1380-vss-65-448",
@@ -7746,7 +7746,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 6,
-      "rank": 265
+      "rank": 264
     },
     {
       "id": "lit-10-23977-jmpd-2022-060204",
@@ -7769,7 +7769,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 12,
-      "rank": 266
+      "rank": 265
     },
     {
       "id": "lit-10-1126-science-abg0291",
@@ -7800,7 +7800,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 7,
-      "rank": 267
+      "rank": 266
     },
     {
       "id": "lit-10-1021-acsami-1c02368",
@@ -7829,7 +7829,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 20,
-      "rank": 268
+      "rank": 267
     },
     {
       "id": "lit-10-1016-j-nanoen-2020-105600",
@@ -7859,7 +7859,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 5,
-      "rank": 269
+      "rank": 268
     },
     {
       "id": "lit-10-1016-j-cej-2020-127104",
@@ -7890,7 +7890,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 16,
-      "rank": 270
+      "rank": 269
     },
     {
       "id": "lit-10-1016-j-ijthermalsci-2021-106899",
@@ -7916,7 +7916,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling personal thermal management textile",
       "order": 3,
-      "rank": 271
+      "rank": 270
     },
     {
       "id": "lit-10-1016-j-ijthermalsci-2021-107172",
@@ -7945,8 +7945,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
-      "order": 16,
-      "rank": 272
+      "order": 17,
+      "rank": 271
     },
     {
       "id": "lit-10-1016-j-apmt-2021-101209",
@@ -7974,7 +7974,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 11,
-      "rank": 273
+      "rank": 272
     },
     {
       "id": "lit-10-1016-j-optmat-2021-111431",
@@ -8004,7 +8004,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 6,
-      "rank": 274
+      "rank": 273
     },
     {
       "id": "lit-10-1016-j-scs-2020-102612",
@@ -8031,7 +8031,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 11,
-      "rank": 275
+      "rank": 274
     },
     {
       "id": "lit-10-1016-j-buildenv-2021-107841",
@@ -8057,7 +8057,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 6,
-      "rank": 276
+      "rank": 275
     },
     {
       "id": "lit-10-1016-j-solener-2021-09-062",
@@ -8085,7 +8085,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling porous polymer film",
       "order": 12,
-      "rank": 277
+      "rank": 276
     },
     {
       "id": "lit-10-3390-polym13040505",
@@ -8115,7 +8115,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 19,
-      "rank": 278
+      "rank": 277
     },
     {
       "id": "lit-10-1016-j-solmat-2021-111117",
@@ -8141,7 +8141,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 18,
-      "rank": 279
+      "rank": 278
     },
     {
       "id": "lit-10-1016-j-ceramint-2021-05-180",
@@ -8172,7 +8172,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 5,
-      "rank": 280
+      "rank": 279
     },
     {
       "id": "lit-10-3390-atmos12111379",
@@ -8199,7 +8199,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 14,
-      "rank": 281
+      "rank": 280
     },
     {
       "id": "lit-10-1016-j-enconman-2020-113740",
@@ -8225,7 +8225,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 19,
-      "rank": 282
+      "rank": 281
     },
     {
       "id": "lit-10-1063-5-0064572",
@@ -8255,7 +8255,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 0,
-      "rank": 283
+      "rank": 282
     },
     {
       "id": "lit-10-1007-s12273-021-0802-y",
@@ -8285,7 +8285,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 3,
-      "rank": 284
+      "rank": 283
     },
     {
       "id": "lit-10-1016-j-ceramint-2021-07-286",
@@ -8314,8 +8314,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
-      "order": 13,
-      "rank": 285
+      "order": 14,
+      "rank": 284
     },
     {
       "id": "lit-10-1360-tb-2021-0717",
@@ -8342,7 +8342,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 3,
-      "rank": 286
+      "rank": 285
     },
     {
       "id": "lit-10-1364-ome-434711",
@@ -8371,7 +8371,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 0,
-      "rank": 287
+      "rank": 286
     },
     {
       "id": "lit-10-1039-d1ra06157g",
@@ -8402,7 +8402,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 6,
-      "rank": 288
+      "rank": 287
     },
     {
       "id": "lit-10-1016-j-ceramint-2020-11-197",
@@ -8432,7 +8432,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 7,
-      "rank": 289
+      "rank": 288
     },
     {
       "id": "lit-10-1364-osac-398685",
@@ -8461,7 +8461,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 7,
-      "rank": 290
+      "rank": 289
     },
     {
       "id": "lit-10-1063-5-0035138",
@@ -8490,7 +8490,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 9,
-      "rank": 291
+      "rank": 290
     },
     {
       "id": "lit-10-3390-su13158244",
@@ -8518,7 +8518,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 18,
-      "rank": 292
+      "rank": 291
     },
     {
       "id": "lit-10-1117-1-jpe-12-012112",
@@ -8545,7 +8545,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 0,
-      "rank": 293
+      "rank": 292
     },
     {
       "id": "lit-10-1039-d1tc01455b",
@@ -8572,8 +8572,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
-      "order": 8,
-      "rank": 294
+      "order": 7,
+      "rank": 293
     },
     {
       "id": "lit-10-1007-s11998-021-00528-3",
@@ -8602,7 +8602,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 9,
-      "rank": 295
+      "rank": 294
     },
     {
       "id": "lit-10-3390-atmos12091198",
@@ -8630,7 +8630,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 15,
-      "rank": 296
+      "rank": 295
     },
     {
       "id": "lit-10-1117-1-jpe-11-042108",
@@ -8662,7 +8662,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 4,
-      "rank": 297
+      "rank": 296
     },
     {
       "id": "lit-10-3390-catal11121532",
@@ -8690,7 +8690,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 13,
-      "rank": 298
+      "rank": 297
     },
     {
       "id": "lit-10-1117-1-jnp-15-046008",
@@ -8717,7 +8717,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 0,
-      "rank": 299
+      "rank": 298
     },
     {
       "id": "lit-10-1016-j-ceramint-2020-10-095",
@@ -8744,7 +8744,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 8,
-      "rank": 300
+      "rank": 299
     },
     {
       "id": "lit-10-15625-0868-3166-15443",
@@ -8773,7 +8773,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 7,
-      "rank": 301
+      "rank": 300
     },
     {
       "id": "lit-10-32907-ro-121-1338241921",
@@ -8797,7 +8797,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 14,
-      "rank": 302
+      "rank": 301
     },
     {
       "id": "lit-10-1016-j-joule-2020-04-010",
@@ -8826,7 +8826,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 4,
-      "rank": 303
+      "rank": 302
     },
     {
       "id": "lit-10-1039-d0na00655f",
@@ -8853,7 +8853,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 13,
-      "rank": 304
+      "rank": 303
     },
     {
       "id": "lit-10-1016-j-energy-2019-116322",
@@ -8883,7 +8883,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 21,
-      "rank": 305
+      "rank": 304
     },
     {
       "id": "lit-10-1016-j-jclepro-2020-123119",
@@ -8910,7 +8910,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 18,
-      "rank": 306
+      "rank": 305
     },
     {
       "id": "lit-10-1016-j-enconman-2020-112920",
@@ -8940,7 +8940,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 1,
-      "rank": 307
+      "rank": 306
     },
     {
       "id": "lit-10-1016-j-solmat-2020-110412",
@@ -8970,7 +8970,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 21,
-      "rank": 308
+      "rank": 307
     },
     {
       "id": "lit-10-1016-j-energy-2020-119045",
@@ -9001,7 +9001,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 15,
-      "rank": 309
+      "rank": 308
     },
     {
       "id": "lit-10-1016-j-applthermaleng-2019-114585",
@@ -9029,7 +9029,7 @@
       "retrievedAt": "2026-11-24",
       "query": "passive daytime radiative cooling coating",
       "order": 1,
-      "rank": 310
+      "rank": 309
     },
     {
       "id": "lit-10-1016-j-solmat-2019-110332",
@@ -9059,7 +9059,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 14,
-      "rank": 311
+      "rank": 310
     },
     {
       "id": "lit-10-1016-j-solmat-2019-110319",
@@ -9085,7 +9085,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 20,
-      "rank": 312
+      "rank": 311
     },
     {
       "id": "lit-10-1364-oe-401368",
@@ -9113,7 +9113,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 11,
-      "rank": 313
+      "rank": 312
     },
     {
       "id": "lit-10-1016-j-solmat-2020-110459",
@@ -9138,8 +9138,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
-      "order": 14,
-      "rank": 314
+      "order": 13,
+      "rank": 313
     },
     {
       "id": "lit-10-1016-j-apt-2019-11-025",
@@ -9168,7 +9168,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 8,
-      "rank": 315
+      "rank": 314
     },
     {
       "id": "lit-10-1016-j-matdes-2020-108955",
@@ -9195,7 +9195,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 11,
-      "rank": 316
+      "rank": 315
     },
     {
       "id": "lit-10-1515-znb-2020-0107",
@@ -9221,7 +9221,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 19,
-      "rank": 317
+      "rank": 316
     },
     {
       "id": "lit-10-1007-s00339-020-3291-4",
@@ -9251,7 +9251,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 2,
-      "rank": 318
+      "rank": 317
     },
     {
       "id": "lit-10-3390-app10165399",
@@ -9278,7 +9278,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 17,
-      "rank": 319
+      "rank": 318
     },
     {
       "id": "lit-10-1088-1361-6528-aba7e4",
@@ -9308,7 +9308,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 6,
-      "rank": 320
+      "rank": 319
     },
     {
       "id": "lit-10-1016-j-solmat-2020-110662",
@@ -9334,8 +9334,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
-      "order": 13,
-      "rank": 321
+      "order": 14,
+      "rank": 320
     },
     {
       "id": "lit-10-1007-s00542-020-05091-2",
@@ -9363,7 +9363,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 14,
-      "rank": 322
+      "rank": 321
     },
     {
       "id": "lit-10-5373-jardcs-v12i4-20201437",
@@ -9390,7 +9390,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 21,
-      "rank": 323
+      "rank": 322
     },
     {
       "id": "lit-10-28948-ngumuh-559823",
@@ -9415,7 +9415,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 10,
-      "rank": 324
+      "rank": 323
     },
     {
       "id": "lit-10-1299-jsmemecj-2020-j04305",
@@ -9444,7 +9444,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 17,
-      "rank": 325
+      "rank": 324
     },
     {
       "id": "lit-10-1016-j-joule-2018-10-006",
@@ -9475,7 +9475,7 @@
       "retrievedAt": "2026-11-24",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 2,
-      "rank": 326
+      "rank": 325
     },
     {
       "id": "lit-10-1016-j-coco-2019-08-007",
@@ -9505,7 +9505,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 15,
-      "rank": 327
+      "rank": 326
     },
     {
       "id": "lit-10-1016-j-enbuild-2019-109453",
@@ -9534,7 +9534,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling building energy saving simulation",
       "order": 9,
-      "rank": 328
+      "rank": 327
     },
     {
       "id": "lit-10-1021-acssuschemeng-8b06270",
@@ -9563,7 +9563,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 21,
-      "rank": 329
+      "rank": 328
     },
     {
       "id": "lit-10-1016-j-solener-2019-10-084",
@@ -9591,7 +9591,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 3,
-      "rank": 330
+      "rank": 329
     },
     {
       "id": "lit-10-1016-j-electacta-2018-11-179",
@@ -9621,7 +9621,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze electrochromic near infrared absorption",
       "order": 20,
-      "rank": 331
+      "rank": 330
     },
     {
       "id": "lit-10-1007-s42864-019-00022-9",
@@ -9650,7 +9650,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze nanocomposite dispersion stability",
       "order": 9,
-      "rank": 332
+      "rank": 331
     },
     {
       "id": "lit-10-3390-polym11071203",
@@ -9680,7 +9680,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 4,
-      "rank": 333
+      "rank": 332
     },
     {
       "id": "lit-10-1021-acs-inorgchem-9b00642",
@@ -9709,7 +9709,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 21,
-      "rank": 334
+      "rank": 333
     },
     {
       "id": "lit-10-1016-j-applthermaleng-2018-10-089",
@@ -9734,7 +9734,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 5,
-      "rank": 335
+      "rank": 334
     },
     {
       "id": "lit-10-1063-1-5085374",
@@ -9762,7 +9762,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 7,
-      "rank": 336
+      "rank": 335
     },
     {
       "id": "lit-10-1016-j-solmat-2019-110001",
@@ -9790,7 +9790,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 16,
-      "rank": 337
+      "rank": 336
     },
     {
       "id": "lit-10-1016-j-polymertesting-2019-106144",
@@ -9818,7 +9818,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 19,
-      "rank": 338
+      "rank": 337
     },
     {
       "id": "lit-10-1016-j-materresbull-2018-10-005",
@@ -9848,7 +9848,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 0,
-      "rank": 339
+      "rank": 338
     },
     {
       "id": "lit-10-1016-j-egypro-2019-01-262",
@@ -9876,7 +9876,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 2,
-      "rank": 340
+      "rank": 339
     },
     {
       "id": "lit-10-1016-j-infrared-2019-103019",
@@ -9905,7 +9905,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 2,
-      "rank": 341
+      "rank": 340
     },
     {
       "id": "lit-10-1080-01932691-2018-1484294",
@@ -9932,7 +9932,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 4,
-      "rank": 342
+      "rank": 341
     },
     {
       "id": "lit-10-1016-j-mee-2019-03-004",
@@ -9961,7 +9961,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 5,
-      "rank": 343
+      "rank": 342
     },
     {
       "id": "lit-10-3390-polym11020245",
@@ -9988,7 +9988,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 11,
-      "rank": 344
+      "rank": 343
     },
     {
       "id": "lit-10-1080-01932691-2019-1627883",
@@ -10019,7 +10019,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 3,
-      "rank": 345
+      "rank": 344
     },
     {
       "id": "lit-10-1016-j-egypro-2019-01-260",
@@ -10046,7 +10046,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 2,
-      "rank": 346
+      "rank": 345
     },
     {
       "id": "lit-10-15376-biores-14-2-4157-4170",
@@ -10073,7 +10073,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 9,
-      "rank": 347
+      "rank": 346
     },
     {
       "id": "lit-10-1063-1-5124508",
@@ -10098,7 +10098,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 12,
-      "rank": 348
+      "rank": 347
     },
     {
       "id": "lit-10-31525-ct1-nct03876184",
@@ -10123,7 +10123,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 15,
-      "rank": 349
+      "rank": 348
     },
     {
       "id": "lit-10-1016-j-solmat-2018-01-015",
@@ -10151,7 +10151,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 21,
-      "rank": 350
+      "rank": 349
     },
     {
       "id": "lit-10-1021-acsphotonics-7b01492",
@@ -10182,7 +10182,7 @@
       "retrievedAt": "2026-11-24",
       "query": "silica microsphere radiative cooling paint",
       "order": 1,
-      "rank": 351
+      "rank": 350
     },
     {
       "id": "lit-10-1021-acsami-8b15574",
@@ -10210,7 +10210,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 0,
-      "rank": 352
+      "rank": 351
     },
     {
       "id": "lit-10-1002-adem-201701190",
@@ -10238,7 +10238,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 17,
-      "rank": 353
+      "rank": 352
     },
     {
       "id": "lit-10-1016-j-solener-2018-04-031",
@@ -10265,7 +10265,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 2,
-      "rank": 354
+      "rank": 353
     },
     {
       "id": "lit-10-3390-en12010089",
@@ -10294,7 +10294,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling cooling power measurement standard",
       "order": 13,
-      "rank": 355
+      "rank": 354
     },
     {
       "id": "lit-10-1016-j-apenergy-2018-05-094",
@@ -10322,7 +10322,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 6,
-      "rank": 356
+      "rank": 355
     },
     {
       "id": "lit-10-1016-j-compstruct-2018-02-088",
@@ -10349,7 +10349,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 15,
-      "rank": 357
+      "rank": 356
     },
     {
       "id": "lit-10-1021-acsami-8b17061",
@@ -10380,7 +10380,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 21,
-      "rank": 358
+      "rank": 357
     },
     {
       "id": "lit-10-1016-j-apt-2018-07-001",
@@ -10411,7 +10411,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 19,
-      "rank": 359
+      "rank": 358
     },
     {
       "id": "lit-10-1016-j-mssp-2018-07-033",
@@ -10439,7 +10439,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 13,
-      "rank": 360
+      "rank": 359
     },
     {
       "id": "lit-10-1016-j-solmat-2017-11-025",
@@ -10465,7 +10465,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 0,
-      "rank": 361
+      "rank": 360
     },
     {
       "id": "lit-10-1016-j-matlet-2017-09-116",
@@ -10492,7 +10492,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 3,
-      "rank": 362
+      "rank": 361
     },
     {
       "id": "lit-10-1063-1-5037946",
@@ -10522,7 +10522,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 14,
-      "rank": 363
+      "rank": 362
     },
     {
       "id": "lit-10-1016-j-mee-2018-02-022",
@@ -10550,8 +10550,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
-      "order": 19,
-      "rank": 364
+      "order": 20,
+      "rank": 363
     },
     {
       "id": "lit-10-1007-s11630-018-1041-0",
@@ -10577,7 +10577,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 19,
-      "rank": 365
+      "rank": 364
     },
     {
       "id": "lit-10-1002-adom-201870085",
@@ -10606,7 +10606,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 13,
-      "rank": 366
+      "rank": 365
     },
     {
       "id": "lit-10-1117-1-jpe-9-032710",
@@ -10634,7 +10634,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 1,
-      "rank": 367
+      "rank": 366
     },
     {
       "id": "lit-10-4028-www-scientific-net-kem-776-140",
@@ -10661,7 +10661,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 3,
-      "rank": 368
+      "rank": 367
     },
     {
       "id": "lit-10-1080-00393630-2018-1507706",
@@ -10692,7 +10692,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 10,
-      "rank": 369
+      "rank": 368
     },
     {
       "id": "lit-10-18178-ijmmm-2018-6-1-343",
@@ -10720,7 +10720,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 11,
-      "rank": 370
+      "rank": 369
     },
     {
       "id": "lit-10-18178-ijmmm-2018-6-3-372",
@@ -10748,7 +10748,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 12,
-      "rank": 371
+      "rank": 370
     },
     {
       "id": "lit-10-1051-e3sconf-20185301013",
@@ -10775,7 +10775,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 7,
-      "rank": 372
+      "rank": 371
     },
     {
       "id": "lit-10-1016-j-fopow-2018-09-031",
@@ -10799,7 +10799,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 13,
-      "rank": 373
+      "rank": 372
     },
     {
       "id": "lit-10-1016-j-jqsrt-2017-03-046",
@@ -10827,7 +10827,7 @@
       "retrievedAt": "2026-11-24",
       "query": "colored radiative cooling coating optical design",
       "order": 16,
-      "rank": 374
+      "rank": 373
     },
     {
       "id": "lit-10-1021-acsami-7b11582",
@@ -10858,7 +10858,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 10,
-      "rank": 375
+      "rank": 374
     },
     {
       "id": "lit-10-1016-j-applthermaleng-2017-07-019",
@@ -10887,7 +10887,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 12,
-      "rank": 376
+      "rank": 375
     },
     {
       "id": "lit-10-1016-j-enbuild-2017-01-001",
@@ -10914,7 +10914,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 14,
-      "rank": 377
+      "rank": 376
     },
     {
       "id": "lit-10-1002-app-45852",
@@ -10943,7 +10943,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze nanocomposite dispersion stability",
       "order": 21,
-      "rank": 378
+      "rank": 377
     },
     {
       "id": "lit-10-1016-j-apenergy-2017-08-041",
@@ -10972,7 +10972,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 21,
-      "rank": 379
+      "rank": 378
     },
     {
       "id": "lit-10-1177-0021998317730895",
@@ -11002,7 +11002,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 10,
-      "rank": 380
+      "rank": 379
     },
     {
       "id": "lit-10-1007-s11998-016-9888-z",
@@ -11029,7 +11029,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 9,
-      "rank": 381
+      "rank": 380
     },
     {
       "id": "lit-10-1007-s11051-017-3783-0",
@@ -11061,7 +11061,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 16,
-      "rank": 382
+      "rank": 381
     },
     {
       "id": "lit-10-1039-c5nr09147k",
@@ -11090,7 +11090,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze electrochromic near infrared absorption",
       "order": 0,
-      "rank": 383
+      "rank": 382
     },
     {
       "id": "lit-10-1016-j-solmat-2015-09-033",
@@ -11121,7 +11121,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 12,
-      "rank": 384
+      "rank": 383
     },
     {
       "id": "lit-10-1016-j-energy-2015-12-134",
@@ -11148,7 +11148,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 0,
-      "rank": 385
+      "rank": 384
     },
     {
       "id": "lit-10-1016-j-porgcoat-2016-07-018",
@@ -11176,7 +11176,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 6,
-      "rank": 386
+      "rank": 385
     },
     {
       "id": "lit-10-1016-j-buildenv-2016-05-004",
@@ -11204,7 +11204,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 2,
-      "rank": 387
+      "rank": 386
     },
     {
       "id": "lit-10-1016-j-tsf-2015-12-004",
@@ -11230,8 +11230,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
-      "order": 20,
-      "rank": 388
+      "order": 18,
+      "rank": 387
     },
     {
       "id": "lit-10-1016-j-solmat-2015-12-004",
@@ -11263,7 +11263,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 8,
-      "rank": 389
+      "rank": 388
     },
     {
       "id": "lit-10-1016-j-solener-2015-12-027",
@@ -11289,7 +11289,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 4,
-      "rank": 390
+      "rank": 389
     },
     {
       "id": "lit-10-1016-j-jcis-2015-11-006",
@@ -11317,7 +11317,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 8,
-      "rank": 391
+      "rank": 390
     },
     {
       "id": "lit-10-4028-www-scientific-net-kem-680-525",
@@ -11344,7 +11344,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 18,
-      "rank": 392
+      "rank": 391
     },
     {
       "id": "lit-10-1556-566-2015-0001",
@@ -11372,7 +11372,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 18,
-      "rank": 393
+      "rank": 392
     },
     {
       "id": "lit-10-1016-j-enconman-2015-02-062",
@@ -11399,7 +11399,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 3,
-      "rank": 394
+      "rank": 393
     },
     {
       "id": "lit-10-1016-j-solmat-2014-11-002",
@@ -11427,7 +11427,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 18,
-      "rank": 395
+      "rank": 394
     },
     {
       "id": "lit-10-1016-j-enbuild-2015-06-053",
@@ -11453,7 +11453,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 15,
-      "rank": 396
+      "rank": 395
     },
     {
       "id": "lit-10-1039-c4ra12471e",
@@ -11483,7 +11483,7 @@
       "retrievedAt": "2026-11-24",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 19,
-      "rank": 397
+      "rank": 396
     },
     {
       "id": "lit-10-1155-2015-786709",
@@ -11511,7 +11511,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 11,
-      "rank": 398
+      "rank": 397
     },
     {
       "id": "lit-10-1016-j-jafrearsci-2014-12-005",
@@ -11537,7 +11537,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 12,
-      "rank": 399
+      "rank": 398
     },
     {
       "id": "lit-10-1080-01932691-2015-1053145",
@@ -11563,7 +11563,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 20,
-      "rank": 400
+      "rank": 399
     },
     {
       "id": "lit-10-1016-j-proeng-2015-10-059",
@@ -11588,7 +11588,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 18,
-      "rank": 401
+      "rank": 400
     },
     {
       "id": "lit-10-5539-mas-v9n13p231",
@@ -11617,7 +11617,7 @@
       "retrievedAt": "2026-11-24",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 9,
-      "rank": 402
+      "rank": 401
     },
     {
       "id": "lit-10-1007-s10854-015-2841-6",
@@ -11646,8 +11646,8 @@
       "source": "Crossref REST API",
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
-      "order": 18,
-      "rank": 403
+      "order": 19,
+      "rank": 402
     },
     {
       "id": "lit-10-1177-0021998315602943",
@@ -11673,7 +11673,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 8,
-      "rank": 404
+      "rank": 403
     },
     {
       "id": "lit-10-2174-1573413711666150202233657",
@@ -11699,7 +11699,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 7,
-      "rank": 405
+      "rank": 404
     },
     {
       "id": "lit-10-15199-62-2015-8-20",
@@ -11724,7 +11724,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 0,
-      "rank": 406
+      "rank": 405
     },
     {
       "id": "lit-10-1016-j-enbuild-2014-04-012",
@@ -11751,7 +11751,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 17,
-      "rank": 407
+      "rank": 406
     },
     {
       "id": "lit-10-1007-s00107-014-0791-y",
@@ -11779,7 +11779,7 @@
       "retrievedAt": "2026-11-24",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 1,
-      "rank": 408
+      "rank": 407
     },
     {
       "id": "lit-10-1088-0960-1317-24-4-045023",
@@ -11808,7 +11808,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 16,
-      "rank": 409
+      "rank": 408
     },
     {
       "id": "lit-10-1116-1-4901877",
@@ -11835,7 +11835,7 @@
       "retrievedAt": "2026-11-24",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 7,
-      "rank": 410
+      "rank": 409
     },
     {
       "id": "lit-10-1007-s00396-014-3372-z",
@@ -11865,7 +11865,7 @@
       "retrievedAt": "2026-11-24",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 14,
-      "rank": 411
+      "rank": 410
     },
     {
       "id": "lit-10-1016-j-solmat-2013-10-038",
@@ -11893,7 +11893,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 13,
-      "rank": 412
+      "rank": 411
     },
     {
       "id": "lit-10-1186-1556-276x-9-294",
@@ -11925,7 +11925,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 1,
-      "rank": 413
+      "rank": 412
     },
     {
       "id": "lit-10-1016-j-solener-2014-02-027",
@@ -11955,7 +11955,7 @@
       "retrievedAt": "2026-11-24",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 20,
-      "rank": 414
+      "rank": 413
     },
     {
       "id": "lit-10-1179-1753555714y-0000000145",
@@ -11985,7 +11985,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze electrochromic near infrared absorption",
       "order": 11,
-      "rank": 415
+      "rank": 414
     },
     {
       "id": "lit-10-1016-j-solmat-2013-10-025",
@@ -12016,7 +12016,7 @@
       "retrievedAt": "2026-11-24",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 20,
-      "rank": 416
+      "rank": 415
     }
   ]
 }
