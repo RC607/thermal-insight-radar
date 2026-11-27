@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generatedAt": "2026-11-26T22:19:35.698Z",
+    "generatedAt": "2026-11-27T22:18:55.637Z",
     "provider": "Crossref REST API (https://api.crossref.org)",
     "license": "Crossref 元数据按开放政策提供；摘要版权归原出版方",
     "filter": "from-pub-date:2014-01-01, type:journal-article",
-    "total": 415,
-    "crossrefItems": 415,
+    "total": 416,
+    "crossrefItems": 416,
     "manualKept": 0,
     "queries": [
       {
@@ -36,7 +36,7 @@
       {
         "query": "cesium tungsten bronze nanocomposite dispersion stability",
         "returned": 22,
-        "added": 2
+        "added": 3
       },
       {
         "query": "tungsten bronze electrochromic near infrared absorption",
@@ -142,7 +142,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 2,
       "rank": 1
@@ -170,7 +170,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 0,
       "rank": 2
@@ -202,7 +202,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 13,
       "rank": 3
@@ -232,9 +232,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
-      "order": 20,
+      "order": 21,
       "rank": 4
     },
     {
@@ -261,10 +261,40 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 9,
       "rank": 5
+    },
+    {
+      "id": "lit-10-1002-smll-202513462",
+      "title": "Ultrathin and High‐Efficiency Passive Daytime Radiative Cooling Coating via Polymer‐Particle Co‐Design",
+      "authors": [
+        "Yiwei Fu",
+        "Yuxu Wang",
+        "Yitong Ding",
+        "Ze Kan"
+      ],
+      "authorCount": 4,
+      "journal": "Small",
+      "publisher": "Wiley",
+      "year": 2026,
+      "doi": "10.1002/smll.202513462",
+      "url": "https://doi.org/10.1002/smll.202513462",
+      "citations": 9,
+      "abstract": "ABSTRACT Polymer‐based passive daytime radiative cooling (PDRC) coatings can mitigate global warming by reflecting solar radiation and emitting atmospheric transparency window (ATW) band mid‐infrared (MIR) radiation into outer space (∼3 K). However, achieving high solar reflectance ( R sol ) and MIR emissivity (ε MIR ) typically requires considerable thickness, which inevitably increases cost and self‐weight. To fabricate ultrathin coatings with superior optical performance, we propose a polymer‐particle co‐design strategy that fully leverages their synergistic contributions. Specifically, polymers and particles containing functional groups with resonance frequencies matching those in the ATW are selected, while Lorenz‐Mie scattering theory is employed to optimize particle sizes, thereby maximizing cooperative absorption in the ATW and complementary scattering in the solar spectrum. The ",
+      "board": "rc",
+      "subs": [
+        "rc-1",
+        "rc-3",
+        "rc-4"
+      ],
+      "keywords": [],
+      "source": "Crossref REST API",
+      "retrievedAt": "2026-11-27",
+      "query": "passive daytime radiative cooling coating",
+      "order": 2,
+      "rank": 6
     },
     {
       "id": "lit-10-1016-j-apenergy-2026-127716",
@@ -291,39 +321,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 11,
-      "rank": 6
-    },
-    {
-      "id": "lit-10-1002-smll-202513462",
-      "title": "Ultrathin and High‐Efficiency Passive Daytime Radiative Cooling Coating via Polymer‐Particle Co‐Design",
-      "authors": [
-        "Yiwei Fu",
-        "Yuxu Wang",
-        "Yitong Ding",
-        "Ze Kan"
-      ],
-      "authorCount": 4,
-      "journal": "Small",
-      "publisher": "Wiley",
-      "year": 2026,
-      "doi": "10.1002/smll.202513462",
-      "url": "https://doi.org/10.1002/smll.202513462",
-      "citations": 7,
-      "abstract": "ABSTRACT Polymer‐based passive daytime radiative cooling (PDRC) coatings can mitigate global warming by reflecting solar radiation and emitting atmospheric transparency window (ATW) band mid‐infrared (MIR) radiation into outer space (∼3 K). However, achieving high solar reflectance ( R sol ) and MIR emissivity (ε MIR ) typically requires considerable thickness, which inevitably increases cost and self‐weight. To fabricate ultrathin coatings with superior optical performance, we propose a polymer‐particle co‐design strategy that fully leverages their synergistic contributions. Specifically, polymers and particles containing functional groups with resonance frequencies matching those in the ATW are selected, while Lorenz‐Mie scattering theory is employed to optimize particle sizes, thereby maximizing cooperative absorption in the ATW and complementary scattering in the solar spectrum. The ",
-      "board": "rc",
-      "subs": [
-        "rc-1",
-        "rc-3",
-        "rc-4"
-      ],
-      "keywords": [],
-      "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
-      "query": "passive daytime radiative cooling coating",
-      "order": 2,
       "rank": 7
     },
     {
@@ -350,10 +350,41 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 14,
       "rank": 8
+    },
+    {
+      "id": "lit-10-1002-adom-202503473",
+      "title": "Single‐Layer Vivid‐Colored Radiative Cooling Paint Enabled by Ultrahigh NIR Reflectance",
+      "authors": [
+        "Jaein Park",
+        "Seongwoo Park",
+        "Jisung Ha",
+        "Hangyu Lim",
+        "Sangho Kang",
+        "Deokhwan Lee"
+      ],
+      "authorCount": 9,
+      "journal": "Advanced Optical Materials",
+      "publisher": "Wiley",
+      "year": 2026,
+      "doi": "10.1002/adom.202503473",
+      "url": "https://doi.org/10.1002/adom.202503473",
+      "citations": 5,
+      "abstract": "ABSTRACT Radiative cooling is an emerging thermal management technology that cools objects by reflecting solar radiation and emitting heat through the atmospheric transparency window (ATW). Recent studies in radiative cooling have emphasized coating‐ or paint‐based designs for practicality. However, most existing coatings are restricted to white or metallic colors, limiting their use where vivid colors are desired. Colored radiative cooling (CRC) coating is therefore highly valuable, yet many reported designs rely on complex multilayer structures or suffer from performance loss upon coloration. In this study, a single‐layer colored radiative cooling (SCRC) paint that achieves intense coloration and high cooling efficiency is reported. SCRC paints incorporate wide‐bandgap hexagonal boron nitride (h‐BN) particles and hybrid chromatic pigments dispersed in polyurethane (PU) binder. Red, yel",
+      "board": "rc",
+      "subs": [
+        "rc-1",
+        "rc-3"
+      ],
+      "keywords": [],
+      "source": "Crossref REST API",
+      "retrievedAt": "2026-11-27",
+      "query": "colored radiative cooling coating optical design",
+      "order": 14,
+      "rank": 9
     },
     {
       "id": "lit-10-1016-j-apsusc-2025-165270",
@@ -377,10 +408,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 10,
-      "rank": 9
+      "rank": 10
     },
     {
       "id": "lit-10-1016-j-solmat-2025-114039",
@@ -408,10 +439,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 3,
-      "rank": 10
+      "rank": 11
     },
     {
       "id": "lit-10-1016-j-solmat-2025-114119",
@@ -438,10 +469,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 5,
-      "rank": 11
+      "rank": 12
     },
     {
       "id": "lit-10-1016-j-solener-2025-114284",
@@ -465,40 +496,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 17,
-      "rank": 12
-    },
-    {
-      "id": "lit-10-1002-adom-202503473",
-      "title": "Single‐Layer Vivid‐Colored Radiative Cooling Paint Enabled by Ultrahigh NIR Reflectance",
-      "authors": [
-        "Jaein Park",
-        "Seongwoo Park",
-        "Jisung Ha",
-        "Hangyu Lim",
-        "Sangho Kang",
-        "Deokhwan Lee"
-      ],
-      "authorCount": 9,
-      "journal": "Advanced Optical Materials",
-      "publisher": "Wiley",
-      "year": 2026,
-      "doi": "10.1002/adom.202503473",
-      "url": "https://doi.org/10.1002/adom.202503473",
-      "citations": 4,
-      "abstract": "ABSTRACT Radiative cooling is an emerging thermal management technology that cools objects by reflecting solar radiation and emitting heat through the atmospheric transparency window (ATW). Recent studies in radiative cooling have emphasized coating‐ or paint‐based designs for practicality. However, most existing coatings are restricted to white or metallic colors, limiting their use where vivid colors are desired. Colored radiative cooling (CRC) coating is therefore highly valuable, yet many reported designs rely on complex multilayer structures or suffer from performance loss upon coloration. In this study, a single‐layer colored radiative cooling (SCRC) paint that achieves intense coloration and high cooling efficiency is reported. SCRC paints incorporate wide‐bandgap hexagonal boron nitride (h‐BN) particles and hybrid chromatic pigments dispersed in polyurethane (PU) binder. Red, yel",
-      "board": "rc",
-      "subs": [
-        "rc-1",
-        "rc-3"
-      ],
-      "keywords": [],
-      "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
-      "query": "colored radiative cooling coating optical design",
-      "order": 14,
       "rank": 13
     },
     {
@@ -527,7 +527,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 17,
       "rank": 14
@@ -553,7 +553,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 10,
       "rank": 15
@@ -582,7 +582,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 12,
       "rank": 16
@@ -610,7 +610,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 3,
       "rank": 17
@@ -640,7 +640,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 14,
       "rank": 18
@@ -668,7 +668,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 6,
       "rank": 19
@@ -695,9 +695,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
-      "order": 9,
+      "order": 8,
       "rank": 20
     },
     {
@@ -726,7 +726,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 12,
       "rank": 21
@@ -754,9 +754,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 5,
+      "order": 4,
       "rank": 22
     },
     {
@@ -784,7 +784,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 4,
       "rank": 23
@@ -814,7 +814,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 5,
       "rank": 24
@@ -844,9 +844,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
-      "order": 17,
+      "order": 16,
       "rank": 25
     },
     {
@@ -870,7 +870,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 16,
       "rank": 26
@@ -900,7 +900,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 10,
       "rank": 27
@@ -932,7 +932,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 11,
       "rank": 28
@@ -961,7 +961,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 2,
       "rank": 29
@@ -992,7 +992,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 4,
       "rank": 30
@@ -1022,9 +1022,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
-      "order": 10,
+      "order": 9,
       "rank": 31
     },
     {
@@ -1049,9 +1049,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
-      "order": 21,
+      "order": 20,
       "rank": 32
     },
     {
@@ -1079,7 +1079,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 8,
       "rank": 33
@@ -1109,7 +1109,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 12,
       "rank": 34
@@ -1140,7 +1140,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 4,
       "rank": 35
@@ -1171,7 +1171,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 11,
       "rank": 36
@@ -1200,9 +1200,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
-      "order": 16,
+      "order": 20,
       "rank": 37
     },
     {
@@ -1229,7 +1229,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 9,
       "rank": 38
@@ -1255,7 +1255,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 17,
       "rank": 39
@@ -1281,7 +1281,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 20,
       "rank": 40
@@ -1307,7 +1307,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 6,
       "rank": 41
@@ -1336,7 +1336,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 13,
       "rank": 42
@@ -1362,7 +1362,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 16,
       "rank": 43
@@ -1391,7 +1391,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 19,
       "rank": 44
@@ -1419,7 +1419,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 0,
       "rank": 45
@@ -1449,7 +1449,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 19,
       "rank": 46
@@ -1481,7 +1481,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 0,
       "rank": 47
@@ -1507,7 +1507,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 8,
       "rank": 48
@@ -1536,7 +1536,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 9,
       "rank": 49
@@ -1559,7 +1559,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 0,
       "rank": 50
@@ -1587,7 +1587,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 15,
       "rank": 51
@@ -1617,7 +1617,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 11,
       "rank": 52
@@ -1647,7 +1647,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 15,
       "rank": 53
@@ -1677,7 +1677,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 20,
       "rank": 54
@@ -1707,7 +1707,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 11,
       "rank": 55
@@ -1735,7 +1735,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 13,
       "rank": 56
@@ -1765,7 +1765,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 15,
       "rank": 57
@@ -1795,9 +1795,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
-      "order": 18,
+      "order": 17,
       "rank": 58
     },
     {
@@ -1825,9 +1825,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
-      "order": 17,
+      "order": 16,
       "rank": 59
     },
     {
@@ -1850,7 +1850,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 1,
       "rank": 60
@@ -1880,7 +1880,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 9,
       "rank": 61
@@ -1910,7 +1910,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 21,
       "rank": 62
@@ -1937,7 +1937,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 7,
       "rank": 63
@@ -1967,9 +1967,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
-      "order": 18,
+      "order": 19,
       "rank": 64
     },
     {
@@ -1996,7 +1996,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 20,
       "rank": 65
@@ -2026,7 +2026,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 10,
       "rank": 66
@@ -2047,7 +2047,7 @@
       "year": 2025,
       "doi": "10.1016/j.solmat.2025.113812",
       "url": "https://doi.org/10.1016/j.solmat.2025.113812",
-      "citations": 33,
+      "citations": 34,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -2056,7 +2056,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 10,
       "rank": 67
@@ -2078,7 +2078,7 @@
       "year": 2025,
       "doi": "10.1186/s43074-025-00198-z",
       "url": "https://doi.org/10.1186/s43074-025-00198-z",
-      "citations": 30,
+      "citations": 31,
       "abstract": "Abstract Passive daytime radiative cooling (PDRC) is a recently developed zero-carbon cooling technology that harnesses the coldness of the universe as an inexhaustible and environmentally sustainable energy source, holding immense promise for revolutionizing the global energy landscape. Photonic structures with tailored optical responses across solar and thermal wavelengths play pivotal roles in daytime radiative cooling. However, the design of spectrally selective structures with simultaneously high performance, scalable manufacturability and reduced material usage toward real-world deployment remains a significant challenge. Here we report scalable, ultrathin and high-performance selective radiative cooling photonic films by microsphere-polymer coupled metasurface (M-PCM), which consists of subwavelength-thick (~ 8 µm) polymeric elastomer embedded with a monolayer hexagonally close-pa",
       "board": "rc",
       "subs": [
@@ -2088,7 +2088,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 20,
       "rank": 68
@@ -2117,7 +2117,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 14,
       "rank": 69
@@ -2146,7 +2146,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 7,
       "rank": 70
@@ -2177,7 +2177,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 10,
       "rank": 71
@@ -2207,7 +2207,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 6,
       "rank": 72
@@ -2234,10 +2234,69 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 17,
       "rank": 73
+    },
+    {
+      "id": "lit-10-1038-s41467-025-64955-1",
+      "title": "Heteroaromatic π-stacking engineered near-infrared absorption for highly stable near-zero transmittance electrochromic window",
+      "authors": [
+        "Xilu Wu",
+        "Bingwei Bao",
+        "Zhiyuan Bai",
+        "Qingchao Fan",
+        "Chengyi Hou",
+        "Qinghong Zhang"
+      ],
+      "authorCount": 10,
+      "journal": "Nature Communications",
+      "publisher": "Springer Science and Business Media LLC",
+      "year": 2025,
+      "doi": "10.1038/s41467-025-64955-1",
+      "url": "https://doi.org/10.1038/s41467-025-64955-1",
+      "citations": 16,
+      "abstract": "",
+      "board": "dc",
+      "subs": [
+        "dc-4"
+      ],
+      "keywords": [],
+      "source": "Crossref REST API",
+      "retrievedAt": "2026-11-27",
+      "query": "tungsten bronze electrochromic near infrared absorption",
+      "order": 15,
+      "rank": 74
+    },
+    {
+      "id": "lit-10-1016-j-solmat-2025-113567",
+      "title": "Large-scale SiO2 particle integrated superhydrophobic thermal insulating hollow nanofiber film for daytime passive radiative cooling",
+      "authors": [
+        "Lu Wang",
+        "Junwei Fu",
+        "Zhenzhen Sun",
+        "Boyuan Cai"
+      ],
+      "authorCount": 4,
+      "journal": "Solar Energy Materials and Solar Cells",
+      "publisher": "Elsevier BV",
+      "year": 2025,
+      "doi": "10.1016/j.solmat.2025.113567",
+      "url": "https://doi.org/10.1016/j.solmat.2025.113567",
+      "citations": 16,
+      "abstract": "",
+      "board": "rc",
+      "subs": [
+        "rc-1",
+        "rc-4"
+      ],
+      "keywords": [],
+      "source": "Crossref REST API",
+      "retrievedAt": "2026-11-27",
+      "query": "radiative cooling barium sulfate particle solar reflectance",
+      "order": 7,
+      "rank": 75
     },
     {
       "id": "lit-10-1016-j-enbuild-2025-116604",
@@ -2265,39 +2324,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 17,
-      "rank": 74
-    },
-    {
-      "id": "lit-10-1016-j-solmat-2025-113567",
-      "title": "Large-scale SiO2 particle integrated superhydrophobic thermal insulating hollow nanofiber film for daytime passive radiative cooling",
-      "authors": [
-        "Lu Wang",
-        "Junwei Fu",
-        "Zhenzhen Sun",
-        "Boyuan Cai"
-      ],
-      "authorCount": 4,
-      "journal": "Solar Energy Materials and Solar Cells",
-      "publisher": "Elsevier BV",
-      "year": 2025,
-      "doi": "10.1016/j.solmat.2025.113567",
-      "url": "https://doi.org/10.1016/j.solmat.2025.113567",
-      "citations": 15,
-      "abstract": "",
-      "board": "rc",
-      "subs": [
-        "rc-1",
-        "rc-4"
-      ],
-      "keywords": [],
-      "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
-      "query": "radiative cooling barium sulfate particle solar reflectance",
-      "order": 7,
-      "rank": 75
+      "rank": 76
     },
     {
       "id": "lit-10-1016-j-energy-2025-137292",
@@ -2323,39 +2353,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 4,
-      "rank": 76
-    },
-    {
-      "id": "lit-10-1038-s41467-025-64955-1",
-      "title": "Heteroaromatic π-stacking engineered near-infrared absorption for highly stable near-zero transmittance electrochromic window",
-      "authors": [
-        "Xilu Wu",
-        "Bingwei Bao",
-        "Zhiyuan Bai",
-        "Qingchao Fan",
-        "Chengyi Hou",
-        "Qinghong Zhang"
-      ],
-      "authorCount": 10,
-      "journal": "Nature Communications",
-      "publisher": "Springer Science and Business Media LLC",
-      "year": 2025,
-      "doi": "10.1038/s41467-025-64955-1",
-      "url": "https://doi.org/10.1038/s41467-025-64955-1",
-      "citations": 13,
-      "abstract": "",
-      "board": "dc",
-      "subs": [
-        "dc-4"
-      ],
-      "keywords": [],
-      "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
-      "query": "tungsten bronze electrochromic near infrared absorption",
-      "order": 15,
       "rank": 77
     },
     {
@@ -2380,7 +2380,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 3,
       "rank": 78
@@ -2408,7 +2408,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 16,
       "rank": 79
@@ -2434,7 +2434,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 6,
       "rank": 80
@@ -2461,7 +2461,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 2,
       "rank": 81
@@ -2489,7 +2489,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 0,
       "rank": 82
@@ -2519,7 +2519,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 1,
       "rank": 83
@@ -2547,7 +2547,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 1,
       "rank": 84
@@ -2580,9 +2580,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
-      "order": 11,
+      "order": 10,
       "rank": 85
     },
     {
@@ -2608,7 +2608,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 9,
       "rank": 86
@@ -2635,7 +2635,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 9,
       "rank": 87
@@ -2665,7 +2665,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 20,
       "rank": 88
@@ -2691,7 +2691,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 8,
       "rank": 89
@@ -2722,7 +2722,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 3,
       "rank": 90
@@ -2751,9 +2751,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 19,
+      "order": 20,
       "rank": 91
     },
     {
@@ -2779,7 +2779,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 8,
       "rank": 92
@@ -2811,7 +2811,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 4,
       "rank": 93
@@ -2838,7 +2838,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 1,
       "rank": 94
@@ -2865,7 +2865,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 7,
       "rank": 95
@@ -2893,10 +2893,38 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 12,
       "rank": 96
+    },
+    {
+      "id": "lit-10-1002-adom-202402827",
+      "title": "Fluorescent‐Enhanced Radiative Cooling of Colored Cellulose Pulp for Thermal Management and Aesthetic Applications",
+      "authors": [
+        "Qilong Cheng",
+        "Wenhui Xu",
+        "Zhenyuan Niu",
+        "Tian Li"
+      ],
+      "authorCount": 4,
+      "journal": "Advanced Optical Materials",
+      "publisher": "Wiley",
+      "year": 2025,
+      "doi": "10.1002/adom.202402827",
+      "url": "https://doi.org/10.1002/adom.202402827",
+      "citations": 4,
+      "abstract": "Abstract Cellulose serves as a vital building block in various applications, particularly in paper and paperboard industries, where pulp derived from cellulose‐rich sources plays an essential role. However, the traditional pulp is often considered low‐value due to its limited potential for innovation. For instance, conventional pulp retains a brownish color from residual lignin, which restricts its effectiveness in applications that require cooling properties. While bleaching processes can produce white pulp with enhanced solar reflectance, it does not meet the growing demand for colored cellulose products. This study presents a scalable solution that leverages fluorescence to create colored cellulose pulp, enabling the preservation of vibrant colors while mitigating thermal stress. By harnessing photoluminescence with Stokes shift, this approach reduces solar heating effects, achieving ",
+      "board": "rc",
+      "subs": [
+        "rc-2"
+      ],
+      "keywords": [],
+      "source": "Crossref REST API",
+      "retrievedAt": "2026-11-27",
+      "query": "colored radiative cooling coating optical design",
+      "order": 6,
+      "rank": 97
     },
     {
       "id": "lit-10-1002-app-58121",
@@ -2921,10 +2949,37 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 13,
-      "rank": 97
+      "rank": 98
+    },
+    {
+      "id": "lit-10-1016-j-jobe-2025-114001",
+      "title": "Mechanisms of enhanced cooling performance of broken hollow microsphere-based radiative cooling coatings",
+      "authors": [
+        "Xinxian Yu",
+        "Chun Chen"
+      ],
+      "authorCount": 2,
+      "journal": "Journal of Building Engineering",
+      "publisher": "Elsevier BV",
+      "year": 2025,
+      "doi": "10.1016/j.jobe.2025.114001",
+      "url": "https://doi.org/10.1016/j.jobe.2025.114001",
+      "citations": 3,
+      "abstract": "",
+      "board": "rc",
+      "subs": [
+        "rc-1",
+        "rc-3"
+      ],
+      "keywords": [],
+      "source": "Crossref REST API",
+      "retrievedAt": "2026-11-27",
+      "query": "silica microsphere radiative cooling paint",
+      "order": 6,
+      "rank": 99
     },
     {
       "id": "lit-10-3390-solids6030037",
@@ -2947,10 +3002,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 6,
-      "rank": 98
+      "rank": 100
     },
     {
       "id": "lit-10-1016-j-cej-2025-171497",
@@ -2977,10 +3032,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 2,
-      "rank": 99
+      "rank": 101
     },
     {
       "id": "lit-10-3390-polym17212907",
@@ -3007,38 +3062,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 21,
-      "rank": 100
-    },
-    {
-      "id": "lit-10-1002-adom-202402827",
-      "title": "Fluorescent‐Enhanced Radiative Cooling of Colored Cellulose Pulp for Thermal Management and Aesthetic Applications",
-      "authors": [
-        "Qilong Cheng",
-        "Wenhui Xu",
-        "Zhenyuan Niu",
-        "Tian Li"
-      ],
-      "authorCount": 4,
-      "journal": "Advanced Optical Materials",
-      "publisher": "Wiley",
-      "year": 2025,
-      "doi": "10.1002/adom.202402827",
-      "url": "https://doi.org/10.1002/adom.202402827",
-      "citations": 3,
-      "abstract": "Abstract Cellulose serves as a vital building block in various applications, particularly in paper and paperboard industries, where pulp derived from cellulose‐rich sources plays an essential role. However, the traditional pulp is often considered low‐value due to its limited potential for innovation. For instance, conventional pulp retains a brownish color from residual lignin, which restricts its effectiveness in applications that require cooling properties. While bleaching processes can produce white pulp with enhanced solar reflectance, it does not meet the growing demand for colored cellulose products. This study presents a scalable solution that leverages fluorescence to create colored cellulose pulp, enabling the preservation of vibrant colors while mitigating thermal stress. By harnessing photoluminescence with Stokes shift, this approach reduces solar heating effects, achieving ",
-      "board": "rc",
-      "subs": [
-        "rc-2"
-      ],
-      "keywords": [],
-      "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
-      "query": "colored radiative cooling coating optical design",
-      "order": 6,
-      "rank": 101
+      "rank": 102
     },
     {
       "id": "lit-10-1016-j-csite-2025-106439",
@@ -3061,36 +3088,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 18,
-      "rank": 102
-    },
-    {
-      "id": "lit-10-1016-j-jobe-2025-114001",
-      "title": "Mechanisms of enhanced cooling performance of broken hollow microsphere-based radiative cooling coatings",
-      "authors": [
-        "Xinxian Yu",
-        "Chun Chen"
-      ],
-      "authorCount": 2,
-      "journal": "Journal of Building Engineering",
-      "publisher": "Elsevier BV",
-      "year": 2025,
-      "doi": "10.1016/j.jobe.2025.114001",
-      "url": "https://doi.org/10.1016/j.jobe.2025.114001",
-      "citations": 2,
-      "abstract": "",
-      "board": "rc",
-      "subs": [
-        "rc-1",
-        "rc-3"
-      ],
-      "keywords": [],
-      "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
-      "query": "silica microsphere radiative cooling paint",
-      "order": 6,
       "rank": 103
     },
     {
@@ -3119,9 +3119,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
-      "order": 14,
+      "order": 13,
       "rank": 104
     },
     {
@@ -3148,7 +3148,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 15,
       "rank": 105
@@ -3175,7 +3175,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 14,
       "rank": 106
@@ -3206,7 +3206,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 2,
       "rank": 107
@@ -3237,7 +3237,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 15,
       "rank": 108
@@ -3263,7 +3263,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 21,
       "rank": 109
@@ -3289,7 +3289,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze electrochromic near infrared absorption",
       "order": 21,
       "rank": 110
@@ -3315,7 +3315,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 0,
       "rank": 111
@@ -3343,7 +3343,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 8,
       "rank": 112
@@ -3371,7 +3371,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 15,
       "rank": 113
@@ -3395,7 +3395,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 16,
       "rank": 114
@@ -3425,9 +3425,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
-      "order": 14,
+      "order": 13,
       "rank": 115
     },
     {
@@ -3457,7 +3457,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 10,
       "rank": 116
@@ -3485,7 +3485,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 21,
       "rank": 117
@@ -3515,7 +3515,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 8,
       "rank": 118
@@ -3537,7 +3537,7 @@
       "year": 2024,
       "doi": "10.1016/j.jechem.2023.11.016",
       "url": "https://doi.org/10.1016/j.jechem.2023.11.016",
-      "citations": 135,
+      "citations": 136,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -3546,9 +3546,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
-      "order": 21,
+      "order": 20,
       "rank": 119
     },
     {
@@ -3573,9 +3573,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 1,
+      "order": 0,
       "rank": 120
     },
     {
@@ -3604,7 +3604,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 2,
       "rank": 121
@@ -3632,7 +3632,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 19,
       "rank": 122
@@ -3662,7 +3662,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 19,
       "rank": 123
@@ -3690,7 +3690,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 16,
       "rank": 124
@@ -3710,7 +3710,7 @@
       "year": 2024,
       "doi": "10.1016/j.cej.2024.152637",
       "url": "https://doi.org/10.1016/j.cej.2024.152637",
-      "citations": 50,
+      "citations": 51,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -3718,7 +3718,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 0,
       "rank": 125
@@ -3748,7 +3748,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 10,
       "rank": 126
@@ -3777,7 +3777,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 12,
       "rank": 127
@@ -3804,7 +3804,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 16,
       "rank": 128
@@ -3826,7 +3826,7 @@
       "year": 2024,
       "doi": "10.1007/s12273-024-1137-2",
       "url": "https://doi.org/10.1007/s12273-024-1137-2",
-      "citations": 33,
+      "citations": 34,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -3834,10 +3834,39 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 17,
       "rank": 129
+    },
+    {
+      "id": "lit-10-1016-j-mtphys-2024-101511",
+      "title": "A Janus film coupling radiative cooling and heating for all-day active/passive personal thermal management",
+      "authors": [
+        "Xin Meng",
+        "Qi Zhao",
+        "Zhaochuan Chen",
+        "Qiang Li",
+        "Xuemei Chen"
+      ],
+      "authorCount": 5,
+      "journal": "Materials Today Physics",
+      "publisher": "Elsevier BV",
+      "year": 2024,
+      "doi": "10.1016/j.mtphys.2024.101511",
+      "url": "https://doi.org/10.1016/j.mtphys.2024.101511",
+      "citations": 26,
+      "abstract": "",
+      "board": "rc",
+      "subs": [
+        "rc-4"
+      ],
+      "keywords": [],
+      "source": "Crossref REST API",
+      "retrievedAt": "2026-11-27",
+      "query": "radiative cooling personal thermal management textile",
+      "order": 21,
+      "rank": 130
     },
     {
       "id": "lit-10-1002-smll-202409611",
@@ -3866,38 +3895,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 5,
-      "rank": 130
-    },
-    {
-      "id": "lit-10-1016-j-mtphys-2024-101511",
-      "title": "A Janus film coupling radiative cooling and heating for all-day active/passive personal thermal management",
-      "authors": [
-        "Xin Meng",
-        "Qi Zhao",
-        "Zhaochuan Chen",
-        "Qiang Li",
-        "Xuemei Chen"
-      ],
-      "authorCount": 5,
-      "journal": "Materials Today Physics",
-      "publisher": "Elsevier BV",
-      "year": 2024,
-      "doi": "10.1016/j.mtphys.2024.101511",
-      "url": "https://doi.org/10.1016/j.mtphys.2024.101511",
-      "citations": 25,
-      "abstract": "",
-      "board": "rc",
-      "subs": [
-        "rc-4"
-      ],
-      "keywords": [],
-      "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
-      "query": "radiative cooling personal thermal management textile",
-      "order": 19,
       "rank": 131
     },
     {
@@ -3924,9 +3924,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
-      "order": 17,
+      "order": 18,
       "rank": 132
     },
     {
@@ -3953,7 +3953,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 11,
       "rank": 133
@@ -3981,7 +3981,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 13,
       "rank": 134
@@ -4012,7 +4012,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 1,
       "rank": 135
@@ -4043,7 +4043,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 7,
       "rank": 136
@@ -4073,7 +4073,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 4,
       "rank": 137
@@ -4102,7 +4102,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 1,
       "rank": 138
@@ -4131,9 +4131,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
-      "order": 15,
+      "order": 14,
       "rank": 139
     },
     {
@@ -4159,7 +4159,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 18,
       "rank": 140
@@ -4189,7 +4189,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 11,
       "rank": 141
@@ -4218,7 +4218,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 2,
       "rank": 142
@@ -4246,7 +4246,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 8,
       "rank": 143
@@ -4277,7 +4277,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 11,
       "rank": 144
@@ -4307,7 +4307,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 4,
       "rank": 145
@@ -4334,7 +4334,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 11,
       "rank": 146
@@ -4364,7 +4364,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 18,
       "rank": 147
@@ -4394,7 +4394,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 10,
       "rank": 148
@@ -4424,7 +4424,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 10,
       "rank": 149
@@ -4454,7 +4454,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 13,
       "rank": 150
@@ -4485,7 +4485,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 6,
       "rank": 151
@@ -4515,7 +4515,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 19,
       "rank": 152
@@ -4545,9 +4545,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
-      "order": 20,
+      "order": 19,
       "rank": 153
     },
     {
@@ -4574,7 +4574,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 5,
       "rank": 154
@@ -4602,7 +4602,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 9,
       "rank": 155
@@ -4630,7 +4630,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 5,
       "rank": 156
@@ -4661,7 +4661,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 10,
       "rank": 157
@@ -4690,7 +4690,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 13,
       "rank": 158
@@ -4719,7 +4719,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 12,
       "rank": 159
@@ -4748,7 +4748,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 7,
       "rank": 160
@@ -4778,7 +4778,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 18,
       "rank": 161
@@ -4807,7 +4807,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 7,
       "rank": 162
@@ -4833,7 +4833,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 5,
       "rank": 163
@@ -4864,7 +4864,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 10,
       "rank": 164
@@ -4891,7 +4891,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 4,
       "rank": 165
@@ -4921,7 +4921,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 9,
       "rank": 166
@@ -4951,7 +4951,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 3,
       "rank": 167
@@ -4979,7 +4979,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 7,
       "rank": 168
@@ -5008,7 +5008,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 12,
       "rank": 169
@@ -5034,7 +5034,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 5,
       "rank": 170
@@ -5064,7 +5064,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 6,
       "rank": 171
@@ -5092,9 +5092,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze electrochromic near infrared absorption",
-      "order": 5,
+      "order": 6,
       "rank": 172
     },
     {
@@ -5118,7 +5118,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 3,
       "rank": 173
@@ -5148,9 +5148,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
-      "order": 3,
+      "order": 4,
       "rank": 174
     },
     {
@@ -5174,7 +5174,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 8,
       "rank": 175
@@ -5199,7 +5199,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 2,
       "rank": 176
@@ -5228,7 +5228,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 8,
       "rank": 177
@@ -5255,7 +5255,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 11,
       "rank": 178
@@ -5280,7 +5280,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 15,
       "rank": 179
@@ -5306,7 +5306,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 1,
       "rank": 180
@@ -5331,7 +5331,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 18,
       "rank": 181
@@ -5361,7 +5361,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 15,
       "rank": 182
@@ -5383,7 +5383,7 @@
       "year": 2023,
       "doi": "10.1016/j.cej.2022.139518",
       "url": "https://doi.org/10.1016/j.cej.2022.139518",
-      "citations": 134,
+      "citations": 135,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -5391,7 +5391,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 16,
       "rank": 183
@@ -5419,7 +5419,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 12,
       "rank": 184
@@ -5446,9 +5446,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
-      "order": 20,
+      "order": 19,
       "rank": 185
     },
     {
@@ -5476,7 +5476,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 3,
       "rank": 186
@@ -5502,7 +5502,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 8,
       "rank": 187
@@ -5523,7 +5523,7 @@
       "year": 2023,
       "doi": "10.1021/acsphotonics.3c00494",
       "url": "https://doi.org/10.1021/acsphotonics.3c00494",
-      "citations": 78,
+      "citations": 79,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -5531,7 +5531,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 18,
       "rank": 188
@@ -5561,7 +5561,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 1,
       "rank": 189
@@ -5589,7 +5589,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 20,
       "rank": 190
@@ -5620,7 +5620,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 15,
       "rank": 191
@@ -5649,7 +5649,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 14,
       "rank": 192
@@ -5682,7 +5682,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 4,
       "rank": 193
@@ -5712,7 +5712,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 12,
       "rank": 194
@@ -5741,7 +5741,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 16,
       "rank": 195
@@ -5772,7 +5772,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 3,
       "rank": 196
@@ -5799,9 +5799,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 17,
+      "order": 18,
       "rank": 197
     },
     {
@@ -5829,7 +5829,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 20,
       "rank": 198
@@ -5859,7 +5859,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 1,
       "rank": 199
@@ -5890,7 +5890,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 5,
       "rank": 200
@@ -5920,7 +5920,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 1,
       "rank": 201
@@ -5950,7 +5950,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 13,
       "rank": 202
@@ -5981,7 +5981,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 14,
       "rank": 203
@@ -6009,7 +6009,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 9,
       "rank": 204
@@ -6038,7 +6038,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 9,
       "rank": 205
@@ -6066,7 +6066,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 13,
       "rank": 206
@@ -6094,7 +6094,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 17,
       "rank": 207
@@ -6125,7 +6125,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 12,
       "rank": 208
@@ -6150,7 +6150,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 0,
       "rank": 209
@@ -6180,7 +6180,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 5,
       "rank": 210
@@ -6211,7 +6211,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 9,
       "rank": 211
@@ -6242,9 +6242,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
-      "order": 20,
+      "order": 19,
       "rank": 212
     },
     {
@@ -6272,7 +6272,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze electrochromic near infrared absorption",
       "order": 12,
       "rank": 213
@@ -6303,7 +6303,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 4,
       "rank": 214
@@ -6332,7 +6332,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze electrochromic near infrared absorption",
       "order": 1,
       "rank": 215
@@ -6361,7 +6361,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 2,
       "rank": 216
@@ -6392,7 +6392,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 1,
       "rank": 217
@@ -6422,7 +6422,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 6,
       "rank": 218
@@ -6448,7 +6448,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 17,
       "rank": 219
@@ -6477,7 +6477,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 10,
       "rank": 220
@@ -6505,7 +6505,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 2,
       "rank": 221
@@ -6535,9 +6535,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 0,
+      "order": 1,
       "rank": 222
     },
     {
@@ -6556,7 +6556,7 @@
       "year": 2022,
       "doi": "10.1016/j.solmat.2022.111954",
       "url": "https://doi.org/10.1016/j.solmat.2022.111954",
-      "citations": 140,
+      "citations": 141,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -6565,7 +6565,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 21,
       "rank": 223
@@ -6585,7 +6585,7 @@
       "year": 2022,
       "doi": "10.1021/acsami.2c01370",
       "url": "https://doi.org/10.1021/acsami.2c01370",
-      "citations": 120,
+      "citations": 121,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -6593,9 +6593,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
-      "order": 17,
+      "order": 18,
       "rank": 224
     },
     {
@@ -6623,7 +6623,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 20,
       "rank": 225
@@ -6642,7 +6642,7 @@
       "year": 2022,
       "doi": "10.1016/j.applthermaleng.2021.117909",
       "url": "https://doi.org/10.1016/j.applthermaleng.2021.117909",
-      "citations": 92,
+      "citations": 93,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -6651,10 +6651,41 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 2,
       "rank": 226
+    },
+    {
+      "id": "lit-10-1016-j-compositesa-2022-106949",
+      "title": "Hollow Core-Shell Particle-Containing Coating for Passive Daytime Radiative Cooling",
+      "authors": [
+        "Dandan Hu",
+        "Shuai Sun",
+        "Peiyao Du",
+        "Xiaoquan Lu",
+        "Hui Zhang",
+        "Zhong Zhang"
+      ],
+      "authorCount": 6,
+      "journal": "Composites Part A: Applied Science and Manufacturing",
+      "publisher": "Elsevier BV",
+      "year": 2022,
+      "doi": "10.1016/j.compositesa.2022.106949",
+      "url": "https://doi.org/10.1016/j.compositesa.2022.106949",
+      "citations": 84,
+      "abstract": "",
+      "board": "rc",
+      "subs": [
+        "rc-1",
+        "rc-3"
+      ],
+      "keywords": [],
+      "source": "Crossref REST API",
+      "retrievedAt": "2026-11-27",
+      "query": "passive daytime radiative cooling coating",
+      "order": 19,
+      "rank": 227
     },
     {
       "id": "lit-10-1021-acsami-2c12400",
@@ -6681,40 +6712,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 21,
-      "rank": 227
-    },
-    {
-      "id": "lit-10-1016-j-compositesa-2022-106949",
-      "title": "Hollow Core-Shell Particle-Containing Coating for Passive Daytime Radiative Cooling",
-      "authors": [
-        "Dandan Hu",
-        "Shuai Sun",
-        "Peiyao Du",
-        "Xiaoquan Lu",
-        "Hui Zhang",
-        "Zhong Zhang"
-      ],
-      "authorCount": 6,
-      "journal": "Composites Part A: Applied Science and Manufacturing",
-      "publisher": "Elsevier BV",
-      "year": 2022,
-      "doi": "10.1016/j.compositesa.2022.106949",
-      "url": "https://doi.org/10.1016/j.compositesa.2022.106949",
-      "citations": 83,
-      "abstract": "",
-      "board": "rc",
-      "subs": [
-        "rc-1",
-        "rc-3"
-      ],
-      "keywords": [],
-      "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
-      "query": "passive daytime radiative cooling coating",
-      "order": 19,
       "rank": 228
     },
     {
@@ -6742,9 +6742,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
-      "order": 19,
+      "order": 17,
       "rank": 229
     },
     {
@@ -6770,7 +6770,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 18,
       "rank": 230
@@ -6800,7 +6800,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 5,
       "rank": 231
@@ -6830,7 +6830,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 16,
       "rank": 232
@@ -6859,9 +6859,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
-      "order": 18,
+      "order": 17,
       "rank": 233
     },
     {
@@ -6889,7 +6889,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 15,
       "rank": 234
@@ -6907,7 +6907,7 @@
       "year": 2022,
       "doi": "10.1021/acsami.2c13727",
       "url": "https://doi.org/10.1021/acsami.2c13727",
-      "citations": 46,
+      "citations": 47,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -6916,9 +6916,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
-      "order": 13,
+      "order": 14,
       "rank": 235
     },
     {
@@ -6944,7 +6944,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 21,
       "rank": 236
@@ -6974,9 +6974,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 8,
+      "order": 7,
       "rank": 237
     },
     {
@@ -7004,7 +7004,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 21,
       "rank": 238
@@ -7034,7 +7034,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 20,
       "rank": 239
@@ -7062,7 +7062,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 6,
       "rank": 240
@@ -7089,9 +7089,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 4,
+      "order": 5,
       "rank": 241
     },
     {
@@ -7120,7 +7120,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 16,
       "rank": 242
@@ -7141,7 +7141,7 @@
       "year": 2022,
       "doi": "10.1016/j.apmt.2021.101298",
       "url": "https://doi.org/10.1016/j.apmt.2021.101298",
-      "citations": 32,
+      "citations": 33,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -7150,9 +7150,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
-      "order": 8,
+      "order": 11,
       "rank": 243
     },
     {
@@ -7171,7 +7171,7 @@
       "year": 2022,
       "doi": "10.1016/j.renene.2022.05.094",
       "url": "https://doi.org/10.1016/j.renene.2022.05.094",
-      "citations": 31,
+      "citations": 32,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -7179,7 +7179,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 10,
       "rank": 244
@@ -7206,7 +7206,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 5,
       "rank": 245
@@ -7234,7 +7234,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 7,
       "rank": 246
@@ -7264,9 +7264,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
-      "order": 18,
+      "order": 17,
       "rank": 247
     },
     {
@@ -7295,7 +7295,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 17,
       "rank": 248
@@ -7325,7 +7325,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 5,
       "rank": 249
@@ -7356,7 +7356,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 15,
       "rank": 250
@@ -7384,7 +7384,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 16,
       "rank": 251
@@ -7412,7 +7412,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 5,
       "rank": 252
@@ -7442,9 +7442,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
-      "order": 4,
+      "order": 3,
       "rank": 253
     },
     {
@@ -7471,7 +7471,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 21,
       "rank": 254
@@ -7499,7 +7499,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 16,
       "rank": 255
@@ -7525,7 +7525,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 8,
       "rank": 256
@@ -7555,7 +7555,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 14,
       "rank": 257
@@ -7581,7 +7581,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 7,
       "rank": 258
@@ -7612,7 +7612,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 7,
       "rank": 259
@@ -7642,7 +7642,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 4,
       "rank": 260
@@ -7667,7 +7667,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 11,
       "rank": 261
@@ -7692,7 +7692,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 14,
       "rank": 262
@@ -7718,7 +7718,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 21,
       "rank": 263
@@ -7743,7 +7743,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 6,
       "rank": 264
@@ -7766,7 +7766,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 13,
       "rank": 265
@@ -7788,7 +7788,7 @@
       "year": 2021,
       "doi": "10.1126/science.abg0291",
       "url": "https://doi.org/10.1126/science.abg0291",
-      "citations": 1095,
+      "citations": 1096,
       "abstract": "A passive turnoff Passive radiative cooling technology uses the infrared atmospheric window to allow outer space to be a cold sink for heat. However, this effect is one that is only helpful for energy savings in the warmer months. Wang et al . and Tang et al . used the metal-insulator transition in tungsten-doped vanadium dioxide to create window glass and a rooftop coating that circumvents this problem by turning off the radiative cooling at lower temperatures. Because the transition is simply temperature dependent, this effect also happens passively. Model simulations suggest that these materials would lead to energy savings year-round across most of the climate zones in the United States. —BG",
       "board": "rc",
       "subs": [
@@ -7797,7 +7797,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 7,
       "rank": 266
@@ -7817,7 +7817,7 @@
       "year": 2021,
       "doi": "10.1021/acsami.1c02368",
       "url": "https://doi.org/10.1021/acsami.1c02368",
-      "citations": 661,
+      "citations": 663,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -7826,9 +7826,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 20,
+      "order": 19,
       "rank": 267
     },
     {
@@ -7848,7 +7848,7 @@
       "year": 2021,
       "doi": "10.1016/j.nanoen.2020.105600",
       "url": "https://doi.org/10.1016/j.nanoen.2020.105600",
-      "citations": 464,
+      "citations": 465,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -7856,7 +7856,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 5,
       "rank": 268
@@ -7887,7 +7887,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 16,
       "rank": 269
@@ -7913,7 +7913,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling personal thermal management textile",
       "order": 3,
       "rank": 270
@@ -7943,9 +7943,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
-      "order": 16,
+      "order": 17,
       "rank": 271
     },
     {
@@ -7971,7 +7971,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 11,
       "rank": 272
@@ -8001,7 +8001,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 6,
       "rank": 273
@@ -8028,7 +8028,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 11,
       "rank": 274
@@ -8054,7 +8054,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 6,
       "rank": 275
@@ -8082,7 +8082,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling porous polymer film",
       "order": 12,
       "rank": 276
@@ -8112,7 +8112,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 19,
       "rank": 277
@@ -8138,9 +8138,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
-      "order": 20,
+      "order": 18,
       "rank": 278
     },
     {
@@ -8169,7 +8169,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 4,
       "rank": 279
@@ -8188,7 +8188,7 @@
       "year": 2021,
       "doi": "10.3390/atmos12111379",
       "url": "https://doi.org/10.3390/atmos12111379",
-      "citations": 39,
+      "citations": 40,
       "abstract": "Thanks to recent advances in nanophotonics and scalable manufacturing of metamaterials, radiative sky cooling has emerged as a “self-reliant” cooling technology with various potential applications. However, not every region across the globe is well suited for the adoption of radiative cooling technologies, depending on the local climate, population density, cooling demand, air conditioning saturation, economic prosperity, etc. Because the atmospheric downward longwave radiation, especially the portion from the atmospheric window (8–13 µm), is substantially affected by weather conditions, the performance of a well-designed radiative cooler can be vastly different across regions and seasons. Here, we first map the global radiative sky cooling potential in the form of net cooling power density. We then further evaluate it based on the global population density and cooling demand. In terms o",
       "board": "rc",
       "subs": [
@@ -8196,7 +8196,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 14,
       "rank": 280
@@ -8222,7 +8222,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 19,
       "rank": 281
@@ -8252,7 +8252,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 0,
       "rank": 282
@@ -8282,7 +8282,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 3,
       "rank": 283
@@ -8312,9 +8312,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
-      "order": 13,
+      "order": 14,
       "rank": 284
     },
     {
@@ -8339,7 +8339,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 3,
       "rank": 285
@@ -8368,7 +8368,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 0,
       "rank": 286
@@ -8399,7 +8399,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 6,
       "rank": 287
@@ -8429,7 +8429,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 7,
       "rank": 288
@@ -8458,9 +8458,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
-      "order": 7,
+      "order": 8,
       "rank": 289
     },
     {
@@ -8487,7 +8487,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 9,
       "rank": 290
@@ -8515,7 +8515,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 19,
       "rank": 291
@@ -8542,7 +8542,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 0,
       "rank": 292
@@ -8570,7 +8570,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 8,
       "rank": 293
@@ -8599,7 +8599,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 9,
       "rank": 294
@@ -8627,7 +8627,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 15,
       "rank": 295
@@ -8659,7 +8659,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 4,
       "rank": 296
@@ -8687,7 +8687,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 13,
       "rank": 297
@@ -8714,7 +8714,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 0,
       "rank": 298
@@ -8741,7 +8741,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 8,
       "rank": 299
@@ -8770,7 +8770,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 7,
       "rank": 300
@@ -8794,7 +8794,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 16,
       "rank": 301
@@ -8814,7 +8814,7 @@
       "year": 2020,
       "doi": "10.1016/j.joule.2020.04.010",
       "url": "https://doi.org/10.1016/j.joule.2020.04.010",
-      "citations": 594,
+      "citations": 595,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -8823,7 +8823,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling slurry scalable manufacturing",
       "order": 4,
       "rank": 302
@@ -8850,7 +8850,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 13,
       "rank": 303
@@ -8880,7 +8880,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 21,
       "rank": 304
@@ -8907,7 +8907,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 18,
       "rank": 305
@@ -8937,7 +8937,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 1,
       "rank": 306
@@ -8967,7 +8967,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 21,
       "rank": 307
@@ -8998,7 +8998,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 15,
       "rank": 308
@@ -9026,7 +9026,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "passive daytime radiative cooling coating",
       "order": 1,
       "rank": 309
@@ -9056,7 +9056,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 14,
       "rank": 310
@@ -9082,9 +9082,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
-      "order": 19,
+      "order": 20,
       "rank": 311
     },
     {
@@ -9110,7 +9110,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 12,
       "rank": 312
@@ -9136,9 +9136,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
-      "order": 13,
+      "order": 14,
       "rank": 313
     },
     {
@@ -9165,7 +9165,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 8,
       "rank": 314
@@ -9192,7 +9192,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 11,
       "rank": 315
@@ -9218,7 +9218,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 19,
       "rank": 316
@@ -9248,7 +9248,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 2,
       "rank": 317
@@ -9275,7 +9275,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 17,
       "rank": 318
@@ -9305,7 +9305,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 6,
       "rank": 319
@@ -9332,9 +9332,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
-      "order": 14,
+      "order": 13,
       "rank": 320
     },
     {
@@ -9360,7 +9360,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 14,
       "rank": 321
@@ -9387,7 +9387,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 21,
       "rank": 322
@@ -9412,7 +9412,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 10,
       "rank": 323
@@ -9441,7 +9441,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 17,
       "rank": 324
@@ -9463,7 +9463,7 @@
       "year": 2019,
       "doi": "10.1016/j.joule.2018.10.006",
       "url": "https://doi.org/10.1016/j.joule.2018.10.006",
-      "citations": 595,
+      "citations": 596,
       "abstract": "",
       "board": "rc",
       "subs": [
@@ -9472,7 +9472,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "subambient daytime radiative cooling emitter design",
       "order": 2,
       "rank": 325
@@ -9502,7 +9502,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 15,
       "rank": 326
@@ -9531,7 +9531,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling building energy saving simulation",
       "order": 9,
       "rank": 327
@@ -9560,7 +9560,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 21,
       "rank": 328
@@ -9588,7 +9588,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 3,
       "rank": 329
@@ -9618,7 +9618,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze electrochromic near infrared absorption",
       "order": 20,
       "rank": 330
@@ -9647,7 +9647,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze nanocomposite dispersion stability",
       "order": 9,
       "rank": 331
@@ -9677,7 +9677,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 4,
       "rank": 332
@@ -9706,7 +9706,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 21,
       "rank": 333
@@ -9731,7 +9731,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 5,
       "rank": 334
@@ -9759,7 +9759,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 7,
       "rank": 335
@@ -9787,7 +9787,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 16,
       "rank": 336
@@ -9815,7 +9815,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 18,
       "rank": 337
@@ -9845,7 +9845,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 0,
       "rank": 338
@@ -9873,7 +9873,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 2,
       "rank": 339
@@ -9902,7 +9902,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 2,
       "rank": 340
@@ -9929,7 +9929,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 4,
       "rank": 341
@@ -9958,7 +9958,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 5,
       "rank": 342
@@ -9985,7 +9985,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 11,
       "rank": 343
@@ -10016,7 +10016,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 3,
       "rank": 344
@@ -10043,7 +10043,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 2,
       "rank": 345
@@ -10070,7 +10070,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 9,
       "rank": 346
@@ -10095,7 +10095,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
       "order": 12,
       "rank": 347
@@ -10120,7 +10120,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 14,
       "rank": 348
@@ -10148,7 +10148,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 21,
       "rank": 349
@@ -10179,7 +10179,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "silica microsphere radiative cooling paint",
       "order": 1,
       "rank": 350
@@ -10207,7 +10207,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 0,
       "rank": 351
@@ -10235,7 +10235,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 17,
       "rank": 352
@@ -10262,7 +10262,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling barium sulfate particle solar reflectance",
       "order": 2,
       "rank": 353
@@ -10291,7 +10291,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling cooling power measurement standard",
       "order": 13,
       "rank": 354
@@ -10319,7 +10319,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 6,
       "rank": 355
@@ -10346,7 +10346,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 15,
       "rank": 356
@@ -10377,7 +10377,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 21,
       "rank": 357
@@ -10408,9 +10408,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
-      "order": 19,
+      "order": 18,
       "rank": 358
     },
     {
@@ -10436,7 +10436,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 12,
       "rank": 359
@@ -10462,7 +10462,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 0,
       "rank": 360
@@ -10489,7 +10489,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze CsxWO3 nanoparticle",
       "order": 3,
       "rank": 361
@@ -10519,7 +10519,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 14,
       "rank": 362
@@ -10548,7 +10548,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 20,
       "rank": 363
@@ -10574,7 +10574,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 19,
       "rank": 364
@@ -10603,7 +10603,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 13,
       "rank": 365
@@ -10631,7 +10631,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 1,
       "rank": 366
@@ -10658,7 +10658,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 3,
       "rank": 367
@@ -10689,7 +10689,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 10,
       "rank": 368
@@ -10717,7 +10717,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 11,
       "rank": 369
@@ -10745,7 +10745,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 12,
       "rank": 370
@@ -10772,7 +10772,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 7,
       "rank": 371
@@ -10796,7 +10796,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 13,
       "rank": 372
@@ -10824,7 +10824,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "colored radiative cooling coating optical design",
       "order": 16,
       "rank": 373
@@ -10855,7 +10855,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 9,
       "rank": 374
@@ -10884,7 +10884,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 12,
       "rank": 375
@@ -10911,7 +10911,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 14,
       "rank": 376
@@ -10940,9 +10940,9 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze nanocomposite dispersion stability",
-      "order": 21,
+      "order": 20,
       "rank": 377
     },
     {
@@ -10969,7 +10969,7 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 21,
       "rank": 378
@@ -10999,10 +10999,39 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 10,
       "rank": 379
+    },
+    {
+      "id": "lit-10-1016-j-scriptamat-2017-04-005",
+      "title": "Epitaxial Ba 2 NdFeNb 4 O 15 -based multiferroic nanocomposite thin films with tetragonal tungsten bronze structure",
+      "authors": [
+        "T. Hajlaoui",
+        "C. Chabanier",
+        "C. Harnagea",
+        "A. Pignolet"
+      ],
+      "authorCount": 4,
+      "journal": "Scripta Materialia",
+      "publisher": "Elsevier BV",
+      "year": 2017,
+      "doi": "10.1016/j.scriptamat.2017.04.005",
+      "url": "https://doi.org/10.1016/j.scriptamat.2017.04.005",
+      "citations": 10,
+      "abstract": "",
+      "board": "dc",
+      "subs": [
+        "dc-1",
+        "dc-4"
+      ],
+      "keywords": [],
+      "source": "Crossref REST API",
+      "retrievedAt": "2026-11-27",
+      "query": "cesium tungsten bronze nanocomposite dispersion stability",
+      "order": 21,
+      "rank": 380
     },
     {
       "id": "lit-10-1007-s11998-016-9888-z",
@@ -11026,10 +11055,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 9,
-      "rank": 380
+      "rank": 381
     },
     {
       "id": "lit-10-1007-s11051-017-3783-0",
@@ -11058,10 +11087,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 15,
-      "rank": 381
+      "rank": 382
     },
     {
       "id": "lit-10-1039-c5nr09147k",
@@ -11087,10 +11116,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze electrochromic near infrared absorption",
       "order": 0,
-      "rank": 382
+      "rank": 383
     },
     {
       "id": "lit-10-1016-j-solmat-2015-09-033",
@@ -11118,10 +11147,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 12,
-      "rank": 383
+      "rank": 384
     },
     {
       "id": "lit-10-1016-j-energy-2015-12-134",
@@ -11145,10 +11174,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 0,
-      "rank": 384
+      "rank": 385
     },
     {
       "id": "lit-10-1016-j-porgcoat-2016-07-018",
@@ -11173,10 +11202,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 6,
-      "rank": 385
+      "rank": 386
     },
     {
       "id": "lit-10-1016-j-buildenv-2016-05-004",
@@ -11201,10 +11230,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 2,
-      "rank": 386
+      "rank": 387
     },
     {
       "id": "lit-10-1016-j-tsf-2015-12-004",
@@ -11228,10 +11257,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
-      "order": 18,
-      "rank": 387
+      "order": 19,
+      "rank": 388
     },
     {
       "id": "lit-10-1016-j-solmat-2015-12-004",
@@ -11260,10 +11289,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 8,
-      "rank": 388
+      "rank": 389
     },
     {
       "id": "lit-10-1016-j-solener-2015-12-027",
@@ -11286,10 +11315,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent thermal insulation glazing laminated glass",
       "order": 4,
-      "rank": 389
+      "rank": 390
     },
     {
       "id": "lit-10-1016-j-jcis-2015-11-006",
@@ -11314,10 +11343,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 8,
-      "rank": 390
+      "rank": 391
     },
     {
       "id": "lit-10-4028-www-scientific-net-kem-680-525",
@@ -11341,10 +11370,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 18,
-      "rank": 391
+      "rank": 392
     },
     {
       "id": "lit-10-1556-566-2015-0001",
@@ -11369,10 +11398,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 18,
-      "rank": 392
+      "rank": 393
     },
     {
       "id": "lit-10-1016-j-enconman-2015-02-062",
@@ -11396,10 +11425,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 3,
-      "rank": 393
+      "rank": 394
     },
     {
       "id": "lit-10-1016-j-solmat-2014-11-002",
@@ -11424,10 +11453,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 18,
-      "rank": 394
+      "rank": 395
     },
     {
       "id": "lit-10-1016-j-enbuild-2015-06-053",
@@ -11450,10 +11479,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 15,
-      "rank": 395
+      "rank": 396
     },
     {
       "id": "lit-10-1039-c4ra12471e",
@@ -11480,10 +11509,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "cesium tungsten bronze near-infrared shielding",
-      "order": 19,
-      "rank": 396
+      "order": 18,
+      "rank": 397
     },
     {
       "id": "lit-10-1155-2015-786709",
@@ -11508,10 +11537,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 11,
-      "rank": 397
+      "rank": 398
     },
     {
       "id": "lit-10-1016-j-jafrearsci-2014-12-005",
@@ -11534,10 +11563,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 12,
-      "rank": 398
+      "rank": 399
     },
     {
       "id": "lit-10-1080-01932691-2015-1053145",
@@ -11560,10 +11589,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 20,
-      "rank": 399
+      "rank": 400
     },
     {
       "id": "lit-10-1016-j-proeng-2015-10-059",
@@ -11585,10 +11614,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
       "order": 18,
-      "rank": 400
+      "rank": 401
     },
     {
       "id": "lit-10-5539-mas-v9n13p231",
@@ -11614,10 +11643,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "near-infrared shielding window film visible transmittance haze",
       "order": 10,
-      "rank": 401
+      "rank": 402
     },
     {
       "id": "lit-10-1007-s10854-015-2841-6",
@@ -11644,10 +11673,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
-      "order": 19,
-      "rank": 402
+      "order": 18,
+      "rank": 403
     },
     {
       "id": "lit-10-1177-0021998315602943",
@@ -11670,10 +11699,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling ceramic hollow microsphere composite",
       "order": 8,
-      "rank": 403
+      "rank": 404
     },
     {
       "id": "lit-10-2174-1573413711666150202233657",
@@ -11696,10 +11725,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 7,
-      "rank": 404
+      "rank": 405
     },
     {
       "id": "lit-10-15199-62-2015-8-20",
@@ -11721,10 +11750,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 0,
-      "rank": 405
+      "rank": 406
     },
     {
       "id": "lit-10-1016-j-enbuild-2014-04-012",
@@ -11748,10 +11777,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 17,
-      "rank": 406
+      "rank": 407
     },
     {
       "id": "lit-10-1007-s00107-014-0791-y",
@@ -11776,10 +11805,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "nanoparticle dispersion coating durability weathering",
       "order": 1,
-      "rank": 407
+      "rank": 408
     },
     {
       "id": "lit-10-1088-0960-1317-24-4-045023",
@@ -11805,10 +11834,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 16,
-      "rank": 408
+      "rank": 409
     },
     {
       "id": "lit-10-1116-1-4901877",
@@ -11832,10 +11861,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "radiative cooling film roll-to-roll fabrication",
       "order": 7,
-      "rank": 409
+      "rank": 410
     },
     {
       "id": "lit-10-1007-s00396-014-3372-z",
@@ -11862,10 +11891,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "CsxWO3 transparent thermal insulation coating",
-      "order": 14,
-      "rank": 410
+      "order": 15,
+      "rank": 411
     },
     {
       "id": "lit-10-1016-j-solmat-2013-10-038",
@@ -11890,10 +11919,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 13,
-      "rank": 411
+      "rank": 412
     },
     {
       "id": "lit-10-1186-1556-276x-9-294",
@@ -11922,10 +11951,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 1,
-      "rank": 412
+      "rank": 413
     },
     {
       "id": "lit-10-1016-j-solener-2014-02-027",
@@ -11952,10 +11981,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "transparent heat insulation coating glass energy saving",
       "order": 20,
-      "rank": 413
+      "rank": 414
     },
     {
       "id": "lit-10-1179-1753555714y-0000000145",
@@ -11982,10 +12011,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze electrochromic near infrared absorption",
       "order": 11,
-      "rank": 414
+      "rank": 415
     },
     {
       "id": "lit-10-1016-j-solmat-2013-10-025",
@@ -12013,10 +12042,10 @@
       ],
       "keywords": [],
       "source": "Crossref REST API",
-      "retrievedAt": "2026-11-26",
+      "retrievedAt": "2026-11-27",
       "query": "tungsten bronze nanoparticle solar control film",
       "order": 20,
-      "rank": 415
+      "rank": 416
     }
   ]
 }
